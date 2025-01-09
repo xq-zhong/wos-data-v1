@@ -1,0 +1,9594 @@
+[
+    {
+      "name": "Harvard University",
+      "year": "2022",
+      "start": 35001,
+      "end": 35878,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "fails": [
+        9
+      ],
+      "rows": 35878
+    },
+    {
+      "name": "Harvard University",
+      "year": "2023",
+      "start": 33001,
+      "end": 33597,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "fails": [
+        6
+      ],
+      "rows": 33597
+    },
+    {
+      "name": "Humboldt University of Berlin",
+      "year": "2016",
+      "start": 5001,
+      "end": 5684,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "fails": [
+        6,
+        7
+      ],
+      "rows": 5684
+    },
+    {
+      "name": "Humboldt University of Berlin",
+      "year": "2018",
+      "start": 6001,
+      "end": 6271,
+      "success": [
+        1
+      ],
+      "fails": [
+        2,
+        3
+      ],
+      "rows": 6271
+    },
+    {
+      "name": "Humboldt University of Berlin",
+      "year": "2019",
+      "start": 6001,
+      "end": 6892,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "fails": [
+        9
+      ],
+      "rows": 6892
+    },
+    {
+      "name": "Humboldt University of Berlin",
+      "year": "2020",
+      "start": 7001,
+      "end": 8000,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "fails": [
+        10
+      ],
+      "rows": 8021
+    },
+    {
+      "name": "Humboldt University of Berlin",
+      "year": "2020",
+      "start": 8001,
+      "end": 8021,
+      "success": [
+        1
+      ],
+      "fails": [],
+      "rows": 8021
+    },
+    {
+      "name": "Humboldt University of Berlin",
+      "year": "2021",
+      "start": 8001,
+      "end": 8963,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "fails": [
+        9,
+        10
+      ],
+      "rows": 8963
+    },
+    {
+      "name": "Humboldt University of Berlin",
+      "year": "2022",
+      "start": 8001,
+      "end": 8682,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "fails": [
+        7
+      ],
+      "rows": 8682
+    },
+    {
+      "name": "Humboldt University of Berlin",
+      "year": "2023",
+      "start": 8001,
+      "end": 8157,
+      "success": [],
+      "fails": [
+        1,
+        2
+      ],
+      "rows": 8157
+    },
+    {
+      "name": "Imperial College London",
+      "year": "2016",
+      "start": 9001,
+      "end": 9633,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "fails": [],
+      "rows": 9633
+    },
+    {
+      "name": "Imperial College London",
+      "year": "2017",
+      "start": 10001,
+      "end": 10323,
+      "success": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "fails": [],
+      "rows": 10323
+    },
+    {
+      "name": "Imperial College London",
+      "year": "2018",
+      "start": 10001,
+      "end": 10286,
+      "success": [
+        1,
+        2,
+        3
+      ],
+      "fails": [],
+      "rows": 10286
+    },
+    {
+      "name": "Imperial College London",
+      "year": "2022",
+      "start": 12001,
+      "end": 12804,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        9
+      ],
+      "fails": [
+        8
+      ],
+      "rows": 12804
+    },
+    {
+      "name": "Imperial College London",
+      "year": "2023",
+      "start": 11001,
+      "end": 11707,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        8
+      ],
+      "fails": [
+        7
+      ],
+      "rows": 11707
+    },
+    {
+      "name": "Indiana University Bloomington",
+      "year": "2017",
+      "start": 4001,
+      "end": 4550,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "fails": [],
+      "rows": 4550
+    },
+    {
+      "name": "Indiana University Bloomington",
+      "year": "2023",
+      "start": 5001,
+      "end": 5486,
+      "success": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "fails": [
+        5
+      ],
+      "rows": 5486
+    },
+    {
+      "name": "Iowa State University",
+      "year": "2019",
+      "start": 3001,
+      "end": 3643,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "fails": [
+        6,
+        7
+      ],
+      "rows": 3643
+    },
+    {
+      "name": "Jagiellonian University",
+      "year": "2017",
+      "start": 2001,
+      "end": 2899,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "fails": [
+        9
+      ],
+      "rows": 2899
+    },
+    {
+      "name": "Jagiellonian University",
+      "year": "2020",
+      "start": 3001,
+      "end": 3644,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "fails": [],
+      "rows": 3644
+    },
+    {
+      "name": "Jilin University",
+      "year": "2023",
+      "start": 10001,
+      "end": 10913,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "fails": [
+        10
+      ],
+      "rows": 10913
+    },
+    {
+      "name": "Johannes Gutenberg University of Mainz",
+      "year": "2015",
+      "start": 2001,
+      "end": 2733,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "fails": [],
+      "rows": 2733
+    },
+    {
+      "name": "Johannes Gutenberg University of Mainz",
+      "year": "2016",
+      "start": 2001,
+      "end": 2913,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "fails": [],
+      "rows": 2913
+    },
+    {
+      "name": "Johannes Gutenberg University of Mainz",
+      "year": "2019",
+      "start": 3001,
+      "end": 3306,
+      "success": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "fails": [],
+      "rows": 3306
+    },
+    {
+      "name": "Johannes Gutenberg University of Mainz",
+      "year": "2023",
+      "start": 3001,
+      "end": 3701,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        8
+      ],
+      "fails": [
+        7
+      ],
+      "rows": 3701
+    },
+    {
+      "name": "Johns Hopkins University",
+      "year": "2020",
+      "start": 15001,
+      "end": 15506,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        6
+      ],
+      "fails": [
+        5
+      ],
+      "rows": 15506
+    },
+    {
+      "name": "Johns Hopkins University",
+      "year": "2022",
+      "start": 16001,
+      "end": 16374,
+      "success": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "fails": [],
+      "rows": 16374
+    },
+    {
+      "name": "King's College London",
+      "year": "2016",
+      "start": 6001,
+      "end": 6512,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "fails": [],
+      "rows": 6512
+    },
+    {
+      "name": "King's College London",
+      "year": "2017",
+      "start": 6001,
+      "end": 6805,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        9
+      ],
+      "fails": [
+        8
+      ],
+      "rows": 6805
+    },
+    {
+      "name": "King's College London",
+      "year": "2018",
+      "start": 7001,
+      "end": 7330,
+      "success": [
+        1,
+        2
+      ],
+      "fails": [
+        3,
+        4
+      ],
+      "rows": 7330
+    },
+    {
+      "name": "King's College London",
+      "year": "2020",
+      "start": 9001,
+      "end": 9254,
+      "success": [
+        1,
+        2
+      ],
+      "fails": [
+        3
+      ],
+      "rows": 9254
+    },
+    {
+      "name": "King's College London",
+      "year": "2021",
+      "start": 10001,
+      "end": 10419,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "fails": [],
+      "rows": 10419
+    },
+    {
+      "name": "King's College London",
+      "year": "2022",
+      "start": 9001,
+      "end": 9532,
+      "success": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "fails": [
+        5,
+        6
+      ],
+      "rows": 9532
+    },
+    {
+      "name": "King's College London",
+      "year": "2023",
+      "start": 9001,
+      "end": 9213,
+      "success": [
+        1,
+        2,
+        3
+      ],
+      "fails": [],
+      "rows": 9213
+    },
+    {
+      "name": "Kyoto University",
+      "year": "2016",
+      "start": 7001,
+      "end": 7046,
+      "success": [
+        1
+      ],
+      "fails": [],
+      "rows": 7046
+    },
+    {
+      "name": "Kyoto University",
+      "year": "2022",
+      "start": 7001,
+      "end": 8000,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "fails": [
+        10
+      ],
+      "rows": 8030
+    },
+    {
+      "name": "Kyushu University",
+      "year": "2016",
+      "start": 4001,
+      "end": 4174,
+      "success": [],
+      "fails": [
+        1,
+        2
+      ],
+      "rows": 4174
+    },
+    {
+      "name": "Kyushu University",
+      "year": "2018",
+      "start": 4001,
+      "end": 4215,
+      "success": [
+        1,
+        3
+      ],
+      "fails": [
+        2
+      ],
+      "rows": 4215
+    },
+    {
+      "name": "Kyushu University",
+      "year": "2021",
+      "start": 4001,
+      "end": 4918,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "fails": [],
+      "rows": 4918
+    },
+    {
+      "name": "Kyushu University",
+      "year": "2022",
+      "start": 4001,
+      "end": 4719,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "fails": [
+        8
+      ],
+      "rows": 4719
+    },
+    {
+      "name": "Kyushu University",
+      "year": "2023",
+      "start": 4001,
+      "end": 4473,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "fails": [],
+      "rows": 4473
+    },
+    {
+      "name": "Lancaster University",
+      "year": "2016",
+      "start": 1001,
+      "end": 2000,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "fails": [],
+      "rows": 2096
+    },
+    {
+      "name": "Lancaster University",
+      "year": "2023",
+      "start": 2001,
+      "end": 2348,
+      "success": [
+        1,
+        2,
+        4
+      ],
+      "fails": [
+        3
+      ],
+      "rows": 2348
+    },
+    {
+      "name": "Lomonosov Moscow State University",
+      "year": "2015",
+      "start": 4001,
+      "end": 4654,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "fails": [],
+      "rows": 4654
+    },
+    {
+      "name": "Lomonosov Moscow State University",
+      "year": "2016",
+      "start": 5001,
+      "end": 5285,
+      "success": [
+        1
+      ],
+      "fails": [
+        2,
+        3
+      ],
+      "rows": 5285
+    },
+    {
+      "name": "Lomonosov Moscow State University",
+      "year": "2017",
+      "start": 5001,
+      "end": 5496,
+      "success": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "fails": [
+        5
+      ],
+      "rows": 5496
+    },
+    {
+      "name": "Lomonosov Moscow State University",
+      "year": "2018",
+      "start": 5001,
+      "end": 5932,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        10
+      ],
+      "fails": [
+        9
+      ],
+      "rows": 5932
+    },
+    {
+      "name": "Lomonosov Moscow State University",
+      "year": "2019",
+      "start": 6001,
+      "end": 6337,
+      "success": [
+        1
+      ],
+      "fails": [
+        2,
+        3,
+        4
+      ],
+      "rows": 6337
+    },
+    {
+      "name": "Lomonosov Moscow State University",
+      "year": "2020",
+      "start": 6001,
+      "end": 6367,
+      "success": [
+        1,
+        2
+      ],
+      "fails": [
+        3,
+        4
+      ],
+      "rows": 6367
+    },
+    {
+      "name": "Lomonosov Moscow State University",
+      "year": "2022",
+      "start": 5001,
+      "end": 5873,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "fails": [
+        9
+      ],
+      "rows": 5873
+    },
+    {
+      "name": "Lund University",
+      "year": "2016",
+      "start": 5001,
+      "end": 5408,
+      "success": [
+        1,
+        2,
+        5
+      ],
+      "fails": [
+        3,
+        4
+      ],
+      "rows": 5408
+    },
+    {
+      "name": "Lund University",
+      "year": "2017",
+      "start": 5001,
+      "end": 5461,
+      "success": [
+        1,
+        2,
+        3
+      ],
+      "fails": [
+        4,
+        5
+      ],
+      "rows": 5461
+    },
+    {
+      "name": "Lund University",
+      "year": "2018",
+      "start": 5001,
+      "end": 5369,
+      "success": [
+        1,
+        2
+      ],
+      "fails": [
+        3,
+        4
+      ],
+      "rows": 5369
+    },
+    {
+      "name": "Lund University",
+      "year": "2019",
+      "start": 5001,
+      "end": 5949,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "fails": [
+        9,
+        10
+      ],
+      "rows": 5949
+    },
+    {
+      "name": "Lund University",
+      "year": "2020",
+      "start": 6001,
+      "end": 6523,
+      "success": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "fails": [
+        5,
+        6
+      ],
+      "rows": 6523
+    },
+    {
+      "name": "Massachusetts Institute of Technology (MIT)",
+      "year": "2015",
+      "start": 8001,
+      "end": 8428,
+      "success": [
+        1,
+        2,
+        3,
+        5
+      ],
+      "fails": [
+        4
+      ],
+      "rows": 8428
+    },
+    {
+      "name": "Massachusetts Institute of Technology (MIT)",
+      "year": "2016",
+      "start": 9001,
+      "end": 9205,
+      "success": [
+        3
+      ],
+      "fails": [
+        1,
+        2
+      ],
+      "rows": 9205
+    },
+    {
+      "name": "Massachusetts Institute of Technology (MIT)",
+      "year": "2018",
+      "start": 9001,
+      "end": 9560,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "fails": [],
+      "rows": 9560
+    },
+    {
+      "name": "Massachusetts Institute of Technology (MIT)",
+      "year": "2019",
+      "start": 9001,
+      "end": 9850,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "fails": [],
+      "rows": 9850
+    },
+    {
+      "name": "Massachusetts Institute of Technology (MIT)",
+      "year": "2020",
+      "start": 9001,
+      "end": 9881,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "fails": [
+        8,
+        9
+      ],
+      "rows": 9881
+    },
+    {
+      "name": "Massachusetts Institute of Technology (MIT)",
+      "year": "2022",
+      "start": 10001,
+      "end": 10252,
+      "success": [
+        1,
+        2
+      ],
+      "fails": [
+        3
+      ],
+      "rows": 10252
+    },
+    {
+      "name": "McGill University",
+      "year": "2016",
+      "start": 7001,
+      "end": 7235,
+      "success": [
+        1
+      ],
+      "fails": [
+        2,
+        3
+      ],
+      "rows": 7235
+    },
+    {
+      "name": "McGill University",
+      "year": "2018",
+      "start": 7001,
+      "end": 7628,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "fails": [
+        6,
+        7
+      ],
+      "rows": 7628
+    },
+    {
+      "name": "McGill University",
+      "year": "2019",
+      "start": 8001,
+      "end": 8504,
+      "success": [
+        1,
+        2,
+        4,
+        6
+      ],
+      "fails": [
+        3,
+        5
+      ],
+      "rows": 8504
+    },
+    {
+      "name": "McGill University",
+      "year": "2020",
+      "start": 8001,
+      "end": 8956,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        6,
+        7,
+        9
+      ],
+      "fails": [
+        5,
+        8,
+        10
+      ],
+      "rows": 8956
+    },
+    {
+      "name": "McGill University",
+      "year": "2023",
+      "start": 9001,
+      "end": 9229,
+      "success": [
+        1
+      ],
+      "fails": [
+        2,
+        3
+      ],
+      "rows": 9229
+    },
+    {
+      "name": "Michigan State University",
+      "year": "2016",
+      "start": 4001,
+      "end": 5000,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "fails": [
+        10
+      ],
+      "rows": 5068
+    },
+    {
+      "name": "Michigan State University",
+      "year": "2018",
+      "start": 5001,
+      "end": 5500,
+      "success": [
+        1,
+        2
+      ],
+      "fails": [
+        3,
+        4,
+        5
+      ],
+      "rows": 5500
+    },
+    {
+      "name": "Michigan State University",
+      "year": "2019",
+      "start": 6001,
+      "end": 6189,
+      "success": [],
+      "fails": [
+        1,
+        2
+      ],
+      "rows": 6189
+    },
+    {
+      "name": "Michigan State University",
+      "year": "2021",
+      "start": 6001,
+      "end": 6925,
+      "success": [
+        1,
+        2,
+        3,
+        5,
+        6,
+        7,
+        8
+      ],
+      "fails": [
+        4,
+        9,
+        10
+      ],
+      "rows": 6925
+    },
+    {
+      "name": "Michigan State University",
+      "year": "2023",
+      "start": 6001,
+      "end": 6239,
+      "success": [
+        1
+      ],
+      "fails": [
+        2,
+        3
+      ],
+      "rows": 6239
+    },
+    {
+      "name": "Monash University",
+      "year": "2021",
+      "start": 13001,
+      "end": 13249,
+      "success": [
+        1
+      ],
+      "fails": [
+        2,
+        3
+      ],
+      "rows": 13249
+    },
+    {
+      "name": "Monash University",
+      "year": "2022",
+      "start": 12001,
+      "end": 12934,
+      "success": [
+        2,
+        3,
+        4,
+        6,
+        7,
+        8
+      ],
+      "fails": [
+        1,
+        5,
+        9,
+        10
+      ],
+      "rows": 12934
+    },
+    {
+      "name": "Nagoya University",
+      "year": "2016",
+      "start": 3001,
+      "end": 3976,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        6,
+        7,
+        8
+      ],
+      "fails": [
+        5,
+        9,
+        10
+      ],
+      "rows": 3976
+    },
+    {
+      "name": "Nagoya University",
+      "year": "2019",
+      "start": 4001,
+      "end": 4590,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "fails": [
+        6
+      ],
+      "rows": 4590
+    },
+    {
+      "name": "Nagoya University",
+      "year": "2022",
+      "start": 4001,
+      "end": 4947,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "fails": [
+        10
+      ],
+      "rows": 4947
+    },
+    {
+      "name": "Nagoya University",
+      "year": "2023",
+      "start": 4001,
+      "end": 4774,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "fails": [
+        7,
+        8
+      ],
+      "rows": 4774
+    },
+    {
+      "name": "Nanjing University",
+      "year": "2023",
+      "start": 11001,
+      "end": 11142,
+      "success": [],
+      "fails": [
+        1,
+        2
+      ],
+      "rows": 11142
+    },
+    {
+      "name": "National & Kapodistrian University of Athens",
+      "year": "2015",
+      "start": 2001,
+      "end": 3000,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "fails": [
+        9,
+        10
+      ],
+      "rows": 3045
+    },
+    {
+      "name": "National & Kapodistrian University of Athens",
+      "year": "2016",
+      "start": 2001,
+      "end": 3000,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        7,
+        8,
+        9
+      ],
+      "fails": [
+        6,
+        10
+      ],
+      "rows": 3112
+    },
+    {
+      "name": "National & Kapodistrian University of Athens",
+      "year": "2016",
+      "start": 3001,
+      "end": 3112,
+      "success": [
+        1,
+        2
+      ],
+      "fails": [],
+      "rows": 3112
+    },
+    {
+      "name": "National & Kapodistrian University of Athens",
+      "year": "2019",
+      "start": 3001,
+      "end": 3827,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "fails": [
+        8,
+        9
+      ],
+      "rows": 3827
+    },
+    {
+      "name": "National & Kapodistrian University of Athens",
+      "year": "2020",
+      "start": 4001,
+      "end": 4384,
+      "success": [
+        1,
+        2,
+        3
+      ],
+      "fails": [
+        4
+      ],
+      "rows": 4384
+    },
+    {
+      "name": "National & Kapodistrian University of Athens",
+      "year": "2021",
+      "start": 4001,
+      "end": 5000,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "fails": [
+        10
+      ],
+      "rows": 5024
+    },
+    {
+      "name": "National & Kapodistrian University of Athens",
+      "year": "2021",
+      "start": 5001,
+      "end": 5024,
+      "success": [
+        1
+      ],
+      "fails": [],
+      "rows": 5024
+    },
+    {
+      "name": "National & Kapodistrian University of Athens",
+      "year": "2022",
+      "start": 4001,
+      "end": 4942,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "fails": [
+        9,
+        10
+      ],
+      "rows": 4942
+    },
+    {
+      "name": "National & Kapodistrian University of Athens",
+      "year": "2023",
+      "start": 4001,
+      "end": 4706,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        8
+      ],
+      "fails": [
+        5,
+        6,
+        7
+      ],
+      "rows": 4706
+    },
+    {
+      "name": "New York University",
+      "year": "2016",
+      "start": 6001,
+      "end": 6784,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "fails": [
+        7,
+        8
+      ],
+      "rows": 6784
+    },
+    {
+      "name": "New York University",
+      "year": "2018",
+      "start": 7001,
+      "end": 7494,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "fails": [],
+      "rows": 7494
+    },
+    {
+      "name": "New York University",
+      "year": "2020",
+      "start": 8001,
+      "end": 8615,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "fails": [],
+      "rows": 8615
+    },
+    {
+      "name": "New York University",
+      "year": "2023",
+      "start": 8001,
+      "end": 8338,
+      "success": [
+        1,
+        2,
+        4
+      ],
+      "fails": [
+        3
+      ],
+      "rows": 8338
+    },
+    {
+      "name": "Northwestern University",
+      "year": "2022",
+      "start": 9001,
+      "end": 9499,
+      "success": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "fails": [
+        5
+      ],
+      "rows": 9499
+    },
+    {
+      "name": "Northwestern University",
+      "year": "2023",
+      "start": 8001,
+      "end": 8843,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        9
+      ],
+      "fails": [
+        8
+      ],
+      "rows": 8843
+    },
+    {
+      "name": "Ohio State University",
+      "year": "2016",
+      "start": 7001,
+      "end": 8000,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "fails": [
+        10
+      ],
+      "rows": 8067
+    },
+    {
+      "name": "Ohio State University",
+      "year": "2017",
+      "start": 8001,
+      "end": 8383,
+      "success": [
+        1,
+        2,
+        4
+      ],
+      "fails": [
+        3
+      ],
+      "rows": 8383
+    },
+    {
+      "name": "Ohio State University",
+      "year": "2018",
+      "start": 8001,
+      "end": 8893,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "fails": [],
+      "rows": 8893
+    },
+    {
+      "name": "Ohio State University",
+      "year": "2019",
+      "start": 9001,
+      "end": 9763,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "fails": [
+        7,
+        8
+      ],
+      "rows": 9763
+    },
+    {
+      "name": "Ohio State University",
+      "year": "2020",
+      "start": 10001,
+      "end": 10729,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "fails": [
+        8
+      ],
+      "rows": 10729
+    },
+    {
+      "name": "Ohio State University",
+      "year": "2021",
+      "start": 10001,
+      "end": 11000,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "fails": [],
+      "rows": 11428
+    },
+    {
+      "name": "Ohio State University",
+      "year": "2021",
+      "start": 11001,
+      "end": 11428,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "fails": [],
+      "rows": 11428
+    },
+    {
+      "name": "Ohio State University",
+      "year": "2022",
+      "start": 11001,
+      "end": 11077,
+      "success": [
+        1
+      ],
+      "fails": [],
+      "rows": 11077
+    },
+    {
+      "name": "Ohio State University",
+      "year": "2022",
+      "start": 5001,
+      "end": 6000,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "fails": [],
+      "rows": 11077
+    },
+    {
+      "name": "Ohio State University",
+      "year": "2023",
+      "start": 10001,
+      "end": 10649,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        7
+      ],
+      "fails": [
+        6
+      ],
+      "rows": 10649
+    },
+    {
+      "name": "Osaka University",
+      "year": "2016",
+      "start": 5001,
+      "end": 5553,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "fails": [],
+      "rows": 5553
+    },
+    {
+      "name": "Osaka University",
+      "year": "2019",
+      "start": 5001,
+      "end": 5913,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        10
+      ],
+      "fails": [
+        9
+      ],
+      "rows": 5913
+    },
+    {
+      "name": "Osaka University",
+      "year": "2020",
+      "start": 6001,
+      "end": 6275,
+      "success": [
+        1,
+        2
+      ],
+      "fails": [
+        3
+      ],
+      "rows": 6275
+    },
+    {
+      "name": "Osaka University",
+      "year": "2021",
+      "start": 6001,
+      "end": 6880,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "fails": [],
+      "rows": 6880
+    },
+    {
+      "name": "Peking University",
+      "year": "2021",
+      "start": 16001,
+      "end": 16585,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "fails": [],
+      "rows": 16585
+    },
+    {
+      "name": "Peking University",
+      "year": "2022",
+      "start": 18001,
+      "end": 19000,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "fails": [
+        10
+      ],
+      "rows": 19015
+    },
+    {
+      "name": "Peking University",
+      "year": "2023",
+      "start": 18001,
+      "end": 18670,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "fails": [],
+      "rows": 18670
+    },
+    {
+      "name": "Peking University",
+      "year": "2024",
+      "start": 17001,
+      "end": 17701,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        8
+      ],
+      "fails": [
+        7
+      ],
+      "rows": 17701
+    },
+    {
+      "name": "Pennsylvania State University",
+      "year": "2023",
+      "start": 8001,
+      "end": 8878,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "fails": [
+        9
+      ],
+      "rows": 8878
+    },
+    {
+      "name": "Pontificia Universidad Catolica de Chile",
+      "year": "2016",
+      "start": 2001,
+      "end": 2164,
+      "success": [
+        1,
+        2
+      ],
+      "fails": [],
+      "rows": 2164
+    },
+    {
+      "name": "Pontificia Universidad Catolica de Chile",
+      "year": "2018",
+      "start": 2001,
+      "end": 2252,
+      "success": [
+        1,
+        2,
+        3
+      ],
+      "fails": [],
+      "rows": 2252
+    },
+    {
+      "name": "Pontificia Universidad Catolica de Chile",
+      "year": "2019",
+      "start": 2001,
+      "end": 2410,
+      "success": [
+        1,
+        2,
+        3,
+        5
+      ],
+      "fails": [
+        4
+      ],
+      "rows": 2410
+    },
+    {
+      "name": "Pontificia Universidad Catolica de Chile",
+      "year": "2023",
+      "start": 2001,
+      "end": 2693,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "fails": [
+        7
+      ],
+      "rows": 2693
+    },
+    {
+      "name": "Princeton University",
+      "year": "2018",
+      "start": 4001,
+      "end": 4585,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "fails": [],
+      "rows": 4585
+    },
+    {
+      "name": "Princeton University",
+      "year": "2019",
+      "start": 4001,
+      "end": 4747,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "fails": [],
+      "rows": 4747
+    },
+    {
+      "name": "Queen Mary University London",
+      "year": "2016",
+      "start": 3001,
+      "end": 3468,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "fails": [],
+      "rows": 3468
+    },
+    {
+      "name": "Queen Mary University London",
+      "year": "2018",
+      "start": 3001,
+      "end": 3869,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "fails": [
+        9
+      ],
+      "rows": 3869
+    },
+    {
+      "name": "Queen Mary University London",
+      "year": "2019",
+      "start": 4001,
+      "end": 4302,
+      "success": [
+        1,
+        2,
+        4
+      ],
+      "fails": [
+        3
+      ],
+      "rows": 4302
+    },
+    {
+      "name": "Queen Mary University London",
+      "year": "2020",
+      "start": 4001,
+      "end": 4746,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "fails": [
+        8
+      ],
+      "rows": 4746
+    },
+    {
+      "name": "Queen Mary University London",
+      "year": "2023",
+      "start": 4001,
+      "end": 4800,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "fails": [
+        8
+      ],
+      "rows": 4800
+    },
+    {
+      "name": "Radboud University Nijmegen",
+      "year": "2016",
+      "start": 4001,
+      "end": 4955,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "fails": [],
+      "rows": 4955
+    },
+    {
+      "name": "Radboud University Nijmegen",
+      "year": "2017",
+      "start": 4001,
+      "end": 4920,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "fails": [],
+      "rows": 4920
+    },
+    {
+      "name": "Radboud University Nijmegen",
+      "year": "2019",
+      "start": 5001,
+      "end": 5794,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        8
+      ],
+      "fails": [
+        7
+      ],
+      "rows": 5794
+    },
+    {
+      "name": "Radboud University Nijmegen",
+      "year": "2022",
+      "start": 6001,
+      "end": 6693,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "fails": [
+        7
+      ],
+      "rows": 6693
+    },
+    {
+      "name": "Radboud University Nijmegen",
+      "year": "2023",
+      "start": 5001,
+      "end": 6000,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "fails": [],
+      "rows": 6087
+    },
+    {
+      "name": "Royal Institute of Technology",
+      "year": "2017",
+      "start": 3001,
+      "end": 3842,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "fails": [],
+      "rows": 3842
+    },
+    {
+      "name": "Royal Institute of Technology",
+      "year": "2018",
+      "start": 3001,
+      "end": 3895,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "fails": [],
+      "rows": 3895
+    },
+    {
+      "name": "Royal Institute of Technology",
+      "year": "2019",
+      "start": 3001,
+      "end": 3856,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "fails": [
+        9
+      ],
+      "rows": 3856
+    },
+    {
+      "name": "Ruprecht Karls University Heidelberg",
+      "year": "2015",
+      "start": 5001,
+      "end": 5656,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "fails": [],
+      "rows": 5656
+    },
+    {
+      "name": "Ruprecht Karls University Heidelberg",
+      "year": "2016",
+      "start": 6001,
+      "end": 6149,
+      "success": [
+        1,
+        2
+      ],
+      "fails": [],
+      "rows": 6149
+    },
+    {
+      "name": "Ruprecht Karls University Heidelberg",
+      "year": "2017",
+      "start": 6001,
+      "end": 6365,
+      "success": [
+        1,
+        2,
+        4
+      ],
+      "fails": [
+        3
+      ],
+      "rows": 6365
+    },
+    {
+      "name": "Ruprecht Karls University Heidelberg",
+      "year": "2018",
+      "start": 6001,
+      "end": 6490,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "fails": [],
+      "rows": 6490
+    },
+    {
+      "name": "Ruprecht Karls University Heidelberg",
+      "year": "2020",
+      "start": 7001,
+      "end": 7661,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "fails": [],
+      "rows": 7661
+    },
+    {
+      "name": "Ruprecht Karls University Heidelberg",
+      "year": "2021",
+      "start": 8001,
+      "end": 8362,
+      "success": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "fails": [],
+      "rows": 8362
+    },
+    {
+      "name": "Ruprecht Karls University Heidelberg",
+      "year": "2022",
+      "start": 7001,
+      "end": 7904,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        10
+      ],
+      "fails": [
+        9
+      ],
+      "rows": 7904
+    },
+    {
+      "name": "Ruprecht Karls University Heidelberg",
+      "year": "2023",
+      "start": 7001,
+      "end": 7606,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        6,
+        7
+      ],
+      "fails": [
+        5
+      ],
+      "rows": 7606
+    },
+    {
+      "name": "Rutgers University New Brunswick",
+      "year": "2019",
+      "start": 6001,
+      "end": 6547,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "fails": [],
+      "rows": 6547
+    },
+    {
+      "name": "Rutgers University New Brunswick",
+      "year": "2023",
+      "start": 6001,
+      "end": 6680,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "fails": [],
+      "rows": 6680
+    },
+    {
+      "name": "Rutgers University New Brunswick",
+      "year": "2024",
+      "start": 5001,
+      "end": 6000,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "fails": [],
+      "rows": 6022
+    },
+    {
+      "name": "RWTH Aachen University",
+      "year": "2019",
+      "start": 5001,
+      "end": 5321,
+      "success": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "fails": [],
+      "rows": 5321
+    },
+    {
+      "name": "RWTH Aachen University",
+      "year": "2023",
+      "start": 5001,
+      "end": 5582,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "fails": [],
+      "rows": 5582
+    },
+    {
+      "name": "Sapienza University Rome",
+      "year": "2015",
+      "start": 6001,
+      "end": 6811,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        9
+      ],
+      "fails": [
+        8
+      ],
+      "rows": 6811
+    },
+    {
+      "name": "Sapienza University Rome",
+      "year": "2016",
+      "start": 6001,
+      "end": 6849,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        9
+      ],
+      "fails": [
+        8
+      ],
+      "rows": 6849
+    },
+    {
+      "name": "Sapienza University Rome",
+      "year": "2017",
+      "start": 6001,
+      "end": 6939,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        10
+      ],
+      "fails": [
+        9
+      ],
+      "rows": 6939
+    },
+    {
+      "name": "Sapienza University Rome",
+      "year": "2018",
+      "start": 6001,
+      "end": 6816,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "fails": [],
+      "rows": 6816
+    },
+    {
+      "name": "Sapienza University Rome",
+      "year": "2019",
+      "start": 7001,
+      "end": 7830,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "fails": [],
+      "rows": 7830
+    },
+    {
+      "name": "Sapienza University Rome",
+      "year": "2021",
+      "start": 9001,
+      "end": 9811,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "fails": [],
+      "rows": 9811
+    },
+    {
+      "name": "Sapienza University Rome",
+      "year": "2022",
+      "start": 9001,
+      "end": 9711,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "fails": [],
+      "rows": 9711
+    },
+    {
+      "name": "Sapienza University Rome",
+      "year": "2023",
+      "start": 9001,
+      "end": 9340,
+      "success": [
+        1,
+        2,
+        4
+      ],
+      "fails": [
+        3
+      ],
+      "rows": 9340
+    },
+    {
+      "name": "Seoul National University (SNU)",
+      "year": "2016",
+      "start": 8001,
+      "end": 8581,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "fails": [],
+      "rows": 8581
+    },
+    {
+      "name": "Seoul National University (SNU)",
+      "year": "2018",
+      "start": 9001,
+      "end": 9370,
+      "success": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "fails": [],
+      "rows": 9370
+    },
+    {
+      "name": "Seoul National University (SNU)",
+      "year": "2019",
+      "start": 9001,
+      "end": 10000,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "fails": [],
+      "rows": 10044
+    },
+    {
+      "name": "Seoul National University (SNU)",
+      "year": "2020",
+      "start": 10001,
+      "end": 10679,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "fails": [],
+      "rows": 10679
+    },
+    {
+      "name": "Seoul National University (SNU)",
+      "year": "2022",
+      "start": 10001,
+      "end": 10906,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        10
+      ],
+      "fails": [
+        9
+      ],
+      "rows": 10906
+    },
+    {
+      "name": "Seoul National University (SNU)",
+      "year": "2022",
+      "start": 4001,
+      "end": 5000,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "fails": [],
+      "rows": 10906
+    },
+    {
+      "name": "Seoul National University (SNU)",
+      "year": "2023",
+      "start": 10001,
+      "end": 10523,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "fails": [],
+      "rows": 10523
+    },
+    {
+      "name": "Shandong University",
+      "year": "2018",
+      "start": 7001,
+      "end": 7786,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "fails": [],
+      "rows": 7786
+    },
+    {
+      "name": "Shandong University",
+      "year": "2023",
+      "start": 13001,
+      "end": 13952,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        10
+      ],
+      "fails": [
+        9
+      ],
+      "rows": 13952
+    },
+    {
+      "name": "Shanghai Jiao Tong University",
+      "year": "2015",
+      "start": 10001,
+      "end": 11000,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "fails": [
+        10
+      ],
+      "rows": 11000
+    },
+    {
+      "name": "Shanghai Jiao Tong University",
+      "year": "2016",
+      "start": 11001,
+      "end": 11930,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        10
+      ],
+      "fails": [
+        9
+      ],
+      "rows": 11930
+    },
+    {
+      "name": "Shanghai Jiao Tong University",
+      "year": "2019",
+      "start": 16001,
+      "end": 16562,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "fails": [
+        6
+      ],
+      "rows": 16562
+    },
+    {
+      "name": "Shanghai Jiao Tong University",
+      "year": "2020",
+      "start": 18001,
+      "end": 18784,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "fails": [],
+      "rows": 18784
+    },
+    {
+      "name": "Shanghai Jiao Tong University",
+      "year": "2023",
+      "start": 23001,
+      "end": 23982,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        10
+      ],
+      "fails": [
+        9
+      ],
+      "rows": 23982
+    },
+    {
+      "name": "Simon Fraser University",
+      "year": "2020",
+      "start": 2001,
+      "end": 2493,
+      "success": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "fails": [
+        5
+      ],
+      "rows": 2493
+    },
+    {
+      "name": "Sorbonne Universite",
+      "year": "2015",
+      "start": 10001,
+      "end": 10749,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "fails": [],
+      "rows": 10749
+    },
+    {
+      "name": "Sorbonne Universite",
+      "year": "2016",
+      "start": 11001,
+      "end": 11282,
+      "success": [
+        1,
+        2,
+        3
+      ],
+      "fails": [],
+      "rows": 11282
+    },
+    {
+      "name": "Sorbonne Universite",
+      "year": "2017",
+      "start": 11001,
+      "end": 11255,
+      "success": [
+        1,
+        2,
+        3
+      ],
+      "fails": [],
+      "rows": 11255
+    },
+    {
+      "name": "Sorbonne Universite",
+      "year": "2018",
+      "start": 11001,
+      "end": 11151,
+      "success": [
+        1
+      ],
+      "fails": [
+        2
+      ],
+      "rows": 11151
+    },
+    {
+      "name": "Sorbonne Universite",
+      "year": "2019",
+      "start": 11001,
+      "end": 11414,
+      "success": [
+        1,
+        2,
+        3,
+        5
+      ],
+      "fails": [
+        4
+      ],
+      "rows": 11414
+    },
+    {
+      "name": "Sorbonne Universite",
+      "year": "2021",
+      "start": 12001,
+      "end": 12638,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "fails": [],
+      "rows": 12638
+    },
+    {
+      "name": "Sorbonne Universite",
+      "year": "2023",
+      "start": 10001,
+      "end": 10997,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "fails": [],
+      "rows": 10997
+    },
+    {
+      "name": "Sorbonne Universite",
+      "year": "2024",
+      "start": 9001,
+      "end": 10000,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "fails": [
+        10
+      ],
+      "rows": 9992
+    },
+    {
+      "name": "Southeast University - China",
+      "year": "2023",
+      "start": 12001,
+      "end": 12999,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "fails": [],
+      "rows": 12999
+    },
+    {
+      "name": "Stanford University",
+      "year": "2019",
+      "start": 13001,
+      "end": 14000,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "fails": [],
+      "rows": 14035
+    },
+    {
+      "name": "Stanford University",
+      "year": "2020",
+      "start": 15001,
+      "end": 15368,
+      "success": [
+        1,
+        2,
+        3
+      ],
+      "fails": [
+        4
+      ],
+      "rows": 15368
+    },
+    {
+      "name": "Stanford University",
+      "year": "2022",
+      "start": 15001,
+      "end": 15261,
+      "success": [
+        1,
+        2
+      ],
+      "fails": [
+        3
+      ],
+      "rows": 15261
+    },
+    {
+      "name": "Stanford University",
+      "year": "2023",
+      "start": 14001,
+      "end": 14621,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        7
+      ],
+      "fails": [
+        6
+      ],
+      "rows": 14621
+    },
+    {
+      "name": "Stockholm University",
+      "year": "2023",
+      "start": 3001,
+      "end": 3642,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "fails": [],
+      "rows": 3642
+    },
+    {
+      "name": "Sun Yat Sen University",
+      "year": "2018",
+      "start": 9001,
+      "end": 9497,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "fails": [],
+      "rows": 9497
+    },
+    {
+      "name": "Sun Yat Sen University",
+      "year": "2020",
+      "start": 13001,
+      "end": 13898,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "fails": [],
+      "rows": 13898
+    },
+    {
+      "name": "Sungkyunkwan University (SKKU)",
+      "year": "2020",
+      "start": 5001,
+      "end": 5748,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "fails": [
+        8
+      ],
+      "rows": 5748
+    },
+    {
+      "name": "Sungkyunkwan University (SKKU)",
+      "year": "2023",
+      "start": 6001,
+      "end": 6547,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        6
+      ],
+      "fails": [
+        5
+      ],
+      "rows": 6547
+    },
+    {
+      "name": "Technion Israel Institute of Technology",
+      "year": "2016",
+      "start": 2001,
+      "end": 2795,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "fails": [],
+      "rows": 2795
+    },
+    {
+      "name": "Technion Israel Institute of Technology",
+      "year": "2023",
+      "start": 3001,
+      "end": 3228,
+      "success": [
+        1,
+        2,
+        3
+      ],
+      "fails": [],
+      "rows": 3228
+    },
+    {
+      "name": "Technische Universitat Dresden",
+      "year": "2019",
+      "start": 4001,
+      "end": 5000,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "fails": [],
+      "rows": 5013
+    },
+    {
+      "name": "Technische Universitat Dresden",
+      "year": "2023",
+      "start": 5001,
+      "end": 5267,
+      "success": [
+        1,
+        2,
+        3
+      ],
+      "fails": [],
+      "rows": 5267
+    },
+    {
+      "name": "Tel Aviv University",
+      "year": "2018",
+      "start": 5001,
+      "end": 5478,
+      "success": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "fails": [
+        5
+      ],
+      "rows": 5478
+    },
+    {
+      "name": "Tel Aviv University",
+      "year": "2019",
+      "start": 5001,
+      "end": 5886,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        9
+      ],
+      "fails": [
+        8
+      ],
+      "rows": 5886
+    },
+    {
+      "name": "Tel Aviv University",
+      "year": "2023",
+      "start": 6001,
+      "end": 6550,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "fails": [],
+      "rows": 6550
+    },
+    {
+      "name": "Tokyo Institute of Technology",
+      "year": "2016",
+      "start": 3001,
+      "end": 3246,
+      "success": [
+        1,
+        2
+      ],
+      "fails": [
+        3
+      ],
+      "rows": 3246
+    },
+    {
+      "name": "Tokyo Institute of Technology",
+      "year": "2019",
+      "start": 3001,
+      "end": 3541,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "fails": [],
+      "rows": 3541
+    },
+    {
+      "name": "Tokyo Institute of Technology",
+      "year": "2023",
+      "start": 3001,
+      "end": 3187,
+      "success": [
+        1,
+        2
+      ],
+      "fails": [],
+      "rows": 3187
+    },
+    {
+      "name": "Tsinghua University",
+      "year": "2015",
+      "start": 10001,
+      "end": 10842,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "fails": [],
+      "rows": 10842
+    },
+    {
+      "name": "Tsinghua University",
+      "year": "2016",
+      "start": 11001,
+      "end": 11650,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "fails": [
+        7
+      ],
+      "rows": 11650
+    },
+    {
+      "name": "Tsinghua University",
+      "year": "2017",
+      "start": 12001,
+      "end": 12797,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "fails": [],
+      "rows": 12797
+    },
+    {
+      "name": "Tsinghua University",
+      "year": "2018",
+      "start": 13001,
+      "end": 13940,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        10
+      ],
+      "fails": [
+        9
+      ],
+      "rows": 13940
+    },
+    {
+      "name": "Tsinghua University",
+      "year": "2020",
+      "start": 15001,
+      "end": 15559,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "fails": [
+        6
+      ],
+      "rows": 15559
+    },
+    {
+      "name": "Tsinghua University",
+      "year": "2021",
+      "start": 17001,
+      "end": 17454,
+      "success": [
+        1,
+        2,
+        3
+      ],
+      "fails": [
+        4,
+        5
+      ],
+      "rows": 17454
+    },
+    {
+      "name": "Tsinghua University",
+      "year": "2022",
+      "start": 18001,
+      "end": 19000,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "fails": [],
+      "rows": 20030
+    },
+    {
+      "name": "Tsinghua University",
+      "year": "2022",
+      "start": 19001,
+      "end": 20000,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "fails": [],
+      "rows": 20030
+    },
+    {
+      "name": "Tsinghua University",
+      "year": "2023",
+      "start": 19001,
+      "end": 19876,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "fails": [],
+      "rows": 19876
+    },
+    {
+      "name": "Tufts University",
+      "year": "2016",
+      "start": 2001,
+      "end": 2445,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "fails": [],
+      "rows": 2445
+    },
+    {
+      "name": "Tufts University",
+      "year": "2023",
+      "start": 2001,
+      "end": 2901,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "fails": [],
+      "rows": 2901
+    },
+    {
+      "name": "Universidade de Coimbra",
+      "year": "2018",
+      "start": 2001,
+      "end": 2798,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "fails": [
+        8
+      ],
+      "rows": 2798
+    },
+    {
+      "name": "Universidade de Coimbra",
+      "year": "2021",
+      "start": 3001,
+      "end": 3701,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        8
+      ],
+      "fails": [
+        7
+      ],
+      "rows": 3701
+    },
+    {
+      "name": "Universidade de Coimbra",
+      "year": "2023",
+      "start": 3001,
+      "end": 3825,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "fails": [
+        9
+      ],
+      "rows": 3825
+    },
+    {
+      "name": "Universidade de Lisboa",
+      "year": "2017",
+      "start": 5001,
+      "end": 5878,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "fails": [],
+      "rows": 5878
+    },
+    {
+      "name": "Universidade de Lisboa",
+      "year": "2018",
+      "start": 5001,
+      "end": 6000,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "fails": [],
+      "rows": 6064
+    },
+    {
+      "name": "Universidade de Lisboa",
+      "year": "2019",
+      "start": 6001,
+      "end": 6397,
+      "success": [
+        1,
+        2
+      ],
+      "fails": [
+        3,
+        4
+      ],
+      "rows": 6397
+    },
+    {
+      "name": "Universidade de Lisboa",
+      "year": "2020",
+      "start": 6001,
+      "end": 7000,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "fails": [
+        10
+      ],
+      "rows": 7006
+    },
+    {
+      "name": "Universidade de Lisboa",
+      "year": "2021",
+      "start": 7001,
+      "end": 7578,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "fails": [
+        6
+      ],
+      "rows": 7578
+    },
+    {
+      "name": "Universidade de Lisboa",
+      "year": "2023",
+      "start": 6001,
+      "end": 6748,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "fails": [],
+      "rows": 6748
+    },
+    {
+      "name": "Universidade de Sao Paulo",
+      "year": "2015",
+      "start": 10001,
+      "end": 10665,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "fails": [
+        7
+      ],
+      "rows": 10665
+    },
+    {
+      "name": "Universidade de Sao Paulo",
+      "year": "2017",
+      "start": 11001,
+      "end": 11400,
+      "success": [
+        1,
+        2,
+        3
+      ],
+      "fails": [
+        4
+      ],
+      "rows": 11400
+    },
+    {
+      "name": "Universidade de Sao Paulo",
+      "year": "2018",
+      "start": 12001,
+      "end": 12212,
+      "success": [
+        1,
+        2,
+        3
+      ],
+      "fails": [],
+      "rows": 12212
+    },
+    {
+      "name": "Universidade de Sao Paulo",
+      "year": "2020",
+      "start": 14001,
+      "end": 14407,
+      "success": [
+        1,
+        2,
+        3,
+        5
+      ],
+      "fails": [
+        4
+      ],
+      "rows": 14407
+    },
+    {
+      "name": "Universidade de Sao Paulo",
+      "year": "2023",
+      "start": 12001,
+      "end": 13000,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "fails": [],
+      "rows": 13032
+    },
+    {
+      "name": "Universidade Estadual de Campinas",
+      "year": "2020",
+      "start": 4001,
+      "end": 5000,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "fails": [],
+      "rows": 4930
+    },
+    {
+      "name": "Universidade Federal do Rio de Janeiro",
+      "year": "2016",
+      "start": 3001,
+      "end": 3375,
+      "success": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "fails": [],
+      "rows": 3375
+    },
+    {
+      "name": "Universidade Federal do Rio de Janeiro",
+      "year": "2018",
+      "start": 3001,
+      "end": 3555,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "fails": [],
+      "rows": 3555
+    },
+    {
+      "name": "Universidade Federal do Rio de Janeiro",
+      "year": "2019",
+      "start": 3001,
+      "end": 3773,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "fails": [],
+      "rows": 3773
+    },
+    {
+      "name": "Universidade Federal do Rio de Janeiro",
+      "year": "2020",
+      "start": 4001,
+      "end": 4126,
+      "success": [
+        1
+      ],
+      "fails": [
+        2
+      ],
+      "rows": 4126
+    },
+    {
+      "name": "Universidade Federal do Rio de Janeiro",
+      "year": "2023",
+      "start": 3001,
+      "end": 3587,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "fails": [],
+      "rows": 3587
+    },
+    {
+      "name": "Universita degli Studi di Bari Aldo Moro",
+      "year": "2019",
+      "start": 2001,
+      "end": 2551,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "fails": [],
+      "rows": 2551
+    },
+    {
+      "name": "Universite Claude Bernard Lyon 1",
+      "year": "2018",
+      "start": 4001,
+      "end": 4588,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "fails": [],
+      "rows": 4588
+    },
+    {
+      "name": "Universite Claude Bernard Lyon 1",
+      "year": "2019",
+      "start": 4001,
+      "end": 4743,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "fails": [],
+      "rows": 4743
+    },
+    {
+      "name": "Universite de Montreal",
+      "year": "2015",
+      "start": 5001,
+      "end": 5448,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "fails": [],
+      "rows": 5448
+    },
+    {
+      "name": "Universite de Montreal",
+      "year": "2016",
+      "start": 5001,
+      "end": 5655,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "fails": [],
+      "rows": 5655
+    },
+    {
+      "name": "Universite de Montreal",
+      "year": "2017",
+      "start": 5001,
+      "end": 5923,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "fails": [],
+      "rows": 5923
+    },
+    {
+      "name": "Universite de Montreal",
+      "year": "2018",
+      "start": 5001,
+      "end": 5933,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "fails": [
+        10
+      ],
+      "rows": 5933
+    },
+    {
+      "name": "Universite de Montreal",
+      "year": "2019",
+      "start": 6001,
+      "end": 6583,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "fails": [],
+      "rows": 6583
+    },
+    {
+      "name": "Universite de Montreal",
+      "year": "2020",
+      "start": 6001,
+      "end": 7000,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "fails": [],
+      "rows": 7045
+    },
+    {
+      "name": "Universite de Montreal",
+      "year": "2021",
+      "start": 7001,
+      "end": 7966,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "fails": [
+        10
+      ],
+      "rows": 7966
+    },
+    {
+      "name": "Universite de Montreal",
+      "year": "2023",
+      "start": 2001,
+      "end": 3000,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "fails": [],
+      "rows": 7294
+    },
+    {
+      "name": "Universite de Montreal",
+      "year": "2023",
+      "start": 7001,
+      "end": 7294,
+      "success": [
+        1,
+        2,
+        3
+      ],
+      "fails": [],
+      "rows": 7294
+    },
+    {
+      "name": "Universite de Strasbourg",
+      "year": "2019",
+      "start": 3001,
+      "end": 3626,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "fails": [],
+      "rows": 3626
+    },
+    {
+      "name": "Universite de Strasbourg",
+      "year": "2023",
+      "start": 3001,
+      "end": 3683,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "fails": [],
+      "rows": 3683
+    },
+    {
+      "name": "Universite Grenoble Alpes (UGA)",
+      "year": "2015",
+      "start": 5001,
+      "end": 5497,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "fails": [],
+      "rows": 5497
+    },
+    {
+      "name": "Universite Grenoble Alpes (UGA)",
+      "year": "2016",
+      "start": 5001,
+      "end": 5993,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "fails": [],
+      "rows": 5993
+    },
+    {
+      "name": "Universite Grenoble Alpes (UGA)",
+      "year": "2018",
+      "start": 5001,
+      "end": 5953,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "fails": [],
+      "rows": 5953
+    },
+    {
+      "name": "Universite Grenoble Alpes (UGA)",
+      "year": "2019",
+      "start": 6001,
+      "end": 6226,
+      "success": [
+        1,
+        2,
+        3
+      ],
+      "fails": [],
+      "rows": 6226
+    },
+    {
+      "name": "Universite Grenoble Alpes (UGA)",
+      "year": "2021",
+      "start": 6001,
+      "end": 6508,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "fails": [],
+      "rows": 6508
+    },
+    {
+      "name": "Universite Grenoble Alpes (UGA)",
+      "year": "2023",
+      "start": 5001,
+      "end": 5761,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "fails": [],
+      "rows": 5761
+    },
+    {
+      "name": "Universite Libre de Bruxelles",
+      "year": "2018",
+      "start": 2001,
+      "end": 2718,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "fails": [],
+      "rows": 2718
+    },
+    {
+      "name": "Universite Libre de Bruxelles",
+      "year": "2019",
+      "start": 2001,
+      "end": 2803,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "fails": [],
+      "rows": 2803
+    },
+    {
+      "name": "Universite Paris Cite",
+      "year": "2015",
+      "start": 11001,
+      "end": 11279,
+      "success": [
+        1,
+        2,
+        3
+      ],
+      "fails": [],
+      "rows": 11279
+    },
+    {
+      "name": "Universite Paris Cite",
+      "year": "2016",
+      "start": 9001,
+      "end": 10000,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "fails": [],
+      "rows": 11829
+    },
+    {
+      "name": "Universite Paris Cite",
+      "year": "2016",
+      "start": 11001,
+      "end": 11829,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "fails": [],
+      "rows": 11829
+    },
+    {
+      "name": "Universite Paris Cite",
+      "year": "2017",
+      "start": 12001,
+      "end": 12452,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "fails": [],
+      "rows": 12452
+    },
+    {
+      "name": "Universite Paris Cite",
+      "year": "2018",
+      "start": 12001,
+      "end": 12625,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "fails": [
+        7
+      ],
+      "rows": 12625
+    },
+    {
+      "name": "Universite Paris Cite",
+      "year": "2019",
+      "start": 12001,
+      "end": 13000,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "fails": [
+        10
+      ],
+      "rows": 13092
+    },
+    {
+      "name": "Universite Paris Cite",
+      "year": "2020",
+      "start": 14001,
+      "end": 14729,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "fails": [],
+      "rows": 14729
+    },
+    {
+      "name": "Universite Paris Cite",
+      "year": "2021",
+      "start": 15001,
+      "end": 16000,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "fails": [],
+      "rows": 15967
+    },
+    {
+      "name": "Universite Paris Cite",
+      "year": "2023",
+      "start": 13001,
+      "end": 14000,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "fails": [
+        10
+      ],
+      "rows": 14048
+    },
+    {
+      "name": "Universite Paris Cite",
+      "year": "2024",
+      "start": 12001,
+      "end": 12607,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "fails": [],
+      "rows": 12607
+    },
+    {
+      "name": "Universite Paris Saclay",
+      "year": "2015",
+      "start": 11001,
+      "end": 11800,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        8
+      ],
+      "fails": [
+        7
+      ],
+      "rows": 11800
+    },
+    {
+      "name": "Universite Paris Saclay",
+      "year": "2016",
+      "start": 12001,
+      "end": 13000,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "fails": [],
+      "rows": 13033
+    },
+    {
+      "name": "Universite Paris Saclay",
+      "year": "2017",
+      "start": 12001,
+      "end": 13000,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "fails": [],
+      "rows": 13107
+    },
+    {
+      "name": "Universite Paris Saclay",
+      "year": "2017",
+      "start": 13001,
+      "end": 13107,
+      "success": [
+        1,
+        2
+      ],
+      "fails": [],
+      "rows": 13107
+    },
+    {
+      "name": "Universite Paris Saclay",
+      "year": "2018",
+      "start": 12001,
+      "end": 12746,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "fails": [
+        8
+      ],
+      "rows": 12746
+    },
+    {
+      "name": "Universite Paris Saclay",
+      "year": "2019",
+      "start": 12001,
+      "end": 12508,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "fails": [],
+      "rows": 12508
+    },
+    {
+      "name": "Universite Paris Saclay",
+      "year": "2020",
+      "start": 12001,
+      "end": 12519,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "fails": [],
+      "rows": 12519
+    },
+    {
+      "name": "Universite Paris Saclay",
+      "year": "2021",
+      "start": 12001,
+      "end": 13000,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "fails": [],
+      "rows": 13131
+    },
+    {
+      "name": "Universite Paris Saclay",
+      "year": "2022",
+      "start": 12001,
+      "end": 12299,
+      "success": [
+        1,
+        2,
+        3
+      ],
+      "fails": [],
+      "rows": 12299
+    },
+    {
+      "name": "Universite Paris Saclay",
+      "year": "2023",
+      "start": 11001,
+      "end": 11633,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "fails": [],
+      "rows": 11633
+    },
+    {
+      "name": "Universite PSL",
+      "year": "2023",
+      "start": 6001,
+      "end": 6572,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "fails": [],
+      "rows": 6572
+    },
+    {
+      "name": "Universite PSL",
+      "year": "2024",
+      "start": 5001,
+      "end": 5923,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "fails": [],
+      "rows": 5923
+    },
+    {
+      "name": "Universiti Malaya",
+      "year": "2015",
+      "start": 3001,
+      "end": 3974,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "fails": [],
+      "rows": 3974
+    },
+    {
+      "name": "Universiti Malaya",
+      "year": "2016",
+      "start": 3001,
+      "end": 4000,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "fails": [
+        10
+      ],
+      "rows": 4044
+    },
+    {
+      "name": "Universiti Malaya",
+      "year": "2018",
+      "start": 3001,
+      "end": 3281,
+      "success": [
+        1,
+        3
+      ],
+      "fails": [
+        2
+      ],
+      "rows": 3281
+    },
+    {
+      "name": "University College Dublin",
+      "year": "2018",
+      "start": 2001,
+      "end": 3000,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "fails": [],
+      "rows": 3041
+    },
+    {
+      "name": "University College Dublin",
+      "year": "2019",
+      "start": 3001,
+      "end": 3526,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "fails": [],
+      "rows": 3526
+    },
+    {
+      "name": "University College London",
+      "year": "2016",
+      "start": 12001,
+      "end": 13000,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "fails": [],
+      "rows": 13103
+    },
+    {
+      "name": "University College London",
+      "year": "2017",
+      "start": 13001,
+      "end": 13626,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "fails": [],
+      "rows": 13626
+    },
+    {
+      "name": "University College London",
+      "year": "2019",
+      "start": 15001,
+      "end": 15515,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "fails": [],
+      "rows": 15515
+    },
+    {
+      "name": "University College London",
+      "year": "2021",
+      "start": 19001,
+      "end": 19825,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "fails": [
+        9
+      ],
+      "rows": 19825
+    },
+    {
+      "name": "University College London",
+      "year": "2022",
+      "start": 18001,
+      "end": 18724,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "fails": [
+        8
+      ],
+      "rows": 18724
+    },
+    {
+      "name": "University College London",
+      "year": "2023",
+      "start": 17001,
+      "end": 17634,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        6,
+        7
+      ],
+      "fails": [
+        5
+      ],
+      "rows": 17634
+    },
+    {
+      "name": "University of Adelaide",
+      "year": "2016",
+      "start": 4001,
+      "end": 4134,
+      "success": [
+        1,
+        2
+      ],
+      "fails": [],
+      "rows": 4134
+    },
+    {
+      "name": "University of Adelaide",
+      "year": "2017",
+      "start": 4001,
+      "end": 4150,
+      "success": [
+        1
+      ],
+      "fails": [
+        2
+      ],
+      "rows": 4150
+    },
+    {
+      "name": "University of Adelaide",
+      "year": "2019",
+      "start": 4001,
+      "end": 4700,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "fails": [
+        7
+      ],
+      "rows": 4700
+    },
+    {
+      "name": "University of Adelaide",
+      "year": "2023",
+      "start": 4001,
+      "end": 5000,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "fails": [],
+      "rows": 5018
+    },
+    {
+      "name": "University of Alberta",
+      "year": "2016",
+      "start": 6001,
+      "end": 6417,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "fails": [],
+      "rows": 6417
+    },
+    {
+      "name": "University of Alberta",
+      "year": "2021",
+      "start": 8001,
+      "end": 8986,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "fails": [],
+      "rows": 8986
+    },
+    {
+      "name": "University of Amsterdam",
+      "year": "2018",
+      "start": 7001,
+      "end": 7426,
+      "success": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "fails": [
+        5
+      ],
+      "rows": 7426
+    },
+    {
+      "name": "University of Amsterdam",
+      "year": "2020",
+      "start": 9001,
+      "end": 9907,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "fails": [],
+      "rows": 9907
+    },
+    {
+      "name": "University of Amsterdam",
+      "year": "2021",
+      "start": 11001,
+      "end": 11206,
+      "success": [
+        1,
+        3
+      ],
+      "fails": [
+        2
+      ],
+      "rows": 11206
+    },
+    {
+      "name": "University of Amsterdam",
+      "year": "2023",
+      "start": 9001,
+      "end": 9831,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        8,
+        9
+      ],
+      "fails": [
+        7
+      ],
+      "rows": 9831
+    },
+    {
+      "name": "University of Antwerp",
+      "year": "2018",
+      "start": 2001,
+      "end": 2950,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "fails": [],
+      "rows": 2950
+    },
+    {
+      "name": "University of Antwerp",
+      "year": "2020",
+      "start": 3001,
+      "end": 3551,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "fails": [],
+      "rows": 3551
+    },
+    {
+      "name": "University of Arizona",
+      "year": "2016",
+      "start": 4001,
+      "end": 4935,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "fails": [],
+      "rows": 4935
+    },
+    {
+      "name": "University of Arizona",
+      "year": "2017",
+      "start": 4001,
+      "end": 4974,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "fails": [],
+      "rows": 4974
+    },
+    {
+      "name": "University of Arizona",
+      "year": "2019",
+      "start": 5001,
+      "end": 5742,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "fails": [],
+      "rows": 5742
+    },
+    {
+      "name": "University of Arizona",
+      "year": "2023",
+      "start": 5001,
+      "end": 6000,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "fails": [],
+      "rows": 6013
+    },
+    {
+      "name": "University of Auckland",
+      "year": "2020",
+      "start": 4001,
+      "end": 4999,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "fails": [
+        10
+      ],
+      "rows": 4999
+    },
+    {
+      "name": "University of Basel",
+      "year": "2023",
+      "start": 4001,
+      "end": 4248,
+      "success": [
+        1,
+        2
+      ],
+      "fails": [
+        3
+      ],
+      "rows": 4248
+    },
+    {
+      "name": "University of Belgrade",
+      "year": "2015",
+      "start": 3001,
+      "end": 3790,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        8
+      ],
+      "fails": [
+        7
+      ],
+      "rows": 3790
+    },
+    {
+      "name": "University of Belgrade",
+      "year": "2016",
+      "start": 3001,
+      "end": 3872,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "fails": [],
+      "rows": 3872
+    },
+    {
+      "name": "University of Belgrade",
+      "year": "2017",
+      "start": 3001,
+      "end": 3755,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "fails": [],
+      "rows": 3755
+    },
+    {
+      "name": "University of Belgrade",
+      "year": "2018",
+      "start": 3001,
+      "end": 3833,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        9
+      ],
+      "fails": [
+        8
+      ],
+      "rows": 3833
+    },
+    {
+      "name": "University of Belgrade",
+      "year": "2019",
+      "start": 4001,
+      "end": 4246,
+      "success": [
+        1,
+        2,
+        3
+      ],
+      "fails": [],
+      "rows": 4246
+    },
+    {
+      "name": "University of Belgrade",
+      "year": "2021",
+      "start": 4001,
+      "end": 4572,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "fails": [],
+      "rows": 4572
+    },
+    {
+      "name": "University of Belgrade",
+      "year": "2023",
+      "start": 4001,
+      "end": 4634,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "fails": [],
+      "rows": 4634
+    },
+    {
+      "name": "University of Bergen",
+      "year": "2016",
+      "start": 2001,
+      "end": 2595,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "fails": [],
+      "rows": 2595
+    },
+    {
+      "name": "University of Bergen",
+      "year": "2018",
+      "start": 2001,
+      "end": 2814,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "fails": [],
+      "rows": 2814
+    },
+    {
+      "name": "University of Bergen",
+      "year": "2020",
+      "start": 3001,
+      "end": 3418,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "fails": [],
+      "rows": 3418
+    },
+    {
+      "name": "University of Bergen",
+      "year": "2021",
+      "start": 3001,
+      "end": 3651,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "fails": [],
+      "rows": 3651
+    },
+    {
+      "name": "University of Bergen",
+      "year": "2023",
+      "start": 3001,
+      "end": 3464,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "fails": [],
+      "rows": 3464
+    },
+    {
+      "name": "University of Bern",
+      "year": "2015",
+      "start": 3001,
+      "end": 3851,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "fails": [],
+      "rows": 3851
+    },
+    {
+      "name": "University of Bern",
+      "year": "2016",
+      "start": 4001,
+      "end": 4166,
+      "success": [
+        1,
+        2
+      ],
+      "fails": [],
+      "rows": 4166
+    },
+    {
+      "name": "University of Bern",
+      "year": "2017",
+      "start": 4001,
+      "end": 4374,
+      "success": [
+        1,
+        2,
+        4
+      ],
+      "fails": [
+        3
+      ],
+      "rows": 4374
+    },
+    {
+      "name": "University of Bern",
+      "year": "2018",
+      "start": 4001,
+      "end": 4596,
+      "success": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "fails": [
+        5,
+        6
+      ],
+      "rows": 4596
+    },
+    {
+      "name": "University of Bern",
+      "year": "2019",
+      "start": 4001,
+      "end": 4995,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "fails": [
+        10
+      ],
+      "rows": 4995
+    },
+    {
+      "name": "University of Bern",
+      "year": "2020",
+      "start": 5001,
+      "end": 5716,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "fails": [],
+      "rows": 5716
+    },
+    {
+      "name": "University of Bern",
+      "year": "2021",
+      "start": 6001,
+      "end": 6502,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        6
+      ],
+      "fails": [
+        5
+      ],
+      "rows": 6502
+    },
+    {
+      "name": "University of Bern",
+      "year": "2023",
+      "start": 5001,
+      "end": 6000,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "fails": [],
+      "rows": 6040
+    },
+    {
+      "name": "University of Birmingham",
+      "year": "2016",
+      "start": 4001,
+      "end": 4831,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        9
+      ],
+      "fails": [
+        8
+      ],
+      "rows": 4831
+    },
+    {
+      "name": "University of Birmingham",
+      "year": "2017",
+      "start": 4001,
+      "end": 4935,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "fails": [],
+      "rows": 4935
+    },
+    {
+      "name": "University of Birmingham",
+      "year": "2018",
+      "start": 5001,
+      "end": 5378,
+      "success": [
+        1,
+        2,
+        3
+      ],
+      "fails": [
+        4
+      ],
+      "rows": 5378
+    },
+    {
+      "name": "University of Birmingham",
+      "year": "2019",
+      "start": 5001,
+      "end": 5980,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "fails": [],
+      "rows": 5980
+    },
+    {
+      "name": "University of Birmingham",
+      "year": "2020",
+      "start": 6001,
+      "end": 6487,
+      "success": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "fails": [
+        5
+      ],
+      "rows": 6487
+    },
+    {
+      "name": "University of Birmingham",
+      "year": "2021",
+      "start": 7001,
+      "end": 7304,
+      "success": [
+        1,
+        2,
+        4
+      ],
+      "fails": [
+        3
+      ],
+      "rows": 7304
+    },
+    {
+      "name": "University of Birmingham",
+      "year": "2023",
+      "start": 6001,
+      "end": 6644,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "fails": [
+        6,
+        7
+      ],
+      "rows": 6644
+    },
+    {
+      "name": "University of Bologna",
+      "year": "2017",
+      "start": 5001,
+      "end": 5220,
+      "success": [
+        1,
+        3
+      ],
+      "fails": [
+        2
+      ],
+      "rows": 5220
+    },
+    {
+      "name": "University of Bologna",
+      "year": "2018",
+      "start": 5001,
+      "end": 5323,
+      "success": [
+        1,
+        2
+      ],
+      "fails": [
+        3,
+        4
+      ],
+      "rows": 5323
+    },
+    {
+      "name": "University of Bologna",
+      "year": "2019",
+      "start": 5001,
+      "end": 6000,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "fails": [
+        10
+      ],
+      "rows": 6025
+    },
+    {
+      "name": "University of Bologna",
+      "year": "2019",
+      "start": 6001,
+      "end": 6025,
+      "success": [
+        1
+      ],
+      "fails": [],
+      "rows": 6025
+    },
+    {
+      "name": "University of Bologna",
+      "year": "2020",
+      "start": 6001,
+      "end": 6928,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "fails": [
+        9,
+        10
+      ],
+      "rows": 6928
+    },
+    {
+      "name": "University of Bologna",
+      "year": "2021",
+      "start": 7001,
+      "end": 7897,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "fails": [
+        9
+      ],
+      "rows": 7897
+    },
+    {
+      "name": "University of Bologna",
+      "year": "2022",
+      "start": 7001,
+      "end": 7583,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "fails": [
+        6
+      ],
+      "rows": 7583
+    },
+    {
+      "name": "University of Bologna",
+      "year": "2023",
+      "start": 7001,
+      "end": 7779,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "fails": [
+        6,
+        7,
+        8
+      ],
+      "rows": 7779
+    },
+    {
+      "name": "University of Bonn",
+      "year": "2016",
+      "start": 3001,
+      "end": 3606,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "fails": [
+        6,
+        7
+      ],
+      "rows": 3606
+    },
+    {
+      "name": "University of Bonn",
+      "year": "2017",
+      "start": 3001,
+      "end": 3769,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "fails": [
+        7,
+        8
+      ],
+      "rows": 3769
+    },
+    {
+      "name": "University of Bonn",
+      "year": "2019",
+      "start": 3001,
+      "end": 3929,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "fails": [
+        9,
+        10
+      ],
+      "rows": 3929
+    },
+    {
+      "name": "University of Bonn",
+      "year": "2021",
+      "start": 4001,
+      "end": 4842,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        9
+      ],
+      "fails": [
+        8
+      ],
+      "rows": 4842
+    },
+    {
+      "name": "University of Bonn",
+      "year": "2023",
+      "start": 4001,
+      "end": 4654,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "fails": [
+        6,
+        7
+      ],
+      "rows": 4654
+    },
+    {
+      "name": "University of Bristol",
+      "year": "2017",
+      "start": 4001,
+      "end": 4973,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "fails": [],
+      "rows": 4973
+    },
+    {
+      "name": "University of British Columbia",
+      "year": "2017",
+      "start": 8001,
+      "end": 8622,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "fails": [
+        6,
+        7
+      ],
+      "rows": 8622
+    },
+    {
+      "name": "University of British Columbia",
+      "year": "2018",
+      "start": 9001,
+      "end": 9305,
+      "success": [
+        1,
+        2,
+        4
+      ],
+      "fails": [
+        3
+      ],
+      "rows": 9305
+    },
+    {
+      "name": "University of British Columbia",
+      "year": "2019",
+      "start": 10001,
+      "end": 10132,
+      "success": [],
+      "fails": [
+        1,
+        2
+      ],
+      "rows": 10132
+    },
+    {
+      "name": "University of British Columbia",
+      "year": "2020",
+      "start": 10001,
+      "end": 10971,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "fails": [
+        10
+      ],
+      "rows": 10971
+    },
+    {
+      "name": "University of British Columbia",
+      "year": "2021",
+      "start": 12001,
+      "end": 12460,
+      "success": [
+        1,
+        2,
+        3
+      ],
+      "fails": [
+        4,
+        5
+      ],
+      "rows": 12460
+    },
+    {
+      "name": "University of British Columbia",
+      "year": "2023",
+      "start": 11001,
+      "end": 11343,
+      "success": [
+        1
+      ],
+      "fails": [
+        2,
+        3,
+        4
+      ],
+      "rows": 11343
+    },
+    {
+      "name": "University of Buenos Aires",
+      "year": "2017",
+      "start": 2001,
+      "end": 3000,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "fails": [
+        7,
+        8,
+        9,
+        10
+      ],
+      "rows": 2747
+    },
+    {
+      "name": "University of Buenos Aires",
+      "year": "2019",
+      "start": 3001,
+      "end": 3127,
+      "success": [],
+      "fails": [
+        1,
+        2
+      ],
+      "rows": 3127
+    },
+    {
+      "name": "University of Buenos Aires",
+      "year": "2021",
+      "start": 3001,
+      "end": 3753,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "fails": [
+        8
+      ],
+      "rows": 3753
+    },
+    {
+      "name": "University of California Berkeley",
+      "year": "2017",
+      "start": 8001,
+      "end": 8449,
+      "success": [
+        1,
+        2,
+        3
+      ],
+      "fails": [
+        4,
+        5
+      ],
+      "rows": 8449
+    },
+    {
+      "name": "University of California Berkeley",
+      "year": "2018",
+      "start": 8001,
+      "end": 8541,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        6
+      ],
+      "fails": [
+        5
+      ],
+      "rows": 8541
+    },
+    {
+      "name": "University of California Berkeley",
+      "year": "2019",
+      "start": 8001,
+      "end": 8951,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        10
+      ],
+      "fails": [
+        9
+      ],
+      "rows": 8951
+    },
+    {
+      "name": "University of California Berkeley",
+      "year": "2020",
+      "start": 8001,
+      "end": 9000,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "fails": [],
+      "rows": 9008
+    },
+    {
+      "name": "University of California Berkeley",
+      "year": "2023",
+      "start": 8001,
+      "end": 8391,
+      "success": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "fails": [],
+      "rows": 8391
+    },
+    {
+      "name": "University of California Irvine",
+      "year": "2016",
+      "start": 4001,
+      "end": 4464,
+      "success": [
+        1,
+        2,
+        3,
+        5
+      ],
+      "fails": [
+        4
+      ],
+      "rows": 4464
+    },
+    {
+      "name": "University of California Irvine",
+      "year": "2019",
+      "start": 5001,
+      "end": 5238,
+      "success": [
+        1,
+        2,
+        3
+      ],
+      "fails": [],
+      "rows": 5238
+    },
+    {
+      "name": "University of California Irvine",
+      "year": "2023",
+      "start": 5001,
+      "end": 5603,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "fails": [],
+      "rows": 5603
+    },
+    {
+      "name": "University of California Los Angeles",
+      "year": "2018",
+      "start": 10001,
+      "end": 10732,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "fails": [
+        8
+      ],
+      "rows": 10732
+    },
+    {
+      "name": "University of California Los Angeles",
+      "year": "2019",
+      "start": 11001,
+      "end": 11495,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "fails": [],
+      "rows": 11495
+    },
+    {
+      "name": "University of California Santa Cruz",
+      "year": "2016",
+      "start": 1001,
+      "end": 1826,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "fails": [],
+      "rows": 1826
+    },
+    {
+      "name": "University of California Santa Cruz",
+      "year": "2020",
+      "start": 2001,
+      "end": 2098,
+      "success": [],
+      "fails": [
+        1
+      ],
+      "rows": 2098
+    },
+    {
+      "name": "University of Cambridge",
+      "year": "2016",
+      "start": 10001,
+      "end": 10940,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        10
+      ],
+      "fails": [
+        9
+      ],
+      "rows": 10940
+    },
+    {
+      "name": "University of Cambridge",
+      "year": "2018",
+      "start": 11001,
+      "end": 11459,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "fails": [],
+      "rows": 11459
+    },
+    {
+      "name": "University of Cambridge",
+      "year": "2020",
+      "start": 13001,
+      "end": 13152,
+      "success": [
+        1
+      ],
+      "fails": [
+        2
+      ],
+      "rows": 13152
+    },
+    {
+      "name": "University of Cambridge",
+      "year": "2021",
+      "start": 14001,
+      "end": 14527,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "fails": [
+        6
+      ],
+      "rows": 14527
+    },
+    {
+      "name": "University of Cambridge",
+      "year": "2022",
+      "start": 13001,
+      "end": 13308,
+      "success": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "fails": [],
+      "rows": 13308
+    },
+    {
+      "name": "University of Cambridge",
+      "year": "2023",
+      "start": 12001,
+      "end": 12324,
+      "success": [
+        1,
+        2,
+        3
+      ],
+      "fails": [
+        4
+      ],
+      "rows": 12325
+    },
+    {
+      "name": "University of Cape Town",
+      "year": "2019",
+      "start": 3001,
+      "end": 3523,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "fails": [
+        6
+      ],
+      "rows": 3523
+    },
+    {
+      "name": "University of Cape Town",
+      "year": "2021",
+      "start": 4001,
+      "end": 4155,
+      "success": [
+        1
+      ],
+      "fails": [
+        2
+      ],
+      "rows": 4155
+    },
+    {
+      "name": "University of Cape Town",
+      "year": "2023",
+      "start": 3001,
+      "end": 3506,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "fails": [],
+      "rows": 3506
+    },
+    {
+      "name": "University of Catania",
+      "year": "2020",
+      "start": 2001,
+      "end": 3000,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "fails": [
+        10
+      ],
+      "rows": 3003
+    },
+    {
+      "name": "University of Chicago",
+      "year": "2015",
+      "start": 5001,
+      "end": 5432,
+      "success": [
+        1,
+        2,
+        3,
+        5
+      ],
+      "fails": [
+        4
+      ],
+      "rows": 5432
+    },
+    {
+      "name": "University of Chicago",
+      "year": "2017",
+      "start": 5001,
+      "end": 5668,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "fails": [],
+      "rows": 5668
+    },
+    {
+      "name": "University of Chicago",
+      "year": "2018",
+      "start": 5001,
+      "end": 5813,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        9
+      ],
+      "fails": [
+        8
+      ],
+      "rows": 5813
+    },
+    {
+      "name": "University of Chicago",
+      "year": "2019",
+      "start": 5001,
+      "end": 6000,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "fails": [
+        9,
+        10
+      ],
+      "rows": 6118
+    },
+    {
+      "name": "University of Chicago",
+      "year": "2020",
+      "start": 6001,
+      "end": 6452,
+      "success": [
+        1,
+        2,
+        3
+      ],
+      "fails": [
+        4,
+        5
+      ],
+      "rows": 6452
+    },
+    {
+      "name": "University of Chicago",
+      "year": "2021",
+      "start": 6001,
+      "end": 6979,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "fails": [
+        10
+      ],
+      "rows": 6979
+    },
+    {
+      "name": "University of Chicago",
+      "year": "2022",
+      "start": 6001,
+      "end": 6715,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        8
+      ],
+      "fails": [
+        7
+      ],
+      "rows": 6715
+    },
+    {
+      "name": "University of Chicago",
+      "year": "2023",
+      "start": 6001,
+      "end": 6681,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "fails": [
+        6,
+        7
+      ],
+      "rows": 6681
+    },
+    {
+      "name": "University of Chinese Academy of Sciences, CAS",
+      "year": "2018",
+      "start": 21001,
+      "end": 21144,
+      "success": [
+        2
+      ],
+      "fails": [
+        1
+      ],
+      "rows": 21144
+    },
+    {
+      "name": "University of Chinese Academy of Sciences, CAS",
+      "year": "2020",
+      "start": 26001,
+      "end": 26862,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "fails": [
+        8,
+        9
+      ],
+      "rows": 26862
+    },
+    {
+      "name": "University of Chinese Academy of Sciences, CAS",
+      "year": "2021",
+      "start": 31001,
+      "end": 31605,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        7
+      ],
+      "fails": [
+        6
+      ],
+      "rows": 31605
+    },
+    {
+      "name": "University of Chinese Academy of Sciences, CAS",
+      "year": "2022",
+      "start": 35001,
+      "end": 35671,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "fails": [
+        6,
+        7
+      ],
+      "rows": 35671
+    },
+    {
+      "name": "University of Chinese Academy of Sciences, CAS",
+      "year": "2023",
+      "start": 33001,
+      "end": 33645,
+      "success": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "fails": [
+        5,
+        6,
+        7
+      ],
+      "rows": 33645
+    },
+    {
+      "name": "University of Colorado Boulder",
+      "year": "2023",
+      "start": 4001,
+      "end": 4690,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "fails": [
+        6,
+        7
+      ],
+      "rows": 4690
+    },
+    {
+      "name": "University of Copenhagen",
+      "year": "2016",
+      "start": 8001,
+      "end": 8764,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "fails": [
+        7,
+        8
+      ],
+      "rows": 8764
+    },
+    {
+      "name": "University of Copenhagen",
+      "year": "2017",
+      "start": 8001,
+      "end": 8882,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "fails": [
+        8,
+        9
+      ],
+      "rows": 8882
+    },
+    {
+      "name": "University of Copenhagen",
+      "year": "2019",
+      "start": 10001,
+      "end": 10153,
+      "success": [],
+      "fails": [
+        1,
+        2
+      ],
+      "rows": 10153
+    },
+    {
+      "name": "University of Copenhagen",
+      "year": "2020",
+      "start": 10001,
+      "end": 10882,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "fails": [
+        9
+      ],
+      "rows": 10882
+    },
+    {
+      "name": "University of Copenhagen",
+      "year": "2021",
+      "start": 11001,
+      "end": 11922,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "fails": [
+        9,
+        10
+      ],
+      "rows": 11922
+    },
+    {
+      "name": "University of Copenhagen",
+      "year": "2022",
+      "start": 11001,
+      "end": 11330,
+      "success": [
+        1,
+        2
+      ],
+      "fails": [
+        3,
+        4
+      ],
+      "rows": 11330
+    },
+    {
+      "name": "University of Copenhagen",
+      "year": "2023",
+      "start": 11001,
+      "end": 11203,
+      "success": [
+        3
+      ],
+      "fails": [
+        1,
+        2
+      ],
+      "rows": 11203
+    },
+    {
+      "name": "University of Edinburgh",
+      "year": "2017",
+      "start": 6001,
+      "end": 6937,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "fails": [
+        9,
+        10
+      ],
+      "rows": 6937
+    },
+    {
+      "name": "University of Edinburgh",
+      "year": "2018",
+      "start": 6001,
+      "end": 7000,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "fails": [
+        10
+      ],
+      "rows": 7083
+    },
+    {
+      "name": "University of Edinburgh",
+      "year": "2018",
+      "start": 7001,
+      "end": 7083,
+      "success": [
+        1
+      ],
+      "fails": [],
+      "rows": 7083
+    },
+    {
+      "name": "University of Edinburgh",
+      "year": "2019",
+      "start": 7001,
+      "end": 7952,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "fails": [
+        9,
+        10
+      ],
+      "rows": 7952
+    },
+    {
+      "name": "University of Edinburgh",
+      "year": "2020",
+      "start": 8001,
+      "end": 8570,
+      "success": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "fails": [
+        5,
+        6
+      ],
+      "rows": 8570
+    },
+    {
+      "name": "University of Edinburgh",
+      "year": "2021",
+      "start": 9001,
+      "end": 9334,
+      "success": [
+        1,
+        2
+      ],
+      "fails": [
+        3,
+        4
+      ],
+      "rows": 9334
+    },
+    {
+      "name": "University of Edinburgh",
+      "year": "2022",
+      "start": 8001,
+      "end": 8864,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "fails": [
+        9
+      ],
+      "rows": 8864
+    },
+    {
+      "name": "University of Edinburgh",
+      "year": "2023",
+      "start": 8001,
+      "end": 8463,
+      "success": [
+        1,
+        2,
+        3
+      ],
+      "fails": [
+        4,
+        5
+      ],
+      "rows": 8463
+    },
+    {
+      "name": "University of Florence",
+      "year": "2021",
+      "start": 5001,
+      "end": 5953,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "fails": [
+        9,
+        10
+      ],
+      "rows": 5953
+    },
+    {
+      "name": "University of Florida",
+      "year": "2015",
+      "start": 6001,
+      "end": 7000,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "fails": [],
+      "rows": 7056
+    },
+    {
+      "name": "University of Florida",
+      "year": "2020",
+      "start": 10001,
+      "end": 10323,
+      "success": [
+        1,
+        2
+      ],
+      "fails": [
+        3,
+        4
+      ],
+      "rows": 10323
+    },
+    {
+      "name": "University of Florida",
+      "year": "2023",
+      "start": 10001,
+      "end": 10088,
+      "success": [
+        1
+      ],
+      "fails": [],
+      "rows": 10088
+    },
+    {
+      "name": "University of Freiburg",
+      "year": "2019",
+      "start": 3001,
+      "end": 4000,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "fails": [
+        10
+      ],
+      "rows": 4022
+    },
+    {
+      "name": "University of Geneva",
+      "year": "2015",
+      "start": 3001,
+      "end": 3813,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        9
+      ],
+      "fails": [
+        8
+      ],
+      "rows": 3813
+    },
+    {
+      "name": "University of Geneva",
+      "year": "2017",
+      "start": 3001,
+      "end": 4000,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "fails": [
+        10
+      ],
+      "rows": 4029
+    },
+    {
+      "name": "University of Geneva",
+      "year": "2018",
+      "start": 4001,
+      "end": 4315,
+      "success": [
+        1,
+        2,
+        4
+      ],
+      "fails": [
+        3
+      ],
+      "rows": 4315
+    },
+    {
+      "name": "University of Geneva",
+      "year": "2022",
+      "start": 5001,
+      "end": 5616,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "fails": [],
+      "rows": 5616
+    },
+    {
+      "name": "University of Genoa",
+      "year": "2015",
+      "start": 2001,
+      "end": 2901,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        10
+      ],
+      "fails": [
+        8,
+        9
+      ],
+      "rows": 2901
+    },
+    {
+      "name": "University of Genoa",
+      "year": "2016",
+      "start": 2001,
+      "end": 3000,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "fails": [
+        9,
+        10
+      ],
+      "rows": 3021
+    },
+    {
+      "name": "University of Genoa",
+      "year": "2016",
+      "start": 3001,
+      "end": 3021,
+      "success": [
+        1
+      ],
+      "fails": [],
+      "rows": 3021
+    },
+    {
+      "name": "University of Genoa",
+      "year": "2017",
+      "start": 2001,
+      "end": 3000,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "fails": [
+        9,
+        10
+      ],
+      "rows": 3071
+    },
+    {
+      "name": "University of Genoa",
+      "year": "2017",
+      "start": 3001,
+      "end": 3071,
+      "success": [
+        1
+      ],
+      "fails": [],
+      "rows": 3071
+    },
+    {
+      "name": "University of Genoa",
+      "year": "2018",
+      "start": 3001,
+      "end": 3071,
+      "success": [
+        1
+      ],
+      "fails": [],
+      "rows": 3926
+    },
+    {
+      "name": "University of Genoa",
+      "year": "2020",
+      "start": 3001,
+      "end": 4000,
+      "success": [
+        1,
+        2,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "fails": [
+        3
+      ],
+      "rows": 4858
+    },
+    {
+      "name": "University of Genoa",
+      "year": "2023",
+      "start": 4001,
+      "end": 4205,
+      "success": [
+        1,
+        2,
+        3
+      ],
+      "fails": [],
+      "rows": 4964
+    },
+    {
+      "name": "University of Glasgow",
+      "year": "2016",
+      "start": 3001,
+      "end": 4000,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "fails": [
+        9,
+        10
+      ],
+      "rows": 4971
+    },
+    {
+      "name": "University of Glasgow",
+      "year": "2018",
+      "start": 4001,
+      "end": 4496,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "fails": [],
+      "rows": 5482
+    },
+    {
+      "name": "University of Glasgow",
+      "year": "2019",
+      "start": 4001,
+      "end": 5000,
+      "success": [
+        1,
+        2,
+        3,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "fails": [
+        4
+      ],
+      "rows": 5929
+    },
+    {
+      "name": "University of Glasgow",
+      "year": "2020",
+      "start": 5001,
+      "end": 5332,
+      "success": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "fails": [],
+      "rows": 6112
+    },
+    {
+      "name": "University of Glasgow",
+      "year": "2021",
+      "start": 2001,
+      "end": 3000,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "fails": [],
+      "rows": 6980
+    },
+    {
+      "name": "University of Glasgow",
+      "year": "2021",
+      "start": 6001,
+      "end": 6020,
+      "success": [
+        1
+      ],
+      "fails": [],
+      "rows": 6980
+    },
+    {
+      "name": "University of Glasgow",
+      "year": "2022",
+      "start": 5001,
+      "end": 5856,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "fails": [],
+      "rows": 6677
+    },
+    {
+      "name": "University of Glasgow",
+      "year": "2023",
+      "start": 5001,
+      "end": 5809,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "fails": [],
+      "rows": 6664
+    },
+    {
+      "name": "University of Gottingen",
+      "year": "2019",
+      "start": 3001,
+      "end": 3872,
+      "success": [
+        1,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "fails": [
+        2
+      ],
+      "rows": 4390
+    },
+    {
+      "name": "University of Gottingen",
+      "year": "2023",
+      "start": 3001,
+      "end": 3802,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "fails": [],
+      "rows": 4241
+    },
+    {
+      "name": "University of Granada",
+      "year": "2019",
+      "start": 3001,
+      "end": 3613,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "fails": [],
+      "rows": 3825
+    },
+    {
+      "name": "University of Granada",
+      "year": "2023",
+      "start": 4001,
+      "end": 4529,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        6
+      ],
+      "fails": [
+        5
+      ],
+      "rows": 4781
+    },
+    {
+      "name": "University of Hamburg",
+      "year": "2019",
+      "start": 5001,
+      "end": 5344,
+      "success": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "fails": [],
+      "rows": 6443
+    },
+    {
+      "name": "University of Hamburg",
+      "year": "2020",
+      "start": 5001,
+      "end": 5803,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "fails": [],
+      "rows": 6652
+    },
+    {
+      "name": "University of Hamburg",
+      "year": "2021",
+      "start": 6001,
+      "end": 6859,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "fails": [],
+      "rows": 7930
+    },
+    {
+      "name": "University of Hamburg",
+      "year": "2023",
+      "start": 5001,
+      "end": 6000,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "fails": [],
+      "rows": 7196
+    },
+    {
+      "name": "University of Hamburg",
+      "year": "2024",
+      "start": 5001,
+      "end": 5546,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "fails": [],
+      "rows": 6223
+    },
+    {
+      "name": "University of Helsinki",
+      "year": "2016",
+      "start": 5001,
+      "end": 5266,
+      "success": [
+        1,
+        2,
+        3
+      ],
+      "fails": [],
+      "rows": 6101
+    },
+    {
+      "name": "University of Helsinki",
+      "year": "2017",
+      "start": 5001,
+      "end": 5423,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "fails": [],
+      "rows": 6149
+    },
+    {
+      "name": "University of Helsinki",
+      "year": "2018",
+      "start": 5001,
+      "end": 5422,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "fails": [],
+      "rows": 6202
+    },
+    {
+      "name": "University of Helsinki",
+      "year": "2019",
+      "start": 6001,
+      "end": 6258,
+      "success": [
+        1,
+        2,
+        3
+      ],
+      "fails": [],
+      "rows": 7171
+    },
+    {
+      "name": "University of Helsinki",
+      "year": "2020",
+      "start": 6001,
+      "end": 6501,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "fails": [],
+      "rows": 7067
+    },
+    {
+      "name": "University of Hong Kong",
+      "year": "2016",
+      "start": 4001,
+      "end": 4567,
+      "success": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "fails": [
+        6
+      ],
+      "rows": 5224
+    },
+    {
+      "name": "University of Hong Kong",
+      "year": "2020",
+      "start": 6001,
+      "end": 6432,
+      "success": [],
+      "fails": [],
+      "rows": 7026
+    },
+    {
+      "name": "University of Illinois Chicago",
+      "year": "2023",
+      "start": 4001,
+      "end": 4736,
+      "success": [],
+      "fails": [],
+      "rows": 4736
+    },
+    {
+      "name": "University of Illinois Urbana-Champaign",
+      "year": "2016",
+      "start": 6001,
+      "end": 6672,
+      "success": [],
+      "fails": [],
+      "rows": 6672
+    },
+    {
+      "name": "University of Illinois Urbana-Champaign",
+      "year": "2020",
+      "start": 7001,
+      "end": 7246,
+      "success": [],
+      "fails": [],
+      "rows": 7246
+    },
+    {
+      "name": "University of Innsbruck",
+      "year": "2016",
+      "start": 1001,
+      "end": 1620,
+      "success": [],
+      "fails": [],
+      "rows": 1620
+    },
+    {
+      "name": "University of Innsbruck",
+      "year": "2018",
+      "start": 1001,
+      "end": 1733,
+      "success": [],
+      "fails": [],
+      "rows": 1733
+    },
+    {
+      "name": "University of Innsbruck",
+      "year": "2019",
+      "start": 1001,
+      "end": 1837,
+      "success": [],
+      "fails": [],
+      "rows": 1837
+    },
+    {
+      "name": "University of Iowa",
+      "year": "2015",
+      "start": 3001,
+      "end": 3813,
+      "success": [],
+      "fails": [],
+      "rows": 3813
+    },
+    {
+      "name": "University of Iowa",
+      "year": "2016",
+      "start": 3001,
+      "end": 3928,
+      "success": [],
+      "fails": [],
+      "rows": 3928
+    },
+    {
+      "name": "University of Iowa",
+      "year": "2017",
+      "start": 3001,
+      "end": 4000,
+      "success": [],
+      "fails": [],
+      "rows": 4016
+    },
+    {
+      "name": "University of Iowa",
+      "year": "2019",
+      "start": 4001,
+      "end": 4454,
+      "success": [],
+      "fails": [],
+      "rows": 4454
+    },
+    {
+      "name": "University of Iowa",
+      "year": "2020",
+      "start": 4001,
+      "end": 4646,
+      "success": [],
+      "fails": [],
+      "rows": 4646
+    },
+    {
+      "name": "University of Iowa",
+      "year": "2022",
+      "start": 4001,
+      "end": 4770,
+      "success": [],
+      "fails": [],
+      "rows": 4770
+    },
+    {
+      "name": "University of Iowa",
+      "year": "2023",
+      "start": 4001,
+      "end": 4515,
+      "success": [],
+      "fails": [],
+      "rows": 4515
+    },
+    {
+      "name": "University of Johannesburg",
+      "year": "2023",
+      "start": 3001,
+      "end": 3099,
+      "success": [],
+      "fails": [],
+      "rows": 3099
+    },
+    {
+      "name": "University of Liverpool",
+      "year": "2015",
+      "start": 3001,
+      "end": 3833,
+      "success": [],
+      "fails": [],
+      "rows": 3833
+    },
+    {
+      "name": "University of Liverpool",
+      "year": "2016",
+      "start": 3001,
+      "end": 3984,
+      "success": [],
+      "fails": [],
+      "rows": 3984
+    },
+    {
+      "name": "University of Liverpool",
+      "year": "2018",
+      "start": 4001,
+      "end": 4255,
+      "success": [],
+      "fails": [],
+      "rows": 4255
+    },
+    {
+      "name": "University of Liverpool",
+      "year": "2019",
+      "start": 4001,
+      "end": 4981,
+      "success": [],
+      "fails": [],
+      "rows": 4981
+    },
+    {
+      "name": "University of Liverpool",
+      "year": "2021",
+      "start": 5001,
+      "end": 5887,
+      "success": [],
+      "fails": [],
+      "rows": 5887
+    },
+    {
+      "name": "University of Liverpool",
+      "year": "2022",
+      "start": 5001,
+      "end": 5629,
+      "success": [],
+      "fails": [],
+      "rows": 5629
+    },
+    {
+      "name": "University of Liverpool",
+      "year": "2023",
+      "start": 5001,
+      "end": 5318,
+      "success": [],
+      "fails": [],
+      "rows": 5318
+    },
+    {
+      "name": "University of Ljubljana",
+      "year": "2019",
+      "start": 2001,
+      "end": 2774,
+      "success": [],
+      "fails": [],
+      "rows": 2774
+    },
+    {
+      "name": "University of Ljubljana",
+      "year": "2023",
+      "start": 3001,
+      "end": 3342,
+      "success": [],
+      "fails": [],
+      "rows": 3342
+    },
+    {
+      "name": "University of Manchester",
+      "year": "2015",
+      "start": 6001,
+      "end": 6937,
+      "success": [],
+      "fails": [],
+      "rows": 6937
+    },
+    {
+      "name": "University of Manchester",
+      "year": "2016",
+      "start": 7001,
+      "end": 7402,
+      "success": [],
+      "fails": [],
+      "rows": 7402
+    },
+    {
+      "name": "University of Manchester",
+      "year": "2018",
+      "start": 7001,
+      "end": 7514,
+      "success": [],
+      "fails": [],
+      "rows": 7514
+    },
+    {
+      "name": "University of Manchester",
+      "year": "2019",
+      "start": 8001,
+      "end": 8216,
+      "success": [],
+      "fails": [],
+      "rows": 8216
+    },
+    {
+      "name": "University of Manchester",
+      "year": "2020",
+      "start": 8001,
+      "end": 8956,
+      "success": [],
+      "fails": [],
+      "rows": 8956
+    },
+    {
+      "name": "University of Manchester",
+      "year": "2021",
+      "start": 9001,
+      "end": 9478,
+      "success": [],
+      "fails": [],
+      "rows": 9478
+    },
+    {
+      "name": "University of Manchester",
+      "year": "2022",
+      "start": 8001,
+      "end": 8822,
+      "success": [],
+      "fails": [],
+      "rows": 8822
+    },
+    {
+      "name": "University of Manchester",
+      "year": "2023",
+      "start": 8001,
+      "end": 8610,
+      "success": [],
+      "fails": [],
+      "rows": 8610
+    },
+    {
+      "name": "University of Maryland College Park",
+      "year": "2018",
+      "start": 5001,
+      "end": 5816,
+      "success": [],
+      "fails": [],
+      "rows": 5816
+    },
+    {
+      "name": "University of Maryland College Park",
+      "year": "2020",
+      "start": 5001,
+      "end": 6000,
+      "success": [],
+      "fails": [],
+      "rows": 6315
+    },
+    {
+      "name": "University of Massachusetts Amherst",
+      "year": "2016",
+      "start": 2001,
+      "end": 2791,
+      "success": [],
+      "fails": [],
+      "rows": 2791
+    },
+    {
+      "name": "University of Massachusetts Amherst",
+      "year": "2023",
+      "start": 3001,
+      "end": 3172,
+      "success": [],
+      "fails": [],
+      "rows": 3172
+    },
+    {
+      "name": "University of Melbourne",
+      "year": "2016",
+      "start": 8001,
+      "end": 8897,
+      "success": [],
+      "fails": [],
+      "rows": 8897
+    },
+    {
+      "name": "University of Melbourne",
+      "year": "2017",
+      "start": 9001,
+      "end": 9298,
+      "success": [],
+      "fails": [],
+      "rows": 9298
+    },
+    {
+      "name": "University of Melbourne",
+      "year": "2018",
+      "start": 10001,
+      "end": 10054,
+      "success": [],
+      "fails": [],
+      "rows": 10054
+    },
+    {
+      "name": "University of Melbourne",
+      "year": "2019",
+      "start": 11001,
+      "end": 11651,
+      "success": [],
+      "fails": [],
+      "rows": 11651
+    },
+    {
+      "name": "University of Melbourne",
+      "year": "2020",
+      "start": 12001,
+      "end": 12955,
+      "success": [],
+      "fails": [],
+      "rows": 12955
+    },
+    {
+      "name": "University of Melbourne",
+      "year": "2021",
+      "start": 14001,
+      "end": 14491,
+      "success": [],
+      "fails": [],
+      "rows": 14491
+    },
+    {
+      "name": "University of Melbourne",
+      "year": "2022",
+      "start": 13001,
+      "end": 13729,
+      "success": [],
+      "fails": [],
+      "rows": 13729
+    },
+    {
+      "name": "University of Melbourne",
+      "year": "2023",
+      "start": 12001,
+      "end": 12649,
+      "success": [],
+      "fails": [],
+      "rows": 12649
+    },
+    {
+      "name": "University of Michigan",
+      "year": "2017",
+      "start": 12001,
+      "end": 12914,
+      "success": [],
+      "fails": [],
+      "rows": 12914
+    },
+    {
+      "name": "University of Michigan",
+      "year": "2019",
+      "start": 14001,
+      "end": 14367,
+      "success": [],
+      "fails": [],
+      "rows": 14367
+    },
+    {
+      "name": "University of Michigan",
+      "year": "2020",
+      "start": 15001,
+      "end": 15521,
+      "success": [],
+      "fails": [],
+      "rows": 15521
+    },
+    {
+      "name": "University of Michigan",
+      "year": "2021",
+      "start": 16001,
+      "end": 16225,
+      "success": [],
+      "fails": [],
+      "rows": 16225
+    },
+    {
+      "name": "University of Michigan",
+      "year": "2022",
+      "start": 15001,
+      "end": 15506,
+      "success": [],
+      "fails": [],
+      "rows": 15506
+    },
+    {
+      "name": "University of Michigan",
+      "year": "2023",
+      "start": 14001,
+      "end": 14521,
+      "success": [],
+      "fails": [],
+      "rows": 14521
+    },
+    {
+      "name": "University of Milan",
+      "year": "2015",
+      "start": 4001,
+      "end": 4809,
+      "success": [],
+      "fails": [],
+      "rows": 4809
+    },
+    {
+      "name": "University of Milan",
+      "year": "2018",
+      "start": 5001,
+      "end": 5402,
+      "success": [],
+      "fails": [],
+      "rows": 5402
+    },
+    {
+      "name": "University of Milan",
+      "year": "2020",
+      "start": 7001,
+      "end": 7583,
+      "success": [],
+      "fails": [],
+      "rows": 7583
+    },
+    {
+      "name": "University of Milan",
+      "year": "2021",
+      "start": 8001,
+      "end": 8432,
+      "success": [],
+      "fails": [],
+      "rows": 8432
+    },
+    {
+      "name": "University of Milano-Bicocca",
+      "year": "2019",
+      "start": 2001,
+      "end": 2553,
+      "success": [],
+      "fails": [],
+      "rows": 2553
+    },
+    {
+      "name": "University of Minnesota Twin Cities",
+      "year": "2018",
+      "start": 8001,
+      "end": 8636,
+      "success": [],
+      "fails": [],
+      "rows": 8636
+    },
+    {
+      "name": "University of Minnesota Twin Cities",
+      "year": "2019",
+      "start": 9001,
+      "end": 9369,
+      "success": [],
+      "fails": [],
+      "rows": 9369
+    },
+    {
+      "name": "University of Minnesota Twin Cities",
+      "year": "2020",
+      "start": 9001,
+      "end": 9998,
+      "success": [],
+      "fails": [],
+      "rows": 9998
+    },
+    {
+      "name": "University of Mississippi",
+      "year": "2019",
+      "start": 1001,
+      "end": 1856,
+      "success": [],
+      "fails": [],
+      "rows": 1856
+    },
+    {
+      "name": "University of Mississippi",
+      "year": "2022",
+      "start": 1001,
+      "end": 2000,
+      "success": [],
+      "fails": [],
+      "rows": 2004
+    },
+    {
+      "name": "University of Munich",
+      "year": "2015",
+      "start": 5001,
+      "end": 5921,
+      "success": [],
+      "fails": [],
+      "rows": 5921
+    },
+    {
+      "name": "University of Munich",
+      "year": "2016",
+      "start": 6001,
+      "end": 6386,
+      "success": [],
+      "fails": [],
+      "rows": 6386
+    },
+    {
+      "name": "University of Munich",
+      "year": "2018",
+      "start": 6001,
+      "end": 6871,
+      "success": [],
+      "fails": [],
+      "rows": 6871
+    },
+    {
+      "name": "University of Munich",
+      "year": "2019",
+      "start": 7001,
+      "end": 7491,
+      "success": [],
+      "fails": [],
+      "rows": 7491
+    },
+    {
+      "name": "University of Munich",
+      "year": "2021",
+      "start": 9001,
+      "end": 9295,
+      "success": [],
+      "fails": [],
+      "rows": 9295
+    },
+    {
+      "name": "University of Munich",
+      "year": "2022",
+      "start": 8001,
+      "end": 8648,
+      "success": [],
+      "fails": [],
+      "rows": 8648
+    },
+    {
+      "name": "University of Naples Federico II",
+      "year": "2015",
+      "start": 4001,
+      "end": 4377,
+      "success": [],
+      "fails": [],
+      "rows": 4377
+    },
+    {
+      "name": "University of Naples Federico II",
+      "year": "2016",
+      "start": 4001,
+      "end": 4715,
+      "success": [],
+      "fails": [],
+      "rows": 4715
+    },
+    {
+      "name": "University of Naples Federico II",
+      "year": "2017",
+      "start": 4001,
+      "end": 5000,
+      "success": [],
+      "fails": [],
+      "rows": 5011
+    },
+    {
+      "name": "University of Naples Federico II",
+      "year": "2018",
+      "start": 4001,
+      "end": 5000,
+      "success": [],
+      "fails": [],
+      "rows": 5803
+    },
+    {
+      "name": "University of Naples Federico II",
+      "year": "2018",
+      "start": 5001,
+      "end": 5803,
+      "success": [],
+      "fails": [],
+      "rows": 5803
+    },
+    {
+      "name": "University of Naples Federico II",
+      "year": "2019",
+      "start": 5001,
+      "end": 5891,
+      "success": [],
+      "fails": [],
+      "rows": 5891
+    },
+    {
+      "name": "University of Naples Federico II",
+      "year": "2020",
+      "start": 6001,
+      "end": 6837,
+      "success": [],
+      "fails": [],
+      "rows": 6837
+    },
+    {
+      "name": "University of Naples Federico II",
+      "year": "2021",
+      "start": 7001,
+      "end": 7373,
+      "success": [],
+      "fails": [],
+      "rows": 7373
+    },
+    {
+      "name": "University of Naples Federico II",
+      "year": "2023",
+      "start": 6001,
+      "end": 6962,
+      "success": [],
+      "fails": [],
+      "rows": 6962
+    },
+    {
+      "name": "University of New Mexico",
+      "year": "2016",
+      "start": 2001,
+      "end": 2608,
+      "success": [],
+      "fails": [],
+      "rows": 2608
+    },
+    {
+      "name": "University of New Mexico",
+      "year": "2019",
+      "start": 2001,
+      "end": 2699,
+      "success": [],
+      "fails": [],
+      "rows": 2699
+    },
+    {
+      "name": "University of Oslo",
+      "year": "2015",
+      "start": 4001,
+      "end": 4701,
+      "success": [],
+      "fails": [],
+      "rows": 4701
+    },
+    {
+      "name": "University of Oslo",
+      "year": "2018",
+      "start": 5001,
+      "end": 5678,
+      "success": [],
+      "fails": [],
+      "rows": 5678
+    },
+    {
+      "name": "University of Oslo",
+      "year": "2019",
+      "start": 6001,
+      "end": 6400,
+      "success": [],
+      "fails": [],
+      "rows": 6400
+    },
+    {
+      "name": "University of Oslo",
+      "year": "2020",
+      "start": 6001,
+      "end": 6717,
+      "success": [],
+      "fails": [],
+      "rows": 6717
+    },
+    {
+      "name": "University of Oslo",
+      "year": "2023",
+      "start": 6001,
+      "end": 7000,
+      "success": [],
+      "fails": [],
+      "rows": 7043
+    },
+    {
+      "name": "University of Oxford",
+      "year": "2015",
+      "start": 11001,
+      "end": 12000,
+      "success": [],
+      "fails": [],
+      "rows": 12015
+    },
+    {
+      "name": "University of Oxford",
+      "year": "2016",
+      "start": 12001,
+      "end": 12758,
+      "success": [],
+      "fails": [],
+      "rows": 12758
+    },
+    {
+      "name": "University of Oxford",
+      "year": "2018",
+      "start": 13001,
+      "end": 13602,
+      "success": [],
+      "fails": [],
+      "rows": 13602
+    },
+    {
+      "name": "University of Oxford",
+      "year": "2019",
+      "start": 14001,
+      "end": 14720,
+      "success": [],
+      "fails": [],
+      "rows": 14720
+    },
+    {
+      "name": "University of Oxford",
+      "year": "2020",
+      "start": 15001,
+      "end": 15953,
+      "success": [],
+      "fails": [],
+      "rows": 15953
+    },
+    {
+      "name": "University of Oxford",
+      "year": "2021",
+      "start": 17001,
+      "end": 17691,
+      "success": [],
+      "fails": [],
+      "rows": 17691
+    },
+    {
+      "name": "University of Oxford",
+      "year": "2022",
+      "start": 16001,
+      "end": 16571,
+      "success": [],
+      "fails": [],
+      "rows": 16571
+    },
+    {
+      "name": "University of Oxford",
+      "year": "2023",
+      "start": 15001,
+      "end": 15641,
+      "success": [],
+      "fails": [],
+      "rows": 15641
+    },
+    {
+      "name": "University of Padua",
+      "year": "2019",
+      "start": 6001,
+      "end": 6708,
+      "success": [],
+      "fails": [],
+      "rows": 6708
+    },
+    {
+      "name": "University of Padua",
+      "year": "2020",
+      "start": 7001,
+      "end": 7910,
+      "success": [],
+      "fails": [],
+      "rows": 7910
+    },
+    {
+      "name": "University of Padua",
+      "year": "2021",
+      "start": 8001,
+      "end": 8790,
+      "success": [],
+      "fails": [],
+      "rows": 8790
+    },
+    {
+      "name": "University of Padua",
+      "year": "2023",
+      "start": 8001,
+      "end": 8352,
+      "success": [],
+      "fails": [],
+      "rows": 8352
+    },
+    {
+      "name": "University of Pavia",
+      "year": "2016",
+      "start": 2001,
+      "end": 2202,
+      "success": [],
+      "fails": [],
+      "rows": 2202
+    },
+    {
+      "name": "University of Pavia",
+      "year": "2017",
+      "start": 2001,
+      "end": 2343,
+      "success": [],
+      "fails": [],
+      "rows": 2343
+    },
+    {
+      "name": "University of Pavia",
+      "year": "2018",
+      "start": 2001,
+      "end": 2375,
+      "success": [],
+      "fails": [],
+      "rows": 2375
+    },
+    {
+      "name": "University of Pavia",
+      "year": "2019",
+      "start": 2001,
+      "end": 2752,
+      "success": [],
+      "fails": [],
+      "rows": 2752
+    },
+    {
+      "name": "University of Pavia",
+      "year": "2021",
+      "start": 3001,
+      "end": 3427,
+      "success": [],
+      "fails": [],
+      "rows": 3427
+    },
+    {
+      "name": "University of Pavia",
+      "year": "2023",
+      "start": 3001,
+      "end": 3316,
+      "success": [],
+      "fails": [],
+      "rows": 3316
+    },
+    {
+      "name": "University of Pennsylvania",
+      "year": "2020",
+      "start": 13001,
+      "end": 13928,
+      "success": [],
+      "fails": [],
+      "rows": 13928
+    },
+    {
+      "name": "University of Pennsylvania",
+      "year": "2022",
+      "start": 14001,
+      "end": 14246,
+      "success": [],
+      "fails": [],
+      "rows": 14246
+    },
+    {
+      "name": "University of Pennsylvania",
+      "year": "2023",
+      "start": 13001,
+      "end": 13649,
+      "success": [],
+      "fails": [],
+      "rows": 13649
+    },
+    {
+      "name": "University of Pisa",
+      "year": "2015",
+      "start": 3001,
+      "end": 3147,
+      "success": [],
+      "fails": [],
+      "rows": 3147
+    },
+    {
+      "name": "University of Pisa",
+      "year": "2016",
+      "start": 3001,
+      "end": 3566,
+      "success": [],
+      "fails": [],
+      "rows": 3566
+    },
+    {
+      "name": "University of Pisa",
+      "year": "2017",
+      "start": 3001,
+      "end": 3674,
+      "success": [],
+      "fails": [],
+      "rows": 3674
+    },
+    {
+      "name": "University of Pisa",
+      "year": "2018",
+      "start": 3001,
+      "end": 3873,
+      "success": [],
+      "fails": [],
+      "rows": 3873
+    },
+    {
+      "name": "University of Pisa",
+      "year": "2019",
+      "start": 4001,
+      "end": 4333,
+      "success": [],
+      "fails": [],
+      "rows": 4333
+    },
+    {
+      "name": "University of Pisa",
+      "year": "2020",
+      "start": 4001,
+      "end": 5000,
+      "success": [],
+      "fails": [],
+      "rows": 5021
+    },
+    {
+      "name": "University of Pisa",
+      "year": "2021",
+      "start": 5001,
+      "end": 5488,
+      "success": [],
+      "fails": [],
+      "rows": 5488
+    },
+    {
+      "name": "University of Pittsburgh",
+      "year": "2015",
+      "start": 7001,
+      "end": 7293,
+      "success": [],
+      "fails": [],
+      "rows": 7293
+    },
+    {
+      "name": "University of Pittsburgh",
+      "year": "2016",
+      "start": 7001,
+      "end": 7494,
+      "success": [],
+      "fails": [],
+      "rows": 7494
+    },
+    {
+      "name": "University of Pittsburgh",
+      "year": "2019",
+      "start": 8001,
+      "end": 8678,
+      "success": [],
+      "fails": [],
+      "rows": 8678
+    },
+    {
+      "name": "University of Pittsburgh",
+      "year": "2022",
+      "start": 9001,
+      "end": 9823,
+      "success": [],
+      "fails": [],
+      "rows": 9823
+    },
+    {
+      "name": "University of Rome Tor Vergata",
+      "year": "2016",
+      "start": 2001,
+      "end": 2536,
+      "success": [],
+      "fails": [],
+      "rows": 2536
+    },
+    {
+      "name": "University of Rome Tor Vergata",
+      "year": "2017",
+      "start": 2001,
+      "end": 2688,
+      "success": [],
+      "fails": [],
+      "rows": 2688
+    },
+    {
+      "name": "University of Rome Tor Vergata",
+      "year": "2018",
+      "start": 2001,
+      "end": 2915,
+      "success": [],
+      "fails": [],
+      "rows": 2915
+    },
+    {
+      "name": "University of Rome Tor Vergata",
+      "year": "2019",
+      "start": 2001,
+      "end": 3000,
+      "success": [],
+      "fails": [],
+      "rows": 3091
+    },
+    {
+      "name": "University of Rome Tor Vergata",
+      "year": "2021",
+      "start": 3001,
+      "end": 3680,
+      "success": [],
+      "fails": [],
+      "rows": 3680
+    },
+    {
+      "name": "University of Rome Tor Vergata",
+      "year": "2023",
+      "start": 3001,
+      "end": 3688,
+      "success": [],
+      "fails": [],
+      "rows": 3688
+    },
+    {
+      "name": "University of Science & Technology of China, CAS",
+      "year": "2016",
+      "start": 5001,
+      "end": 5969,
+      "success": [],
+      "fails": [],
+      "rows": 5969
+    },
+    {
+      "name": "University of Science & Technology of China, CAS",
+      "year": "2019",
+      "start": 9001,
+      "end": 9635,
+      "success": [],
+      "fails": [],
+      "rows": 9635
+    },
+    {
+      "name": "University of Science & Technology of China, CAS",
+      "year": "2023",
+      "start": 14001,
+      "end": 14338,
+      "success": [],
+      "fails": [],
+      "rows": 14338
+    },
+    {
+      "name": "University of Sharjah",
+      "year": "2023",
+      "start": 2001,
+      "end": 2126,
+      "success": [],
+      "fails": [],
+      "rows": 2126
+    },
+    {
+      "name": "University of Sheffield",
+      "year": "2021",
+      "start": 5001,
+      "end": 5734,
+      "success": [],
+      "fails": [],
+      "rows": 5734
+    },
+    {
+      "name": "University of Sheffield",
+      "year": "2023",
+      "start": 4001,
+      "end": 5000,
+      "success": [],
+      "fails": [],
+      "rows": 5055
+    },
+    {
+      "name": "University of Sussex",
+      "year": "2016",
+      "start": 1001,
+      "end": 1946,
+      "success": [],
+      "fails": [],
+      "rows": 1946
+    },
+    {
+      "name": "University of Sydney",
+      "year": "2018",
+      "start": 10001,
+      "end": 10293,
+      "success": [],
+      "fails": [],
+      "rows": 10293
+    },
+    {
+      "name": "University of Sydney",
+      "year": "2019",
+      "start": 11001,
+      "end": 11765,
+      "success": [],
+      "fails": [],
+      "rows": 11765
+    },
+    {
+      "name": "University of Sydney",
+      "year": "2020",
+      "start": 12001,
+      "end": 12879,
+      "success": [],
+      "fails": [],
+      "rows": 12879
+    },
+    {
+      "name": "University of Sydney",
+      "year": "2022",
+      "start": 13001,
+      "end": 13713,
+      "success": [],
+      "fails": [],
+      "rows": 13713
+    },
+    {
+      "name": "University of Sydney",
+      "year": "2023",
+      "start": 12001,
+      "end": 12554,
+      "success": [],
+      "fails": [],
+      "rows": 12554
+    },
+    {
+      "name": "University of Texas Austin",
+      "year": "2015",
+      "start": 5001,
+      "end": 5958,
+      "success": [],
+      "fails": [],
+      "rows": 5958
+    },
+    {
+      "name": "University of Texas Austin",
+      "year": "2016",
+      "start": 6001,
+      "end": 6282,
+      "success": [],
+      "fails": [],
+      "rows": 6282
+    },
+    {
+      "name": "University of Texas Austin",
+      "year": "2017",
+      "start": 6001,
+      "end": 6539,
+      "success": [],
+      "fails": [],
+      "rows": 6539
+    },
+    {
+      "name": "University of Texas Austin",
+      "year": "2018",
+      "start": 6001,
+      "end": 6659,
+      "success": [],
+      "fails": [],
+      "rows": 6659
+    },
+    {
+      "name": "University of Texas Austin",
+      "year": "2019",
+      "start": 7001,
+      "end": 7299,
+      "success": [],
+      "fails": [],
+      "rows": 7299
+    },
+    {
+      "name": "University of Texas Austin",
+      "year": "2020",
+      "start": 7001,
+      "end": 7502,
+      "success": [],
+      "fails": [],
+      "rows": 7502
+    },
+    {
+      "name": "University of Texas Austin",
+      "year": "2021",
+      "start": 7001,
+      "end": 7988,
+      "success": [],
+      "fails": [],
+      "rows": 7988
+    },
+    {
+      "name": "University of Texas Austin",
+      "year": "2023",
+      "start": 7001,
+      "end": 7525,
+      "success": [],
+      "fails": [],
+      "rows": 7525
+    },
+    {
+      "name": "University of Tokyo",
+      "year": "2015",
+      "start": 9001,
+      "end": 9796,
+      "success": [],
+      "fails": [],
+      "rows": 9796
+    },
+    {
+      "name": "University of Tokyo",
+      "year": "2017",
+      "start": 10001,
+      "end": 10328,
+      "success": [],
+      "fails": [],
+      "rows": 10328
+    },
+    {
+      "name": "University of Tokyo",
+      "year": "2018",
+      "start": 10001,
+      "end": 10934,
+      "success": [],
+      "fails": [],
+      "rows": 10934
+    },
+    {
+      "name": "University of Tokyo",
+      "year": "2019",
+      "start": 11001,
+      "end": 11498,
+      "success": [],
+      "fails": [],
+      "rows": 11498
+    },
+    {
+      "name": "University of Tokyo",
+      "year": "2020",
+      "start": 12001,
+      "end": 12127,
+      "success": [],
+      "fails": [],
+      "rows": 12127
+    },
+    {
+      "name": "University of Tokyo",
+      "year": "2022",
+      "start": 12001,
+      "end": 12675,
+      "success": [],
+      "fails": [],
+      "rows": 12675
+    },
+    {
+      "name": "University of Tokyo",
+      "year": "2023",
+      "start": 11001,
+      "end": 11664,
+      "success": [],
+      "fails": [],
+      "rows": 11664
+    },
+    {
+      "name": "University of Toronto",
+      "year": "2016",
+      "start": 14001,
+      "end": 14765,
+      "success": [],
+      "fails": [],
+      "rows": 14765
+    },
+    {
+      "name": "University of Toronto",
+      "year": "2017",
+      "start": 15001,
+      "end": 15290,
+      "success": [],
+      "fails": [],
+      "rows": 15290
+    },
+    {
+      "name": "University of Toronto",
+      "year": "2021",
+      "start": 21001,
+      "end": 21781,
+      "success": [],
+      "fails": [],
+      "rows": 21781
+    },
+    {
+      "name": "University of Toronto",
+      "year": "2023",
+      "start": 19001,
+      "end": 19255,
+      "success": [],
+      "fails": [],
+      "rows": 19255
+    },
+    {
+      "name": "University of Trento",
+      "year": "2017",
+      "start": 1001,
+      "end": 1893,
+      "success": [],
+      "fails": [],
+      "rows": 1893
+    },
+    {
+      "name": "University of Trento",
+      "year": "2018",
+      "start": 1001,
+      "end": 1997,
+      "success": [],
+      "fails": [],
+      "rows": 1997
+    },
+    {
+      "name": "University of Trento",
+      "year": "2021",
+      "start": 2001,
+      "end": 2445,
+      "success": [],
+      "fails": [],
+      "rows": 2445
+    },
+    {
+      "name": "University of Trieste",
+      "year": "2019",
+      "start": 1001,
+      "end": 1698,
+      "success": [],
+      "fails": [],
+      "rows": 1698
+    },
+    {
+      "name": "University of Trieste",
+      "year": "2023",
+      "start": 2001,
+      "end": 2112,
+      "success": [],
+      "fails": [],
+      "rows": 2112
+    },
+    {
+      "name": "University of Tsukuba",
+      "year": "2016",
+      "start": 2001,
+      "end": 2778,
+      "success": [],
+      "fails": [],
+      "rows": 2778
+    },
+    {
+      "name": "University of Tsukuba",
+      "year": "2018",
+      "start": 2001,
+      "end": 3000,
+      "success": [],
+      "fails": [],
+      "rows": 3031
+    },
+    {
+      "name": "University of Tsukuba",
+      "year": "2023",
+      "start": 3001,
+      "end": 3504,
+      "success": [],
+      "fails": [],
+      "rows": 3504
+    },
+    {
+      "name": "University of Turin",
+      "year": "2019",
+      "start": 4001,
+      "end": 5000,
+      "success": [],
+      "fails": [],
+      "rows": 5382
+    },
+    {
+      "name": "University of Turin",
+      "year": "2023",
+      "start": 5001,
+      "end": 5494,
+      "success": [],
+      "fails": [],
+      "rows": 5494
+    },
+    {
+      "name": "University of Valencia",
+      "year": "2016",
+      "start": 3001,
+      "end": 3303,
+      "success": [],
+      "fails": [],
+      "rows": 3303
+    },
+    {
+      "name": "University of Victoria",
+      "year": "2016",
+      "start": 1001,
+      "end": 1866,
+      "success": [],
+      "fails": [],
+      "rows": 1866
+    },
+    {
+      "name": "University of Victoria",
+      "year": "2019",
+      "start": 2001,
+      "end": 2147,
+      "success": [],
+      "fails": [],
+      "rows": 2147
+    },
+    {
+      "name": "University of Virginia",
+      "year": "2018",
+      "start": 4001,
+      "end": 4603,
+      "success": [],
+      "fails": [],
+      "rows": 4603
+    },
+    {
+      "name": "University of Warwick",
+      "year": "2015",
+      "start": 3001,
+      "end": 3535,
+      "success": [],
+      "fails": [],
+      "rows": 3535
+    },
+    {
+      "name": "University of Warwick",
+      "year": "2016",
+      "start": 3001,
+      "end": 3673,
+      "success": [],
+      "fails": [],
+      "rows": 3673
+    },
+    {
+      "name": "University of Warwick",
+      "year": "2017",
+      "start": 3001,
+      "end": 3925,
+      "success": [],
+      "fails": [],
+      "rows": 3925
+    },
+    {
+      "name": "University of Warwick",
+      "year": "2018",
+      "start": 3001,
+      "end": 3994,
+      "success": [],
+      "fails": [],
+      "rows": 3994
+    },
+    {
+      "name": "University of Warwick",
+      "year": "2020",
+      "start": 4001,
+      "end": 4528,
+      "success": [],
+      "fails": [],
+      "rows": 4528
+    },
+    {
+      "name": "University of Warwick",
+      "year": "2023",
+      "start": 4001,
+      "end": 4406,
+      "success": [],
+      "fails": [],
+      "rows": 4406
+    },
+    {
+      "name": "University of Washington Seattle",
+      "year": "2015",
+      "start": 9001,
+      "end": 9992,
+      "success": [],
+      "fails": [],
+      "rows": 9992
+    },
+    {
+      "name": "University of Washington Seattle",
+      "year": "2016",
+      "start": 10001,
+      "end": 10699,
+      "success": [],
+      "fails": [],
+      "rows": 10699
+    },
+    {
+      "name": "University of Washington Seattle",
+      "year": "2017",
+      "start": 10001,
+      "end": 10903,
+      "success": [],
+      "fails": [],
+      "rows": 10903
+    },
+    {
+      "name": "University of Washington Seattle",
+      "year": "2018",
+      "start": 11001,
+      "end": 11417,
+      "success": [],
+      "fails": [],
+      "rows": 11417
+    },
+    {
+      "name": "University of Washington Seattle",
+      "year": "2019",
+      "start": 12001,
+      "end": 12238,
+      "success": [],
+      "fails": [],
+      "rows": 12238
+    },
+    {
+      "name": "University of Washington Seattle",
+      "year": "2022",
+      "start": 13001,
+      "end": 13626,
+      "success": [],
+      "fails": [],
+      "rows": 13626
+    },
+    {
+      "name": "University of Washington Seattle",
+      "year": "2023",
+      "start": 12001,
+      "end": 13000,
+      "success": [],
+      "fails": [],
+      "rows": 13005
+    },
+    {
+      "name": "University of Wisconsin Madison",
+      "year": "2015",
+      "start": 7001,
+      "end": 7259,
+      "success": [],
+      "fails": [],
+      "rows": 7259
+    },
+    {
+      "name": "University of Wisconsin Madison",
+      "year": "2016",
+      "start": 7001,
+      "end": 7737,
+      "success": [],
+      "fails": [],
+      "rows": 7737
+    },
+    {
+      "name": "University of Wisconsin Madison",
+      "year": "2017",
+      "start": 7001,
+      "end": 7868,
+      "success": [],
+      "fails": [],
+      "rows": 7868
+    },
+    {
+      "name": "University of Wisconsin Madison",
+      "year": "2018",
+      "start": 7001,
+      "end": 7945,
+      "success": [],
+      "fails": [],
+      "rows": 7945
+    },
+    {
+      "name": "University of Wisconsin Madison",
+      "year": "2019",
+      "start": 8001,
+      "end": 8543,
+      "success": [],
+      "fails": [],
+      "rows": 8543
+    },
+    {
+      "name": "University of Wisconsin Madison",
+      "year": "2020",
+      "start": 8001,
+      "end": 8791,
+      "success": [],
+      "fails": [],
+      "rows": 8791
+    },
+    {
+      "name": "University of Wisconsin Madison",
+      "year": "2021",
+      "start": 9001,
+      "end": 9852,
+      "success": [],
+      "fails": [],
+      "rows": 9852
+    },
+    {
+      "name": "University of Wisconsin Madison",
+      "year": "2022",
+      "start": 9001,
+      "end": 9322,
+      "success": [],
+      "fails": [],
+      "rows": 9322
+    },
+    {
+      "name": "University of Wisconsin Madison",
+      "year": "2023",
+      "start": 8001,
+      "end": 9000,
+      "success": [],
+      "fails": [],
+      "rows": 9011
+    },
+    {
+      "name": "University of Witwatersrand",
+      "year": "2017",
+      "start": 2001,
+      "end": 2649,
+      "success": [],
+      "fails": [],
+      "rows": 2649
+    },
+    {
+      "name": "University of Witwatersrand",
+      "year": "2018",
+      "start": 2001,
+      "end": 2759,
+      "success": [],
+      "fails": [],
+      "rows": 2759
+    },
+    {
+      "name": "University of Witwatersrand",
+      "year": "2019",
+      "start": 2001,
+      "end": 3000,
+      "success": [],
+      "fails": [],
+      "rows": 3084
+    },
+    {
+      "name": "University of Witwatersrand",
+      "year": "2023",
+      "start": 3001,
+      "end": 3321,
+      "success": [],
+      "fails": [],
+      "rows": 3321
+    },
+    {
+      "name": "University of Wurzburg",
+      "year": "2016",
+      "start": 2001,
+      "end": 2691,
+      "success": [],
+      "fails": [],
+      "rows": 2691
+    },
+    {
+      "name": "University of Wurzburg",
+      "year": "2018",
+      "start": 2001,
+      "end": 2738,
+      "success": [],
+      "fails": [],
+      "rows": 2738
+    },
+    {
+      "name": "University of Wurzburg",
+      "year": "2019",
+      "start": 3001,
+      "end": 3117,
+      "success": [],
+      "fails": [],
+      "rows": 3117
+    },
+    {
+      "name": "University of Wurzburg",
+      "year": "2020",
+      "start": 3001,
+      "end": 3396,
+      "success": [],
+      "fails": [],
+      "rows": 3396
+    },
+    {
+      "name": "University of Zurich",
+      "year": "2019",
+      "start": 6001,
+      "end": 6672,
+      "success": [],
+      "fails": [],
+      "rows": 6672
+    },
+    {
+      "name": "Uppsala University",
+      "year": "2015",
+      "start": 4001,
+      "end": 4703,
+      "success": [],
+      "fails": [],
+      "rows": 4703
+    },
+    {
+      "name": "Uppsala University",
+      "year": "2016",
+      "start": 4001,
+      "end": 5000,
+      "success": [],
+      "fails": [],
+      "rows": 5054
+    },
+    {
+      "name": "Uppsala University",
+      "year": "2017",
+      "start": 5001,
+      "end": 5264,
+      "success": [],
+      "fails": [],
+      "rows": 5264
+    },
+    {
+      "name": "Uppsala University",
+      "year": "2018",
+      "start": 5001,
+      "end": 5239,
+      "success": [],
+      "fails": [],
+      "rows": 5239
+    },
+    {
+      "name": "Uppsala University",
+      "year": "2019",
+      "start": 5001,
+      "end": 5635,
+      "success": [],
+      "fails": [],
+      "rows": 5635
+    },
+    {
+      "name": "Uppsala University",
+      "year": "2020",
+      "start": 5001,
+      "end": 5915,
+      "success": [],
+      "fails": [],
+      "rows": 5915
+    },
+    {
+      "name": "Uppsala University",
+      "year": "2023",
+      "start": 5001,
+      "end": 6000,
+      "success": [],
+      "fails": [],
+      "rows": 6010
+    },
+    {
+      "name": "Vanderbilt University",
+      "year": "2017",
+      "start": 5001,
+      "end": 5549,
+      "success": [],
+      "fails": [],
+      "rows": 5549
+    },
+    {
+      "name": "Vanderbilt University",
+      "year": "2018",
+      "start": 5001,
+      "end": 5717,
+      "success": [],
+      "fails": [],
+      "rows": 5717
+    },
+    {
+      "name": "Vanderbilt University",
+      "year": "2022",
+      "start": 7001,
+      "end": 7373,
+      "success": [],
+      "fails": [],
+      "rows": 7373
+    },
+    {
+      "name": "Wayne State University",
+      "year": "2019",
+      "start": 2001,
+      "end": 2848,
+      "success": [],
+      "fails": [],
+      "rows": 2848
+    },
+    {
+      "name": "Wayne State University",
+      "year": "2020",
+      "start": 2001,
+      "end": 3000,
+      "success": [],
+      "fails": [],
+      "rows": 3001
+    },
+    {
+      "name": "Weizmann Institute of Science",
+      "year": "2016",
+      "start": 1001,
+      "end": 1611,
+      "success": [],
+      "fails": [],
+      "rows": 1611
+    },
+    {
+      "name": "Weizmann Institute of Science",
+      "year": "2017",
+      "start": 1001,
+      "end": 1600,
+      "success": [],
+      "fails": [],
+      "rows": 1600
+    },
+    {
+      "name": "Weizmann Institute of Science",
+      "year": "2019",
+      "start": 1001,
+      "end": 1699,
+      "success": [],
+      "fails": [],
+      "rows": 1699
+    },
+    {
+      "name": "Yale University",
+      "year": "2018",
+      "start": 8001,
+      "end": 8590,
+      "success": [],
+      "fails": [],
+      "rows": 8590
+    },
+    {
+      "name": "Yale University",
+      "year": "2019",
+      "start": 9001,
+      "end": 9610,
+      "success": [],
+      "fails": [],
+      "rows": 9610
+    },
+    {
+      "name": "Yale University",
+      "year": "2020",
+      "start": 10001,
+      "end": 10721,
+      "success": [],
+      "fails": [],
+      "rows": 10721
+    },
+    {
+      "name": "Yale University",
+      "year": "2021",
+      "start": 11001,
+      "end": 11807,
+      "success": [],
+      "fails": [],
+      "rows": 11807
+    },
+    {
+      "name": "Yale University",
+      "year": "2022",
+      "start": 11001,
+      "end": 11607,
+      "success": [],
+      "fails": [],
+      "rows": 11607
+    },
+    {
+      "name": "York University - Canada",
+      "year": "2016",
+      "start": 1001,
+      "end": 1824,
+      "success": [],
+      "fails": [],
+      "rows": 1824
+    },
+    {
+      "name": "York University - Canada",
+      "year": "2018",
+      "start": 1001,
+      "end": 1784,
+      "success": [],
+      "fails": [],
+      "rows": 1784
+    }
+  ]
