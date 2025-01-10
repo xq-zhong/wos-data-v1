@@ -1,0 +1,500 @@
+University of Oxford
+Massachusetts Institute of Technology (MIT)
+Harvard University
+Princeton University
+University of Cambridge
+Stanford University
+California Institute of Technology
+University of California Berkeley
+Imperial College London
+Yale University
+ETH Zurich
+Tsinghua University
+Peking University
+University of Chicago
+University of Pennsylvania
+Johns Hopkins University
+National University of Singapore
+Columbia University
+University of California Los Angeles
+Cornell University
+University of Toronto
+UCL
+University of Michigan-Ann Arbor
+Carnegie Mellon University
+University of Washington Seattle
+Technical University of Munich
+Duke University
+University of Tokyo
+University of Edinburgh
+Nanyang Technological University Singapore
+Northwestern University
+École Polytechnique Fédérale de Lausanne
+New York University
+University of California San Diego
+University of Hong Kong
+Fudan University
+King's College London
+LMU Munich
+University of Melbourne
+Georgia Institute of Technology
+University of British Columbia
+Paris Sciences et Lettres – PSL Research University Paris
+KU Leuven
+The Chinese University of Hong Kong
+McGill University
+University of Illinois at Urbana-Champaign
+Universität Heidelberg
+Zhejiang University
+Karolinska Institute
+London School of Economics and Political Science
+University of Texas at Austin
+Shanghai Jiao Tong University
+University of Manchester
+University of Science and Technology of China
+Kyoto University
+Delft University of Technology
+University of Wisconsin-Madison
+Brown University
+Monash University
+University of Amsterdam
+The University of Sydney
+Seoul National University
+University of California Davis
+Université Paris-Saclay
+Nanjing University
+The Hong Kong University of Science and Technology
+University of California Santa Barbara
+Wageningen University & Research
+Washington University in St Louis
+University of North Carolina at Chapel Hill
+Institut Polytechnique de Paris
+University of Southern California
+Australian National University
+Leiden University
+Boston University
+Sorbonne University
+The University of Queensland
+University of Bristol
+Purdue University West Lafayette
+City University of Hong Kong
+University of Groningen
+Korea Advanced Institute of Science and Technology (KAIST)
+UNSW Sydney
+Humboldt University of Berlin
+The Hong Kong Polytechnic University
+University of Massachusetts
+University of Glasgow
+University of Minnesota
+University of Bonn
+University of California Irvine
+Vanderbilt University
+RWTH Aachen University
+Charité - Universitätsmedizin Berlin
+University of Birmingham
+KTH Royal Institute of Technology
+Lund University
+University of Copenhagen
+Emory University
+University of Sheffield
+Penn State (Main campus)
+University of Tübingen
+Sungkyunkwan University (SKKU)
+Yonsei University (Seoul campus)
+Free University of Berlin
+University of Bern
+University of Warwick
+Erasmus University Rotterdam
+Lomonosov Moscow State University
+University of Helsinki
+Aarhus University
+University of Vienna
+Ghent University
+Rice University
+University of Maryland College Park
+University of Southampton
+McMaster University
+Ohio State University (Main campus)
+University of Alberta
+University of Oslo
+Tohoku University
+University of Göttingen
+Michigan State University
+University of Leeds
+Technical University of Denmark
+Université de Montréal
+University of Basel
+University of Rochester
+University of Adelaide
+University of Freiburg
+University of Florida
+Uppsala University
+Maastricht University
+University of Hamburg
+University of Lausanne
+Wuhan University
+University of Arizona
+University of Nottingham
+Vrije Universiteit Amsterdam
+Trinity College Dublin
+Technical University of Berlin
+Queen Mary University of London
+University of Pittsburgh-Pittsburgh campus
+Radboud University Nijmegen
+Texas A&M University
+University of Colorado Boulder
+Beijing Normal University
+University of Bologna
+University of York
+The University of Western Australia
+University of Barcelona
+Pohang University of Science and Technology (POSTECH)
+Harbin Institute of Technology
+University of Auckland
+Scuola Normale Superiore di Pisa
+Tongji University
+University of Technology Sydney
+Newcastle University
+University of Cologne
+Case Western Reserve University
+TU Dresden
+University of Liverpool
+Osaka University
+University of Virginia (Main campus)
+University of Waterloo
+University of Würzburg
+Huazhong University of Science and Technology
+Karlsruhe Institute of Technology
+Dartmouth College
+Lancaster University
+University of Antwerp
+University of Geneva
+Durham University
+National Taiwan University (NTU)
+University of Exeter
+Université Catholique de Louvain
+King Fahd University of Petroleum and Minerals
+Pompeu Fabra University
+Macquarie University
+Tufts University
+University of Cape Town
+University of Macau
+University of Twente
+Southern University of Science and Technology (SUSTech)
+Université Paris Cité
+Eindhoven University of Technology
+Sapienza University of Rome
+University of St Andrews
+University of Münster
+Indiana University
+Korea University
+Abu Dhabi University
+Stockholm University
+University of Leicester
+University of Ottawa
+Tokyo Institute of Technology
+Aalto University
+University of California Santa Cruz
+University of Notre Dame
+Universitat Autònoma de Barcelona (UAB)
+Ulm University
+University of Mannheim
+University of São Paulo
+Arizona State University (Tempe)
+Beijing Institute of Technology
+Cardiff University
+Chalmers University of Technology
+Deakin University
+Friedrich Schiller University Jena
+Georgetown University
+George Washington University
+Goethe University Frankfurt
+Khalifa University
+Linköping University
+Medical University of Graz
+Medical University of Vienna
+Nagoya University
+Nankai University
+Northeastern University US
+Politecnico di Milano
+Qatar University
+Queensland University of Technology
+Queen’s University Belfast
+Sant’Anna School of Advanced Studies – Pisa
+Sejong University
+Sichuan University
+Sun Yat-sen University
+Tel Aviv University
+Tianjin University
+Ulsan National Institute of Science and Technology (UNIST)
+Université Libre de Bruxelles
+Universiti Teknologi Petronas
+University College Dublin
+University of Aberdeen
+University of Calgary
+University of Erlangen-Nuremberg
+University of Gothenburg
+University of Illinois Chicago
+University of Luxembourg
+University of Miami
+University of Padua
+University of Potsdam
+University of Reading
+University of Surrey
+University of Sussex
+University of Utah
+University of Wollongong
+Vita-Salute San Raffaele University
+Vrije Universiteit Brussel
+Western University
+Xi'an Jiaotong University
+Aalborg University
+Beihang University
+Boston College
+Curtin University
+East China Normal University
+École Normale Supérieure de Lyon
+Hanyang University
+Heinrich Heine University Düsseldorf
+Hong Kong Baptist University
+Humanitas University
+Indian Institute of Science
+Johannes Gutenberg University of Mainz
+King Saud University
+Kyung Hee University
+Lappeenranta-Lahti University of Technology LUT
+La Trobe University
+Lebanese American University
+Macau University of Science and Technology
+Medical University of Innsbruck
+Moscow Institute of Physics and Technology (MIPT)
+North Carolina State University
+Northwestern Polytechnical University
+Prince Mohammad Bin Fahd University
+RCSI University of Medicine and Health Sciences
+RMIT University
+Semmelweis University
+South China University of Technology
+Southern Medical University
+Stony Brook University
+Swinburne University of Technology
+Technical University of Darmstadt
+Tilburg University
+United Arab Emirates University
+Université Laval
+University at Buffalo
+University of Bath
+University of Bergen
+University of California Riverside
+University of Duisburg-Essen
+University of East Anglia
+University of Hawai’i at Mānoa
+University of Iowa
+University of Konstanz
+University of Liège
+University of Malaya
+University of Navarra
+University of Newcastle
+University of Oulu
+University of Southern Denmark
+University of Stuttgart
+University of Tasmania
+Virginia Polytechnic Institute and State University
+Birkbeck University of London
+China Medical University Taiwan
+Dalhousie University
+Flinders University
+Florida State University
+Griffith University
+Hasselt University
+Hebrew University of Jerusalem
+Hunan University
+King Khalid University
+Kyushu University
+Loughborough University
+Norwegian University of Science and Technology
+Oregon Health and Science University
+Queen’s University
+Ruhr University Bochum
+Rutgers University – New Brunswick
+Sharif University of Technology
+Simon Fraser University
+Southeast University
+Stellenbosch University
+St George’s University of London
+Swansea University
+Tampere University
+The University of Tennessee-Knoxville
+TU Wien
+Università Cattolica del Sacro Cuore
+Università della Svizzera italiana
+University of Bayreuth
+University of Bremen
+University of Colorado Denver/Anschutz Medical Campus
+University of Connecticut
+University of Dundee
+University of Electronic Science and Technology of China
+University of Hohenheim
+University of Innsbruck
+University of Kiel
+University of Milan
+University of Pavia
+University of Rome II – Tor Vergata
+University of Sharjah
+University of South Australia
+University of Tartu
+University of the Witwatersrand
+University of Trento
+University of Turku
+University of Victoria
+Western Sydney University
+Xiamen University
+Amirkabir University of Technology
+Aston University
+Autonomous University of Madrid
+Bauman Moscow State Technical University
+Brunel University of London
+City University of London
+Daegu Gyeongbuk Institute of Science and Technology (DGIST)
+Drexel University
+Dublin City University
+Edith Cowan University
+Free University of Bozen-Bolzano
+Hokkaido University
+Illinois Institute of Technology
+IMT Atlantique
+Institut Agro
+Iran University of Science and Technology
+Justus Liebig University Giessen
+King Abdulaziz University
+Koç University
+Leibniz University Hannover
+Middle East Technical University
+Montpellier University
+Sabancı University
+Shenzhen University
+Swedish University of Agricultural Sciences
+Temple University
+Umeå University
+Université Grenoble Alpes
+University College Cork
+University of Brescia
+University of Campinas
+University of Delaware
+University of Essex
+University of Florence
+University of Galway
+University of Georgia (USA)
+University of Kansas
+University of Kent
+University of Milan-Bicocca
+University of Naples Federico II
+University of Otago
+University of Pisa
+University of Saskatchewan
+University of Siena
+University of Southern Queensland
+University of South Florida
+University of St Gallen
+University of Strathclyde
+University of Tsukuba
+Zayed University
+Aix-Marseille University
+Ajman University
+Al Ain University
+American University of the Middle East
+Anna University
+Asia University Taiwan
+Auckland University of Technology
+Australian Catholic University
+Bangor University
+Beijing University of Chemical Technology
+Bond University
+Bournemouth University
+Brandeis University
+Charles Darwin University
+Charles University
+Chongqing University
+Chung-Ang University
+Claude Bernard University Lyon 1
+Colorado School of Mines
+Colorado State University Fort Collins
+Dalian University of Technology
+Federation University Australia
+Florida International University
+George Mason University
+Gwangju Institute of Science and Technology (GIST)
+Heriot-Watt University
+HSE University
+Iowa State University
+James Cook University
+Johannes Kepler University of Linz
+Kermanshah University of Medical Sciences
+Leuphana University of Lüneburg
+Mahatma Gandhi University
+Missouri University of Science and Technology
+Mohammed VI Polytechnic University
+Murdoch University
+National Taiwan University of Science and Technology (Taiwan Tech)
+National Tsing Hua University
+National Yang Ming Chiao Tung University
+Northumbria University
+Polytechnic University of Turin
+Prince Sultan University (PSU)
+Quaid-i-Azam University
+Rensselaer Polytechnic Institute
+Royal Holloway University of London
+Saint Louis University
+Saveetha Institute of Medical and Technical Sciences
+Shanghai University
+Shoolini University of Biotechnology and Management Sciences
+SOAS University of London
+Stevens Institute of Technology
+Sunway University
+Syracuse University
+Taipei Medical University
+Technion Israel Institute of Technology
+Tokyo Medical and Dental University (TMDU)
+TU Dortmund University
+Tulane University
+Umm Al-Qura University
+Universiti Kebangsaan Malaysia
+Universiti Sains Malaysia
+Universiti Teknologi Malaysia
+Universiti Utara Malaysia
+University of Bordeaux
+University of California Merced
+University of Canberra
+University of Central Florida
+University of Coimbra
+University of Cyprus
+University of Fribourg
+University of Genoa
+University of Greifswald
+University of Guelph
+University of Houston
+University of Hull
+University of Johannesburg
+University of Jyväskylä
+University of Kentucky
+University of Lisbon
+University of Manitoba
+University of Marburg
+University of Nebraska-Lincoln
+University of Oregon
+University of Porto
+University of Portsmouth
+University of South Carolina-Columbia
+University of Stirling
+University of Tehran
+University of Texas at Dallas
+University of Toulouse
+University of Turin
+University of Vaasa
+University of Waikato
+Verona University
+Victoria University
+Victoria University of Wellington
+Virginia Commonwealth University
+Wake Forest University
+Washington State University
