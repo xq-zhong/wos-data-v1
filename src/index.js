@@ -1,4 +1,5 @@
-const WosData = require('./src/WosData');
+// const WosData = require('./src/WosData');
+const WosData = require('./service/WosDataRecursion');
 
 const obj = new WosData();
 obj.run().then(() => {

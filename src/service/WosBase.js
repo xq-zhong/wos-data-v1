@@ -66,7 +66,7 @@ class WosBase {
     }
 
     async run() {
-        console.log('start');
+        console.log(`[${this.getTime()}] start`);
         const browser = await puppeteer.launch({ headless: false });
 
         try {
@@ -90,13 +90,13 @@ class WosBase {
 
             await this.process(page, false);
 
-            console.log('处理完成，继续处理超时的数据');
+            // console.log('处理完成，继续处理超时的数据');
 
-            let i = 10;
-            while (i > 0) {
-                await process(page, jsonfilepath, true);
-                i--;
-            }
+            // let i = 10;
+            // while (i > 0) {
+            //     await process(page, jsonfilepath, true);
+            //     i--;
+            // }
 
             // const failsData = await getFailsRowNumByCount(jsonfilepath, exportNumsByOne);
             // fs.writeFileSync(jsonfilepath + '.not', JSON.stringify(notEx, failsData, 4));
@@ -105,15 +105,14 @@ class WosBase {
             // const sheet = xlsx.utils.json_to_sheet(failsData);
             // xlsx.utils.book_append_sheet(workbook, sheet, 'Sheet1');
             // xlsx.writeFile(workbook, `${jsonfilepath}.not.xlsx`);
-
-            await browser.close();
-        } catch (err) {
-            if (browser) {
+            if (browser && browser.close)
                 await browser.close();
-            }
+        } catch (err) {
+            if (browser && browser.close)
+                await browser.close();
             console.log('发生错误:', err);
             // logToFile('发生错误:', false, err = err);
-            const retryTime = getRandomMs(1000 * 10, 1000 * 15);
+            const retryTime = getRandomMs(1000 * 1, 1000 * 2);
             console.log(`等待 ${retryTime / 1000} 秒后重启...`);
             setTimeout(() => {
                 this.run().catch(e => {
@@ -168,7 +167,7 @@ class WosBase {
     }
 
     getTime() {
-        getFormattedTime();
+        return getFormattedTime();
     }
 
     createDirs(dirPath) {
