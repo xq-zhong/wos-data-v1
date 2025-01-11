@@ -1,8 +1,8 @@
 const puppeteer = require('puppeteer');
 const fs = require('fs');
 const xlsx = require('xlsx');
-const { setBaseFilter, setDocumentType, setFilterNameAndYear, getCountByNameAndYear, setDownDir, pullData } = require('./wosUtils');
-const { sleep, getRandomMs, updateJsonFile, createDirs, isProcessed, isNotDirEmpty, getFormattedTime, getEmpData } = require('./utils');
+const { setBaseFilter, setDocumentType, setFilterNameAndYear, getCountByNameAndYear, setDownDir, pullData } = require('../utils/wosUtils');
+const { sleep, getRandomMs, updateJsonFile, createDirs, isProcessed, isNotDirEmpty, getFormattedTime, getEmpData } = require('../utils/utils');
 // const { logToFile } = require('./logUtils');
 
 const wos_url = 'https://webofscience.clarivate.cn/wos/woscc/basic-search';

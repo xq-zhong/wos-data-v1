@@ -1,4 +1,4 @@
-const WosDataNums = require('./WosData');
+const WosData = require('./src/WosData');
 
 const obj = new WosData();
 obj.run().then(() => {

@@ -1,7 +1,7 @@
 const WosBase = require('./WosBase');
 const fs = require('fs');
 const xlsx = require('xlsx');
-const { sleep, getRandomMs, isNotDirEmpty } = require('./utils');
+const { sleep, getRandomMs, isNotDirEmpty } = require('../utils/utils');
 
 const ERR_JSON = 'WosDataRecursion-error.json';
 const RECORD_JSON = 'WosDataRecursion-record.json';

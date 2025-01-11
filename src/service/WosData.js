@@ -1,7 +1,7 @@
 const WosBase = require('./WosBase');
 const fs = require('fs');
 const xlsx = require('xlsx');
-const { sleep, getRandomMs ,isNotDirEmpty} = require('./utils');
+const { sleep, getRandomMs, isNotDirEmpty } = require('../utils/utils');
 
 class WosData extends WosBase {
     // 构造函数
