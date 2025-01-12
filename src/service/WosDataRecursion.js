@@ -28,19 +28,19 @@ class WosDataRecursion extends WosBase {
         });
     }
 
-        /**
-     * 更新记录文件中的数据。
-     * 如果记录文件不存在，则创建一个新的记录文件并写入初始数据。
-     * 如果记录文件存在，则更新或添加新的记录。
-     * 
-     * @param {string} fileName - 记录文件的路径。
-     * @param {string} uniName - 大学名称。
-     * @param {string} year - 年份。
-     * @param {number} rows - 总行数。
-     * @param {number} successRows - 成功行数。
-     * @param {number} failsRows - 失败行数。
-     * @param {number} endRow - 结束行号。
-     */
+    /**
+ * 更新记录文件中的数据。
+ * 如果记录文件不存在，则创建一个新的记录文件并写入初始数据。
+ * 如果记录文件存在，则更新或添加新的记录。
+ * 
+ * @param {string} fileName - 记录文件的路径。
+ * @param {string} uniName - 大学名称。
+ * @param {string} year - 年份。
+ * @param {number} rows - 总行数。
+ * @param {number} successRows - 成功行数。
+ * @param {number} failsRows - 失败行数。
+ * @param {number} endRow - 结束行号。
+ */
     async updateRecord(fileName, uniName, year, rows, successRows, failsRows, endRow) {
         if (!fs.existsSync(fileName)) {
             const recordData = [];
@@ -87,18 +87,18 @@ class WosDataRecursion extends WosBase {
             // todo 暂时调用模拟处理方法
             // await this.processBatch1();
             console.log(`[${this.getTime()}] ****下载完成：${uniName}：${year}： ${start} to ${end}`);
-            // 记录处理进度{uniName,year,successRows,failsRows,end}
+            // 2.处理成功后，更新处理进度（成功行数，及处理到哪一行）
             await this.updateRecord(RECORD_JSON, uniName, year, 0, end - start + 1, 0, end);
-            // // 下载成功后，从ERR_JSON中删除该错误信息（如果有）
-            // if (fs.existsSync(ERR_JSON)) {
-            //     let errData = JSON.parse(fs.readFileSync(ERR_JSON, 'utf8'));
-            //     const matchingItem = errData.find(item => item.name === uniName && item.year === year && item.start === start && item.end === end);
-            //     // 错误大于3次的，会跳过不处理，所以只删除错误次数小于等于3的
-            //     if (matchingItem && matchingItem.errNums <= 3) {
-            //         errData = errData.filter(item => item !== matchingItem);
-            //         fs.writeFileSync(ERR_JSON, JSON.stringify(errData, null, 2));
-            //     }
-            // }
+            // 下载成功后，从ERR_JSON中删除该错误信息（如果有）
+            if (fs.existsSync(ERR_JSON)) {
+                let errData = JSON.parse(fs.readFileSync(ERR_JSON, 'utf8'));
+                const matchingItem = errData.find(item => item.name === uniName && item.year === year && item.start === start && item.end === end);
+                // 错误大于3次的，会跳过不处理，所以只删除错误次数小于等于3的
+                if (matchingItem && matchingItem.errNums <= 3) {
+                    errData = errData.filter(item => item !== matchingItem);
+                    fs.writeFileSync(ERR_JSON, JSON.stringify(errData, null, 2));
+                }
+            }
         } catch (error) {
             console.log(`[${this.getTime()}] 下载出错： ${start} to ${end}:`, error);
 
@@ -118,7 +118,7 @@ class WosDataRecursion extends WosBase {
                         matchingItem.errNums++;
                         if (matchingItem.errNums > 3) {
                             console.log(`[${this.getTime()}] 错误次数超过3次，跳过。`);
-                            // 更新错误行数
+                            // 3.超过3次错误，更新处理进度（失败行数）
                             await this.updateRecord(RECORD_JSON, uniName, year, 0, 0, end - start + 1);
                             return;
                         } else {
@@ -158,22 +158,6 @@ class WosDataRecursion extends WosBase {
         const jsonData = await fs.promises.readFile(this.jsonfilepath, 'utf8');
         let data = JSON.parse(jsonData);
 
-        // // 删除ERR_JSON文件中，错误次数小于3次的错误信息
-        // if (fs.existsSync(ERR_JSON)) {
-        //     let errData = JSON.parse(fs.readFileSync(ERR_JSON, 'utf8'));
-            
-        //     // let errDataDel = errData.filter(item => item.errNums <= 3);
-        //     // if (errDataDel.length > 0) {
-        //     //     for (const item of errDataDel) {
-        //     //         // 更新错误行数
-        //     //         await this.updateRecord(RECORD_JSON, item.name, item.year, 0, 0, -item.errNums);
-        //     //     }
-        //     // }
-
-        //     errData = errData.filter(item => item.errNums > 3);
-        //     fs.writeFileSync(ERR_JSON, JSON.stringify(errData, null, 2));
-        // }
-
         // 读取record.json文件，获取上次处理的状态
         let recordData = [];
         if (fs.existsSync(RECORD_JSON)) {
@@ -204,7 +188,8 @@ class WosDataRecursion extends WosBase {
 
                 // const allRows = 5004;
                 if (!matchingItem)
-                    await this.updateRecord(RECORD_JSON, item.name, year, allRows, 0, 0);
+                    // 1.首次获取总行数，并记录（进度：成功数，失败数，以及处理到那一行都初始化为0）
+                    await this.updateRecord(RECORD_JSON, item.name, year, allRows, 0, 0, 0);
 
                 // 开始导出
                 let startIndex = matchingItem ? matchingItem.end ? matchingItem.end + 1 : 1 : 1;
