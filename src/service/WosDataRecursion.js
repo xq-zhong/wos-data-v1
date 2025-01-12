@@ -11,18 +11,18 @@ class WosDataRecursion extends WosBase {
     constructor() {
         super();
         //每次处理的行数
-        this.exportNumsByOne = 1;
+        this.exportNumsByOne = 1000;
         //输出文件路径
         this.outputUni = `E:/wos-0108-1`;
         //json文件路径（定义了要处理的大学及年份等）
-        this.jsonfilepath = '../data/test.json';
+        this.jsonfilepath = './data/test.json';
     }
 
     async processBatch1(page, name, year, startRow, endRow) {
         return new Promise((resolve, reject) => {
             setTimeout(() => {
                 // 模拟成功率 80%
-                if (Math.random() < 0.01) resolve(true);
+                if (Math.random() < 0.5) resolve(true);
                 else reject(new Error("Processing failed"));
             }, 100);
         });
@@ -48,7 +48,7 @@ class WosDataRecursion extends WosBase {
             fs.writeFileSync(RECORD_JSON, JSON.stringify(recordData, null, 2));
         } else {
             let recordData = JSON.parse(fs.readFileSync(fileName, 'utf8'));
-            const matchingItem = recordData.find(item => item.name === uniName && item.year === year);
+            const matchingItem = recordData.find(item => item.name == uniName && item.year == year);
             if (matchingItem) {
                 if (endRow)
                     matchingItem.end = endRow;
@@ -82,6 +82,9 @@ class WosDataRecursion extends WosBase {
 
     async downloadData(page, uniName, year, start, end, retryCount = 10) {
         try {
+            let errData = JSON.parse(fs.readFileSync(ERR_JSON, 'utf8'));
+            const matchingItem = errData.find(item => item.name == uniName && item.year == year && item.start == start && item.end == end);
+
             console.log(`[${this.getTime()}] ****下载开始：${uniName}：${year}： ${start} to ${end}`);
             await this.processBatch(page, uniName, year, start, end);
             // todo 暂时调用模拟处理方法
@@ -90,14 +93,10 @@ class WosDataRecursion extends WosBase {
             // 2.处理成功后，更新处理进度（成功行数，及处理到哪一行）
             await this.updateRecord(RECORD_JSON, uniName, year, 0, end - start + 1, 0, end);
             // 下载成功后，从ERR_JSON中删除该错误信息（如果有）
-            if (fs.existsSync(ERR_JSON)) {
-                let errData = JSON.parse(fs.readFileSync(ERR_JSON, 'utf8'));
-                const matchingItem = errData.find(item => item.name === uniName && item.year === year && item.start === start && item.end === end);
-                // 错误大于3次的，会跳过不处理，所以只删除错误次数小于等于3的
-                if (matchingItem && matchingItem.errNums <= 3) {
-                    errData = errData.filter(item => item !== matchingItem);
-                    fs.writeFileSync(ERR_JSON, JSON.stringify(errData, null, 2));
-                }
+            // 错误大于3次的，会跳过不处理，所以只删除错误次数小于3次的
+            if (matchingItem && matchingItem.errNums < 3) {
+                errData = errData.filter(item => item !== matchingItem);
+                fs.writeFileSync(ERR_JSON, JSON.stringify(errData, null, 2));
             }
         } catch (error) {
             console.log(`[${this.getTime()}] 下载出错： ${start} to ${end}:`, error);
@@ -112,16 +111,17 @@ class WosDataRecursion extends WosBase {
                     fs.writeFileSync(ERR_JSON, JSON.stringify(errData, null, 2));
                 } else {
                     let errData = JSON.parse(fs.readFileSync(ERR_JSON, 'utf8'));
-                    const matchingItem = errData.find(item => item.name === uniName && item.year === year && item.start === start && item.end === end);
+                    const matchingItem = errData.find(item => item.name == uniName && item.year == year && item.start == start && item.end == end);
 
                     if (matchingItem) {
-                        matchingItem.errNums++;
-                        if (matchingItem.errNums > 3) {
+                        // matchingItem.errNums++;
+                        if (matchingItem.errNums == 3) {
                             console.log(`[${this.getTime()}] 错误次数超过3次，跳过。`);
                             // 3.超过3次错误，更新处理进度（失败行数）
-                            await this.updateRecord(RECORD_JSON, uniName, year, 0, 0, end - start + 1);
+                            await this.updateRecord(RECORD_JSON, uniName, year, 0, 0, end - start + 1, end);
                             return;
                         } else {
+                            matchingItem.errNums++;
                             fs.writeFileSync(ERR_JSON, JSON.stringify(errData, null, 2));
                             throw error;
                         }
@@ -137,6 +137,7 @@ class WosDataRecursion extends WosBase {
             if (retryCount > 0) {
                 // 如果下载失败，减少下载条数并重试
                 const newEnd = start + Math.floor((end - start) / 2);
+
                 console.log(`[${this.getTime()}] 缩小下载范围重试: ${start} to ${newEnd}`);
                 await this.downloadData(page, uniName, year, start, newEnd, retryCount - 1);
                 await this.downloadData(page, uniName, year, newEnd + 1, end, retryCount - 1);
@@ -172,8 +173,8 @@ class WosDataRecursion extends WosBase {
             for (let year = start; year <= end; year++) {
                 let matchingItem;
                 if (recordData)
-                    matchingItem = recordData.find(v => v.name === item.name && v.year === year);
-                if (matchingItem && matchingItem.successRows + matchingItem.failsRows === matchingItem.rows) {
+                    matchingItem = recordData.find(v => v.name == item.name && v.year == year);
+                if (matchingItem && matchingItem.successRows + matchingItem.failsRows == matchingItem.rows) {
                     continue;
                 }
 
@@ -195,6 +196,7 @@ class WosDataRecursion extends WosBase {
                 let startIndex = matchingItem ? matchingItem.end ? matchingItem.end + 1 : 1 : 1;
                 while (startIndex <= allRows) {
                     const endIndex = Math.min(startIndex + this.exportNumsByOne - 1, allRows);
+
                     await this.downloadData(page, item.name, year, startIndex, endIndex);
                     startIndex = endIndex + 1;
                 }
