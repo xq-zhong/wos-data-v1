@@ -112,7 +112,7 @@ class WosBase {
                 await browser.close();
             console.log('发生错误:', err);
             // logToFile('发生错误:', false, err = err);
-            const retryTime = getRandomMs(1000 * 1, 1000 * 2);
+            const retryTime = getRandomMs(1000 * 5, 1000 * 10);
             console.log(`等待 ${retryTime / 1000} 秒后重启...`);
             setTimeout(() => {
                 this.run().catch(e => {

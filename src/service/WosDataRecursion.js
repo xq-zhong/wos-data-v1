@@ -2,6 +2,7 @@ const WosBase = require('./WosBase');
 const fs = require('fs');
 const xlsx = require('xlsx');
 const { sleep, getRandomMs, isNotDirEmpty } = require('../utils/utils');
+const { TimeoutError } = require('puppeteer');
 
 const ERR_JSON = '../data/WosDataRecursion-error.json';
 const RECORD_JSON = '../data/WosDataRecursion-record.json';
@@ -75,7 +76,7 @@ class WosDataRecursion extends WosBase {
         } else {
             // 超时则关闭导出窗口
             await page.locator('app-input-route:nth-of-type(2) span.mat-button-wrapper > span').click();
-            throw new Error('超时了！');
+            throw new TimeoutErrorError('下载超时，请重试。')
         }
     }
 
@@ -95,6 +96,7 @@ class WosDataRecursion extends WosBase {
                 fs.writeFileSync(ERR_JSON, JSON.stringify(errData, null, 2));
             }
         } catch (error) {
+            // if (error instanceof TimeoutError) {
             console.log(`[${this.getTime()}] 下载出错： ${start} to ${end}:`, error);
 
             // 递归处理，直到处理行数为1，记录日志并重试，错误次数超过3次则跳过
@@ -139,6 +141,9 @@ class WosDataRecursion extends WosBase {
                 // 不会到达分支
                 throw error;
             }
+            // } else {
+            //     throw error;
+            // }
         }
     }
 
