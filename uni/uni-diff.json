@@ -1,0 +1,2547 @@
+[
+  {
+    "name": "UCL",
+    "source": "the",
+    "rows": 137157
+  },
+  {
+    "name": "University of Michigan-Ann Arbor",
+    "source": "the",
+    "rows": 0
+  },
+  {
+    "name": "Nanyang Technological University Singapore",
+    "source": "the",
+    "rows": 0
+  },
+  {
+    "name": "École Polytechnique Fédérale de Lausanne",
+    "source": "the",
+    "rows": 41455
+  },
+  {
+    "name": "LMU Munich",
+    "source": "the",
+    "rows": 1
+  },
+  {
+    "name": "Paris Sciences et Lettres – PSL Research University Paris",
+    "source": "the",
+    "rows": 0
+  },
+  {
+    "name": "The Chinese University of Hong Kong",
+    "source": "the",
+    "rows": 0
+  },
+  {
+    "name": "University of Illinois at Urbana-Champaign",
+    "source": "the",
+    "rows": 0
+  },
+  {
+    "name": "Universität Heidelberg",
+    "source": "the",
+    "rows": 0
+  },
+  {
+    "name": "Karolinska Institute",
+    "source": "the",
+    "rows": 0
+  },
+  {
+    "name": "London School of Economics and Political Science",
+    "source": "the",
+    "rows": 0
+  },
+  {
+    "name": "University of Texas at Austin",
+    "source": "the",
+    "rows": 0
+  },
+  {
+    "name": "University of Science and Technology of China",
+    "source": "the",
+    "rows": 0
+  },
+  {
+    "name": "University of Wisconsin-Madison",
+    "source": "the",
+    "rows": 80528
+  },
+  {
+    "name": "The University of Sydney",
+    "source": "the",
+    "rows": 0
+  },
+  {
+    "name": "Seoul National University",
+    "source": "the",
+    "rows": 1
+  },
+  {
+    "name": "Université Paris-Saclay",
+    "source": "the",
+    "rows": 119567
+  },
+  {
+    "name": "The Hong Kong University of Science and Technology",
+    "source": "the",
+    "rows": 0
+  },
+  {
+    "name": "Washington University in St Louis",
+    "source": "the",
+    "rows": 0
+  },
+  {
+    "name": "University of North Carolina at Chapel Hill",
+    "source": "the",
+    "rows": 0
+  },
+  {
+    "name": "Institut Polytechnique de Paris",
+    "source": "the",
+    "rows": 33065
+  },
+  {
+    "name": "Sorbonne University",
+    "source": "the",
+    "rows": 0
+  },
+  {
+    "name": "The University of Queensland",
+    "source": "the",
+    "rows": 0
+  },
+  {
+    "name": "Purdue University West Lafayette",
+    "source": "the",
+    "rows": 0
+  },
+  {
+    "name": "Korea Advanced Institute of Science and Technology (KAIST)",
+    "source": "the",
+    "rows": 0
+  },
+  {
+    "name": "UNSW Sydney",
+    "source": "the",
+    "rows": 9078
+  },
+  {
+    "name": "The Hong Kong Polytechnic University",
+    "source": "the",
+    "rows": 0
+  },
+  {
+    "name": "University of Massachusetts",
+    "source": "the",
+    "rows": 2
+  },
+  {
+    "name": "University of Minnesota",
+    "source": "the",
+    "rows": 1
+  },
+  {
+    "name": "Charité - Universitätsmedizin Berlin",
+    "source": "the",
+    "rows": 45773
+  },
+  {
+    "name": "KTH Royal Institute of Technology",
+    "source": "the",
+    "rows": 0
+  },
+  {
+    "name": "Penn State (Main campus)",
+    "source": "the",
+    "rows": 1
+  },
+  {
+    "name": "University of Tübingen",
+    "source": "the",
+    "rows": 1
+  },
+  {
+    "name": "Yonsei University (Seoul campus)",
+    "source": "the",
+    "rows": 0
+  },
+  {
+    "name": "Ohio State University (Main campus)",
+    "source": "the",
+    "rows": 0
+  },
+  {
+    "name": "University of Göttingen",
+    "source": "the",
+    "rows": 36157
+  },
+  {
+    "name": "Université de Montréal",
+    "source": "the",
+    "rows": 62345
+  },
+  {
+    "name": "Queen Mary University of London",
+    "source": "the",
+    "rows": 2
+  },
+  {
+    "name": "University of Pittsburgh-Pittsburgh campus",
+    "source": "the",
+    "rows": 0
+  },
+  {
+    "name": "Texas A&M University",
+    "source": "the",
+    "rows": 1
+  },
+  {
+    "name": "University of York",
+    "source": "the",
+    "rows": 0
+  },
+  {
+    "name": "The University of Western Australia",
+    "source": "the",
+    "rows": 0
+  },
+  {
+    "name": "Pohang University of Science and Technology (POSTECH)",
+    "source": "the",
+    "rows": 0
+  },
+  {
+    "name": "Newcastle University",
+    "source": "the",
+    "rows": 2
+  },
+  {
+    "name": "TU Dresden",
+    "source": "the",
+    "rows": 1
+  },
+  {
+    "name": "University of Virginia (Main campus)",
+    "source": "the",
+    "rows": 0
+  },
+  {
+    "name": "University of Würzburg",
+    "source": "the",
+    "rows": 30667
+  },
+  {
+    "name": "Huazhong University of Science and Technology",
+    "source": "the",
+    "rows": 0
+  },
+  {
+    "name": "National Taiwan University (NTU)",
+    "source": "the",
+    "rows": 0
+  },
+  {
+    "name": "Université Catholique de Louvain",
+    "source": "the",
+    "rows": 0
+  },
+  {
+    "name": "King Fahd University of Petroleum and Minerals",
+    "source": "the",
+    "rows": 0
+  },
+  {
+    "name": "Southern University of Science and Technology (SUSTech)",
+    "source": "the",
+    "rows": 0
+  },
+  {
+    "name": "Université Paris Cité",
+    "source": "the",
+    "rows": 128553
+  },
+  {
+    "name": "Sapienza University of Rome",
+    "source": "the",
+    "rows": 0
+  },
+  {
+    "name": "University of Münster",
+    "source": "the",
+    "rows": 33507
+  },
+  {
+    "name": "Indiana University",
+    "source": "the",
+    "rows": 0
+  },
+  {
+    "name": "Abu Dhabi University",
+    "source": "the",
+    "rows": 2002
+  },
+  {
+    "name": "Universitat Autònoma de Barcelona (UAB)",
+    "source": "the",
+    "rows": 0
+  },
+  {
+    "name": "University of Mannheim",
+    "source": "the",
+    "rows": 5128
+  },
+  {
+    "name": "University of São Paulo",
+    "source": "the",
+    "rows": 0
+  },
+  {
+    "name": "Arizona State University (Tempe)",
+    "source": "the",
+    "rows": 41923
+  },
+  {
+    "name": "Friedrich Schiller University Jena",
+    "source": "the",
+    "rows": 0
+  },
+  {
+    "name": "Khalifa University",
+    "source": "the",
+    "rows": 0
+  },
+  {
+    "name": "Linköping University",
+    "source": "the",
+    "rows": 25270
+  },
+  {
+    "name": "Northeastern University US",
+    "source": "the",
+    "rows": 0
+  },
+  {
+    "name": "Politecnico di Milano",
+    "source": "the",
+    "rows": 2
+  },
+  {
+    "name": "Queensland University of Technology",
+    "source": "the",
+    "rows": 0
+  },
+  {
+    "name": "Queen’s University Belfast",
+    "source": "the",
+    "rows": 0
+  },
+  {
+    "name": "Sant’Anna School of Advanced Studies – Pisa",
+    "source": "the",
+    "rows": 0
+  },
+  {
+    "name": "Sun Yat-sen University",
+    "source": "the",
+    "rows": 121195
+  },
+  {
+    "name": "Ulsan National Institute of Science and Technology (UNIST)",
+    "source": "the",
+    "rows": 0
+  },
+  {
+    "name": "Université Libre de Bruxelles",
+    "source": "the",
+    "rows": 27351
+  },
+  {
+    "name": "Universiti Teknologi Petronas",
+    "source": "the",
+    "rows": 9684
+  },
+  {
+    "name": "University of Erlangen-Nuremberg",
+    "source": "the",
+    "rows": 44572
+  },
+  {
+    "name": "University of Luxembourg",
+    "source": "the",
+    "rows": 11328
+  },
+  {
+    "name": "Western University",
+    "source": "the",
+    "rows": 0
+  },
+  {
+    "name": "Boston College",
+    "source": "the",
+    "rows": 10242
+  },
+  {
+    "name": "École Normale Supérieure de Lyon",
+    "source": "the",
+    "rows": 0
+  },
+  {
+    "name": "Heinrich Heine University Düsseldorf",
+    "source": "the",
+    "rows": 23570
+  },
+  {
+    "name": "Indian Institute of Science",
+    "source": "the",
+    "rows": 0
+  },
+  {
+    "name": "Kyung Hee University",
+    "source": "the",
+    "rows": 33961
+  },
+  {
+    "name": "Lappeenranta-Lahti University of Technology LUT",
+    "source": "the",
+    "rows": 6452
+  },
+  {
+    "name": "Lebanese American University",
+    "source": "the",
+    "rows": 7962
+  },
+  {
+    "name": "Macau University of Science and Technology",
+    "source": "the",
+    "rows": 0
+  },
+  {
+    "name": "Moscow Institute of Physics and Technology (MIPT)",
+    "source": "the",
+    "rows": 0
+  },
+  {
+    "name": "Prince Mohammad Bin Fahd University",
+    "source": "the",
+    "rows": 2012
+  },
+  {
+    "name": "RCSI University of Medicine and Health Sciences",
+    "source": "the",
+    "rows": 0
+  },
+  {
+    "name": "RMIT University",
+    "source": "the",
+    "rows": 0
+  },
+  {
+    "name": "Semmelweis University",
+    "source": "the",
+    "rows": 13158
+  },
+  {
+    "name": "Southern Medical University",
+    "source": "the",
+    "rows": 1
+  },
+  {
+    "name": "Stony Brook University",
+    "source": "the",
+    "rows": 30405
+  },
+  {
+    "name": "Technical University of Darmstadt",
+    "source": "the",
+    "rows": 21434
+  },
+  {
+    "name": "Tilburg University",
+    "source": "the",
+    "rows": 10232
+  },
+  {
+    "name": "Université Laval",
+    "source": "the",
+    "rows": 0
+  },
+  {
+    "name": "University at Buffalo",
+    "source": "the",
+    "rows": 0
+  },
+  {
+    "name": "University of Duisburg-Essen",
+    "source": "the",
+    "rows": 30667
+  },
+  {
+    "name": "University of Hawai’i at Mānoa",
+    "source": "the",
+    "rows": 0
+  },
+  {
+    "name": "University of Konstanz",
+    "source": "the",
+    "rows": 10357
+  },
+  {
+    "name": "University of Liège",
+    "source": "the",
+    "rows": 23101
+  },
+  {
+    "name": "University of Malaya",
+    "source": "the",
+    "rows": 0
+  },
+  {
+    "name": "University of Stuttgart",
+    "source": "the",
+    "rows": 20469
+  },
+  {
+    "name": "Virginia Polytechnic Institute and State University",
+    "source": "the",
+    "rows": 0
+  },
+  {
+    "name": "Birkbeck University of London",
+    "source": "the",
+    "rows": 0
+  },
+  {
+    "name": "Flinders University",
+    "source": "the",
+    "rows": 0
+  },
+  {
+    "name": "Hasselt University",
+    "source": "the",
+    "rows": 9350
+  },
+  {
+    "name": "Loughborough University",
+    "source": "the",
+    "rows": 16695
+  },
+  {
+    "name": "Norwegian University of Science and Technology",
+    "source": "the",
+    "rows": 0
+  },
+  {
+    "name": "Oregon Health and Science University",
+    "source": "the",
+    "rows": 0
+  },
+  {
+    "name": "Queen’s University",
+    "source": "the",
+    "rows": 0
+  },
+  {
+    "name": "Rutgers University – New Brunswick",
+    "source": "the",
+    "rows": 59780
+  },
+  {
+    "name": "Sharif University of Technology",
+    "source": "the",
+    "rows": 17139
+  },
+  {
+    "name": "Southeast University",
+    "source": "the",
+    "rows": 1
+  },
+  {
+    "name": "St George’s University of London",
+    "source": "the",
+    "rows": 0
+  },
+  {
+    "name": "The University of Tennessee-Knoxville",
+    "source": "the",
+    "rows": 0
+  },
+  {
+    "name": "TU Wien",
+    "source": "the",
+    "rows": 11312
+  },
+  {
+    "name": "Università Cattolica del Sacro Cuore",
+    "source": "the",
+    "rows": 0
+  },
+  {
+    "name": "Università della Svizzera italiana",
+    "source": "the",
+    "rows": 6277
+  },
+  {
+    "name": "University of Bayreuth",
+    "source": "the",
+    "rows": 10928
+  },
+  {
+    "name": "University of Bremen",
+    "source": "the",
+    "rows": 17234
+  },
+  {
+    "name": "University of Colorado Denver/Anschutz Medical Campus",
+    "source": "the",
+    "rows": 0
+  },
+  {
+    "name": "University of Electronic Science and Technology of China",
+    "source": "the",
+    "rows": 0
+  },
+  {
+    "name": "University of Hohenheim",
+    "source": "the",
+    "rows": 0
+  },
+  {
+    "name": "University of Rome II – Tor Vergata",
+    "source": "the",
+    "rows": 0
+  },
+  {
+    "name": "University of the Witwatersrand",
+    "source": "the",
+    "rows": 0
+  },
+  {
+    "name": "Amirkabir University of Technology",
+    "source": "the",
+    "rows": 19988
+  },
+  {
+    "name": "Aston University",
+    "source": "the",
+    "rows": 9374
+  },
+  {
+    "name": "Bauman Moscow State Technical University",
+    "source": "the",
+    "rows": 5899
+  },
+  {
+    "name": "Brunel University of London",
+    "source": "the",
+    "rows": 0
+  },
+  {
+    "name": "City University of London",
+    "source": "the",
+    "rows": 8520
+  },
+  {
+    "name": "Daegu Gyeongbuk Institute of Science and Technology (DGIST)",
+    "source": "the",
+    "rows": 0
+  },
+  {
+    "name": "Dublin City University",
+    "source": "the",
+    "rows": 8528
+  },
+  {
+    "name": "Free University of Bozen-Bolzano",
+    "source": "the",
+    "rows": 5413
+  },
+  {
+    "name": "Illinois Institute of Technology",
+    "source": "the",
+    "rows": 7080
+  },
+  {
+    "name": "IMT Atlantique",
+    "source": "the",
+    "rows": 5278
+  },
+  {
+    "name": "Institut Agro",
+    "source": "the",
+    "rows": 18084
+  },
+  {
+    "name": "Iran University of Science and Technology",
+    "source": "the",
+    "rows": 0
+  },
+  {
+    "name": "Justus Liebig University Giessen",
+    "source": "the",
+    "rows": 21107
+  },
+  {
+    "name": "Koç University",
+    "source": "the",
+    "rows": 9600
+  },
+  {
+    "name": "Leibniz University Hannover",
+    "source": "the",
+    "rows": 18095
+  },
+  {
+    "name": "Middle East Technical University",
+    "source": "the",
+    "rows": 14376
+  },
+  {
+    "name": "Montpellier University",
+    "source": "the",
+    "rows": 0
+  },
+  {
+    "name": "Sabancı University",
+    "source": "the",
+    "rows": 0
+  },
+  {
+    "name": "Umeå University",
+    "source": "the",
+    "rows": 21606
+  },
+  {
+    "name": "Université Grenoble Alpes",
+    "source": "the",
+    "rows": 6
+  },
+  {
+    "name": "University of Campinas",
+    "source": "the",
+    "rows": 0
+  },
+  {
+    "name": "University of Essex",
+    "source": "the",
+    "rows": 10313
+  },
+  {
+    "name": "University of Galway",
+    "source": "the",
+    "rows": 0
+  },
+  {
+    "name": "University of Georgia (USA)",
+    "source": "the",
+    "rows": 0
+  },
+  {
+    "name": "University of Kent",
+    "source": "the",
+    "rows": 13210
+  },
+  {
+    "name": "University of Milan-Bicocca",
+    "source": "the",
+    "rows": 0
+  },
+  {
+    "name": "University of Saskatchewan",
+    "source": "the",
+    "rows": 25371
+  },
+  {
+    "name": "University of Siena",
+    "source": "the",
+    "rows": 16181
+  },
+  {
+    "name": "University of St Gallen",
+    "source": "the",
+    "rows": 2938
+  },
+  {
+    "name": "Zayed University",
+    "source": "the",
+    "rows": 2985
+  },
+  {
+    "name": "Aix-Marseille University",
+    "source": "the",
+    "rows": 0
+  },
+  {
+    "name": "Ajman University",
+    "source": "the",
+    "rows": 3069
+  },
+  {
+    "name": "Al Ain University",
+    "source": "the",
+    "rows": 0
+  },
+  {
+    "name": "American University of the Middle East",
+    "source": "the",
+    "rows": 2358
+  },
+  {
+    "name": "Anna University",
+    "source": "the",
+    "rows": 14674
+  },
+  {
+    "name": "Asia University Taiwan",
+    "source": "the",
+    "rows": 10717
+  },
+  {
+    "name": "Auckland University of Technology",
+    "source": "the",
+    "rows": 8748
+  },
+  {
+    "name": "Bangor University",
+    "source": "the",
+    "rows": 7287
+  },
+  {
+    "name": "Bond University",
+    "source": "the",
+    "rows": 3815
+  },
+  {
+    "name": "Bournemouth University",
+    "source": "the",
+    "rows": 5891
+  },
+  {
+    "name": "Brandeis University",
+    "source": "the",
+    "rows": 6565
+  },
+  {
+    "name": "Charles Darwin University",
+    "source": "the",
+    "rows": 6703
+  },
+  {
+    "name": "Charles University",
+    "source": "the",
+    "rows": 0
+  },
+  {
+    "name": "Chung-Ang University",
+    "source": "the",
+    "rows": 22303
+  },
+  {
+    "name": "Claude Bernard University Lyon 1",
+    "source": "the",
+    "rows": 0
+  },
+  {
+    "name": "Colorado School of Mines",
+    "source": "the",
+    "rows": 9565
+  },
+  {
+    "name": "Colorado State University Fort Collins",
+    "source": "the",
+    "rows": 0
+  },
+  {
+    "name": "Federation University Australia",
+    "source": "the",
+    "rows": 4640
+  },
+  {
+    "name": "George Mason University",
+    "source": "the",
+    "rows": 17561
+  },
+  {
+    "name": "Gwangju Institute of Science and Technology (GIST)",
+    "source": "the",
+    "rows": 0
+  },
+  {
+    "name": "Heriot-Watt University",
+    "source": "the",
+    "rows": 12291
+  },
+  {
+    "name": "HSE University",
+    "source": "the",
+    "rows": 0
+  },
+  {
+    "name": "Johannes Kepler University of Linz",
+    "source": "the",
+    "rows": 0
+  },
+  {
+    "name": "Kermanshah University of Medical Sciences",
+    "source": "the",
+    "rows": 5862
+  },
+  {
+    "name": "Leuphana University of Lüneburg",
+    "source": "the",
+    "rows": 0
+  },
+  {
+    "name": "Mahatma Gandhi University",
+    "source": "the",
+    "rows": 0
+  },
+  {
+    "name": "Missouri University of Science and Technology",
+    "source": "the",
+    "rows": 0
+  },
+  {
+    "name": "Mohammed VI Polytechnic University",
+    "source": "the",
+    "rows": 4027
+  },
+  {
+    "name": "Murdoch University",
+    "source": "the",
+    "rows": 11222
+  },
+  {
+    "name": "National Taiwan University of Science and Technology (Taiwan Tech)",
+    "source": "the",
+    "rows": 0
+  },
+  {
+    "name": "National Tsing Hua University",
+    "source": "the",
+    "rows": 21271
+  },
+  {
+    "name": "National Yang Ming Chiao Tung University",
+    "source": "the",
+    "rows": 41633
+  },
+  {
+    "name": "Northumbria University",
+    "source": "the",
+    "rows": 13630
+  },
+  {
+    "name": "Polytechnic University of Turin",
+    "source": "the",
+    "rows": 26314
+  },
+  {
+    "name": "Prince Sultan University (PSU)",
+    "source": "the",
+    "rows": 0
+  },
+  {
+    "name": "Quaid-i-Azam University",
+    "source": "the",
+    "rows": 14985
+  },
+  {
+    "name": "Rensselaer Polytechnic Institute",
+    "source": "the",
+    "rows": 9742
+  },
+  {
+    "name": "Royal Holloway University of London",
+    "source": "the",
+    "rows": 0
+  },
+  {
+    "name": "Saint Louis University",
+    "source": "the",
+    "rows": 14285
+  },
+  {
+    "name": "Saveetha Institute of Medical and Technical Sciences",
+    "source": "the",
+    "rows": 0
+  },
+  {
+    "name": "Shoolini University of Biotechnology and Management Sciences",
+    "source": "the",
+    "rows": 0
+  },
+  {
+    "name": "SOAS University of London",
+    "source": "the",
+    "rows": 0
+  },
+  {
+    "name": "Stevens Institute of Technology",
+    "source": "the",
+    "rows": 5413
+  },
+  {
+    "name": "Sunway University",
+    "source": "the",
+    "rows": 4923
+  },
+  {
+    "name": "Taipei Medical University",
+    "source": "the",
+    "rows": 17908
+  },
+  {
+    "name": "Tokyo Medical and Dental University (TMDU)",
+    "source": "the",
+    "rows": 0
+  },
+  {
+    "name": "TU Dortmund University",
+    "source": "the",
+    "rows": 0
+  },
+  {
+    "name": "Umm Al-Qura University",
+    "source": "the",
+    "rows": 12012
+  },
+  {
+    "name": "Universiti Kebangsaan Malaysia",
+    "source": "the",
+    "rows": 24039
+  },
+  {
+    "name": "Universiti Utara Malaysia",
+    "source": "the",
+    "rows": 2877
+  },
+  {
+    "name": "University of Bordeaux",
+    "source": "the",
+    "rows": 0
+  },
+  {
+    "name": "University of California Merced",
+    "source": "the",
+    "rows": 7668
+  },
+  {
+    "name": "University of Canberra",
+    "source": "the",
+    "rows": 6901
+  },
+  {
+    "name": "University of Coimbra",
+    "source": "the",
+    "rows": 0
+  },
+  {
+    "name": "University of Cyprus",
+    "source": "the",
+    "rows": 8934
+  },
+  {
+    "name": "University of Fribourg",
+    "source": "the",
+    "rows": 9090
+  },
+  {
+    "name": "University of Greifswald",
+    "source": "the",
+    "rows": 0
+  },
+  {
+    "name": "University of Guelph",
+    "source": "the",
+    "rows": 21564
+  },
+  {
+    "name": "University of Hull",
+    "source": "the",
+    "rows": 10875
+  },
+  {
+    "name": "University of Jyväskylä",
+    "source": "the",
+    "rows": 14144
+  },
+  {
+    "name": "University of Lisbon",
+    "source": "the",
+    "rows": 0
+  },
+  {
+    "name": "University of Marburg",
+    "source": "the",
+    "rows": 0
+  },
+  {
+    "name": "University of Nebraska-Lincoln",
+    "source": "the",
+    "rows": 23859
+  },
+  {
+    "name": "University of Porto",
+    "source": "the",
+    "rows": 0
+  },
+  {
+    "name": "University of Portsmouth",
+    "source": "the",
+    "rows": 10224
+  },
+  {
+    "name": "University of South Carolina-Columbia",
+    "source": "the",
+    "rows": 24647
+  },
+  {
+    "name": "University of Stirling",
+    "source": "the",
+    "rows": 7401
+  },
+  {
+    "name": "University of Texas at Dallas",
+    "source": "the",
+    "rows": 0
+  },
+  {
+    "name": "University of Toulouse",
+    "source": "the",
+    "rows": 0
+  },
+  {
+    "name": "University of Vaasa",
+    "source": "the",
+    "rows": 2285
+  },
+  {
+    "name": "University of Waikato",
+    "source": "the",
+    "rows": 6903
+  },
+  {
+    "name": "Verona University",
+    "source": "the",
+    "rows": 0
+  },
+  {
+    "name": "Victoria University",
+    "source": "the",
+    "rows": 6930
+  },
+  {
+    "name": "Victoria University of Wellington",
+    "source": "the",
+    "rows": 0
+  },
+  {
+    "name": "Massachusetts Institute of Technology",
+    "source": "qs",
+    "rows": 0
+  },
+  {
+    "name": "ETH Zurich - Swiss Federal Institute of Technology",
+    "source": "qs",
+    "rows": 0
+  },
+  {
+    "name": "University of California, Berkeley",
+    "source": "qs",
+    "rows": 84008
+  },
+  {
+    "name": "University of New South Wales",
+    "source": "qs",
+    "rows": 0
+  },
+  {
+    "name": "Université Paris Sciences et Lettres",
+    "source": "qs",
+    "rows": 0
+  },
+  {
+    "name": "University of California, Los Angeles",
+    "source": "qs",
+    "rows": 107529
+  },
+  {
+    "name": "Hong Kong University of Science and Technology",
+    "source": "qs",
+    "rows": 0
+  },
+  {
+    "name": "Korea Advanced Institute of Science and Technology",
+    "source": "qs",
+    "rows": 0
+  },
+  {
+    "name": "Ludwig Maximilian University of Munich",
+    "source": "qs",
+    "rows": 0
+  },
+  {
+    "name": "University of California, San Diego",
+    "source": "qs",
+    "rows": 91066
+  },
+  {
+    "name": "University of Washington",
+    "source": "qs",
+    "rows": 118692
+  },
+  {
+    "name": "Heidelberg University",
+    "source": "qs",
+    "rows": 0
+  },
+  {
+    "name": "Purdue University",
+    "source": "qs",
+    "rows": 65133
+  },
+  {
+    "name": "Pontifical Catholic University of Chile",
+    "source": "qs",
+    "rows": 0
+  },
+  {
+    "name": "National Autonomous University of Mexico",
+    "source": "qs",
+    "rows": 0
+  },
+  {
+    "name": "Pohang University of Science and Technology",
+    "source": "qs",
+    "rows": 0
+  },
+  {
+    "name": "Indian Institute of Technology Bombay",
+    "source": "qs",
+    "rows": 0
+  },
+  {
+    "name": "Sungkyunkwan University",
+    "source": "qs",
+    "rows": 0
+  },
+  {
+    "name": "University of California, Davis",
+    "source": "qs",
+    "rows": 70707
+  },
+  {
+    "name": "National University of Malaysia",
+    "source": "qs",
+    "rows": 0
+  },
+  {
+    "name": "University of Chile",
+    "source": "qs",
+    "rows": 0
+  },
+  {
+    "name": "University of Science, Malaysia",
+    "source": "qs",
+    "rows": 0
+  },
+  {
+    "name": "Universiti Putra Malaysia",
+    "source": "qs",
+    "rows": 22625
+  },
+  {
+    "name": "Indian Institute of Technology Delhi",
+    "source": "qs",
+    "rows": 0
+  },
+  {
+    "name": "University of Montreal",
+    "source": "qs",
+    "rows": 0
+  },
+  {
+    "name": "Washington University in St. Louis",
+    "source": "qs",
+    "rows": 0
+  },
+  {
+    "name": "University of California, Santa Barbara",
+    "source": "qs",
+    "rows": 30385
+  },
+  {
+    "name": "University of Los Andes",
+    "source": "qs",
+    "rows": 0
+  },
+  {
+    "name": "Waseda University",
+    "source": "qs",
+    "rows": 20413
+  },
+  {
+    "name": "Hamad bin Khalifa University",
+    "source": "qs",
+    "rows": 0
+  },
+  {
+    "name": "Monterrey Institute of Technology and Higher Education",
+    "source": "qs",
+    "rows": 0
+  },
+  {
+    "name": "Keio University",
+    "source": "qs",
+    "rows": 28589
+  },
+  {
+    "name": "Vienna University of Technology",
+    "source": "qs",
+    "rows": 0
+  },
+  {
+    "name": "Queen's University",
+    "source": "qs",
+    "rows": 0
+  },
+  {
+    "name": "Arizona State University",
+    "source": "qs",
+    "rows": 48723
+  },
+  {
+    "name": "Université catholique de Louvain",
+    "source": "qs",
+    "rows": 0
+  },
+  {
+    "name": "École des Ponts ParisTech",
+    "source": "qs",
+    "rows": 5748
+  },
+  {
+    "name": "Queen's University Belfast",
+    "source": "qs",
+    "rows": 0
+  },
+  {
+    "name": "University of Indonesia",
+    "source": "qs",
+    "rows": 13016
+  },
+  {
+    "name": "National Cheng Kung University",
+    "source": "qs",
+    "rows": 30311
+  },
+  {
+    "name": "University of Maryland, College Park",
+    "source": "qs",
+    "rows": 55027
+  },
+  {
+    "name": "National University of Colombia",
+    "source": "qs",
+    "rows": 0
+  },
+  {
+    "name": "Indian Institute of Technology Kharagpur",
+    "source": "qs",
+    "rows": 0
+  },
+  {
+    "name": "Indian Institute of Technology Madras",
+    "source": "qs",
+    "rows": 0
+  },
+  {
+    "name": "Chulalongkorn University",
+    "source": "qs",
+    "rows": 23734
+  },
+  {
+    "name": "Free University of Brussels",
+    "source": "qs",
+    "rows": 26
+  },
+  {
+    "name": "University of Phnom Penh",
+    "source": "qs",
+    "rows": 0
+  },
+  {
+    "name": "Dresden University of Technology",
+    "source": "qs",
+    "rows": 0
+  },
+  {
+    "name": "Gadjah Mada University",
+    "source": "qs",
+    "rows": 8959
+  },
+  {
+    "name": "Massey University",
+    "source": "qs",
+    "rows": 13848
+  },
+  {
+    "name": "Darmstadt University of Technology",
+    "source": "qs",
+    "rows": 0
+  },
+  {
+    "name": "Charles University in Prague",
+    "source": "qs",
+    "rows": 0
+  },
+  {
+    "name": "Taylor's University",
+    "source": "qs",
+    "rows": 2892
+  },
+  {
+    "name": "Bandung Institute of Technology",
+    "source": "qs",
+    "rows": 0
+  },
+  {
+    "name": "University of Canterbury",
+    "source": "qs",
+    "rows": 12141
+  },
+  {
+    "name": "Indian Institute of Technology Kanpur",
+    "source": "qs",
+    "rows": 0
+  },
+  {
+    "name": "UCSI University",
+    "source": "qs",
+    "rows": 2867
+  },
+  {
+    "name": "National University of Ireland, Galway",
+    "source": "qs",
+    "rows": 0
+  },
+  {
+    "name": "Ulsan National Institute of Science and Technology",
+    "source": "qs",
+    "rows": 0
+  },
+  {
+    "name": "Université Paris 1 Panthéon-Sorbonne",
+    "source": "qs",
+    "rows": 1
+  },
+  {
+    "name": "Southern University of Science and Technology",
+    "source": "qs",
+    "rows": 0
+  },
+  {
+    "name": "Charles III University of Madrid",
+    "source": "qs",
+    "rows": 0
+  },
+  {
+    "name": "University of Paris",
+    "source": "qs",
+    "rows": 0
+  },
+  {
+    "name": "Federal University of Rio de Janeiro",
+    "source": "qs",
+    "rows": 0
+  },
+  {
+    "name": "University of California, Irvine",
+    "source": "qs",
+    "rows": 48948
+  },
+  {
+    "name": "Airlangga University",
+    "source": "qs",
+    "rows": 5394
+  },
+  {
+    "name": "Peoples' Friendship University of Russia",
+    "source": "qs",
+    "rows": 9489
+  },
+  {
+    "name": "L.N. Gumilyov Eurasian National University",
+    "source": "qs",
+    "rows": 2349
+  },
+  {
+    "name": "National Technical University of Athens",
+    "source": "qs",
+    "rows": 15964
+  },
+  {
+    "name": "Technical University of Madrid",
+    "source": "qs",
+    "rows": 0
+  },
+  {
+    "name": "Daegu Gyeongbuk Institute of Science and Technology",
+    "source": "qs",
+    "rows": 0
+  },
+  {
+    "name": "Istanbul Technical University",
+    "source": "qs",
+    "rows": 17615
+  },
+  {
+    "name": "Rutgers University–New Brunswick",
+    "source": "qs",
+    "rows": 59780
+  },
+  {
+    "name": "University of Delhi",
+    "source": "qs",
+    "rows": 18377
+  },
+  {
+    "name": "American University of Sharjah",
+    "source": "qs",
+    "rows": 3873
+  },
+  {
+    "name": "University of Grenoble Alpes",
+    "source": "qs",
+    "rows": 0
+  },
+  {
+    "name": "Indian Institute of Technology Roorkee",
+    "source": "qs",
+    "rows": 0
+  },
+  {
+    "name": "Lappeenranta University of Technology",
+    "source": "qs",
+    "rows": 0
+  },
+  {
+    "name": "University of the Philippines",
+    "source": "qs",
+    "rows": 0
+  },
+  {
+    "name": "Brunel University London",
+    "source": "qs",
+    "rows": 0
+  },
+  {
+    "name": "Indian Institute of Technology Guwahati",
+    "source": "qs",
+    "rows": 0
+  },
+  {
+    "name": "Sciences Po",
+    "source": "qs",
+    "rows": 42
+  },
+  {
+    "name": "City, University of London",
+    "source": "qs",
+    "rows": 8520
+  },
+  {
+    "name": "National University of Sciences and Technology",
+    "source": "qs",
+    "rows": 0
+  },
+  {
+    "name": "Gwangju Institute of Science and Technology",
+    "source": "qs",
+    "rows": 0
+  },
+  {
+    "name": "Pontifical Catholic University of Peru",
+    "source": "qs",
+    "rows": 0
+  },
+  {
+    "name": "University of Aveiro",
+    "source": "qs",
+    "rows": 0
+  },
+  {
+    "name": "Sultan Qaboos University",
+    "source": "qs",
+    "rows": 7701
+  },
+  {
+    "name": "Saint Petersburg State University",
+    "source": "qs",
+    "rows": 26449
+  },
+  {
+    "name": "University of Illinois at Chicago",
+    "source": "qs",
+    "rows": 0
+  },
+  {
+    "name": "Mahidol University",
+    "source": "qs",
+    "rows": 24508
+  },
+  {
+    "name": "University of Jordan",
+    "source": "qs",
+    "rows": 9597
+  },
+  {
+    "name": "University of Lincoln",
+    "source": "qs",
+    "rows": 6083
+  },
+  {
+    "name": "Polytechnic University of Catalonia",
+    "source": "qs",
+    "rows": 0
+  },
+  {
+    "name": "Pontifical Xavierian University",
+    "source": "qs",
+    "rows": 0
+  },
+  {
+    "name": "Freiberg University of Mining and Technology",
+    "source": "qs",
+    "rows": 0
+  },
+  {
+    "name": "Universiti Brunei Darussalam",
+    "source": "qs",
+    "rows": 0
+  },
+  {
+    "name": "Belarusian State University",
+    "source": "qs",
+    "rows": 5129
+  },
+  {
+    "name": "New University of Lisbon",
+    "source": "qs",
+    "rows": 0
+  },
+  {
+    "name": "Università Vita-Salute San Raffaele",
+    "source": "qs",
+    "rows": 0
+  },
+  {
+    "name": "Virginia Tech",
+    "source": "qs",
+    "rows": 28662
+  },
+  {
+    "name": "National Taiwan University of Science and Technology",
+    "source": "qs",
+    "rows": 0
+  },
+  {
+    "name": "National and Kapodistrian University of Athens",
+    "source": "qs",
+    "rows": 0
+  },
+  {
+    "name": "University of California, Santa Cruz",
+    "source": "qs",
+    "rows": 19320
+  },
+  {
+    "name": "Kazan Federal University",
+    "source": "qs",
+    "rows": 13219
+  },
+  {
+    "name": "Institut National des Sciences Appliquées de Lyon",
+    "source": "qs",
+    "rows": 0
+  },
+  {
+    "name": "Kazakh National Technical University",
+    "source": "qs",
+    "rows": 0
+  },
+  {
+    "name": "Birkbeck, University of London",
+    "source": "qs",
+    "rows": 0
+  },
+  {
+    "name": "Masaryk University",
+    "source": "qs",
+    "rows": 0
+  },
+  {
+    "name": "National Research University Higher School of Economics",
+    "source": "qs",
+    "rows": 0
+  },
+  {
+    "name": "American University in Cairo",
+    "source": "qs",
+    "rows": 0
+  },
+  {
+    "name": "University of Graz",
+    "source": "qs",
+    "rows": 10197
+  },
+  {
+    "name": "Concordia University",
+    "source": "qs",
+    "rows": 1
+  },
+  {
+    "name": "Oxford Brookes University",
+    "source": "qs",
+    "rows": 5136
+  },
+  {
+    "name": "Technion – Israel Institute of Technology",
+    "source": "qs",
+    "rows": 28977
+  },
+  {
+    "name": "Boğaziçi University",
+    "source": "qs",
+    "rows": 8198
+  },
+  {
+    "name": "Czech Technical University in Prague",
+    "source": "qs",
+    "rows": 0
+  },
+  {
+    "name": "University of Limerick",
+    "source": "qs",
+    "rows": 11011
+  },
+  {
+    "name": "National Taipei University of Technology",
+    "source": "qs",
+    "rows": 10779
+  },
+  {
+    "name": "Bogor Agricultural University",
+    "source": "qs",
+    "rows": 4665
+  },
+  {
+    "name": "University of Science and Technology Beijing",
+    "source": "qs",
+    "rows": 0
+  },
+  {
+    "name": "Tomsk State University",
+    "source": "qs",
+    "rows": 14062
+  },
+  {
+    "name": "IE University",
+    "source": "qs",
+    "rows": 900
+  },
+  {
+    "name": "Vilnius University",
+    "source": "qs",
+    "rows": 12158
+  },
+  {
+    "name": "Singapore University of Technology and Design",
+    "source": "qs",
+    "rows": 0
+  },
+  {
+    "name": "Novosibirsk State University",
+    "source": "qs",
+    "rows": 19336
+  },
+  {
+    "name": "University of Giessen",
+    "source": "qs",
+    "rows": 0
+  },
+  {
+    "name": "University of Montpellier",
+    "source": "qs",
+    "rows": 0
+  },
+  {
+    "name": "National Taiwan Normal University",
+    "source": "qs",
+    "rows": 8518
+  },
+  {
+    "name": "Moscow Institute of Physics and Technology",
+    "source": "qs",
+    "rows": 0
+  },
+  {
+    "name": "University of Strasbourg",
+    "source": "qs",
+    "rows": 0
+  },
+  {
+    "name": "University of Santiago, Chile",
+    "source": "qs",
+    "rows": 0
+  },
+  {
+    "name": "University of Tampere",
+    "source": "qs",
+    "rows": 0
+  },
+  {
+    "name": "University of Seville",
+    "source": "qs",
+    "rows": 0
+  },
+  {
+    "name": "Kobe University",
+    "source": "qs",
+    "rows": 21463
+  },
+  {
+    "name": "University of Raman Ruhr",
+    "source": "qs",
+    "rows": 0
+  },
+  {
+    "name": "University at Buffalo, State University of New York",
+    "source": "qs",
+    "rows": 0
+  },
+  {
+    "name": "Ben-Gurion University of the Negev",
+    "source": "qs",
+    "rows": 0
+  },
+  {
+    "name": "Johannes Kepler University Linz",
+    "source": "qs",
+    "rows": 10928
+  },
+  {
+    "name": "Hiroshima University",
+    "source": "qs",
+    "rows": 25767
+  },
+  {
+    "name": "Ajman University of Science and Technology",
+    "source": "qs",
+    "rows": 0
+  },
+  {
+    "name": "Bilkent University",
+    "source": "qs",
+    "rows": 0
+  },
+  {
+    "name": "Indian Institute of Technology Indore",
+    "source": "qs",
+    "rows": 0
+  },
+  {
+    "name": "Royal Holloway, University of London",
+    "source": "qs",
+    "rows": 0
+  },
+  {
+    "name": "Pontifical Catholic University of Argentina",
+    "source": "qs",
+    "rows": 0
+  },
+  {
+    "name": "University of Tennessee",
+    "source": "qs",
+    "rows": 0
+  },
+  {
+    "name": "American University of Ras Al Khaimah",
+    "source": "qs",
+    "rows": 650
+  },
+  {
+    "name": "National Sun Yat-sen University",
+    "source": "qs",
+    "rows": 13757
+  },
+  {
+    "name": "University of Hawaii at Manoa",
+    "source": "qs",
+    "rows": 0
+  },
+  {
+    "name": "Central University",
+    "source": "qs",
+    "rows": 0
+  },
+  {
+    "name": "Isfahan University of Technology",
+    "source": "qs",
+    "rows": 13859
+  },
+  {
+    "name": "São Paulo State University",
+    "source": "qs",
+    "rows": 0
+  },
+  {
+    "name": "Central Queensland University",
+    "source": "qs",
+    "rows": 5976
+  },
+  {
+    "name": "National Research Nuclear University MEPhI",
+    "source": "qs",
+    "rows": 0
+  },
+  {
+    "name": "University of Costa Rica",
+    "source": "qs",
+    "rows": 0
+  },
+  {
+    "name": "University of California, Riverside",
+    "source": "qs",
+    "rows": 25201
+  },
+  {
+    "name": "Paris-Saclay University",
+    "source": "rank",
+    "rows": 0
+  },
+  {
+    "name": "University of California, San Francisco",
+    "source": "rank",
+    "rows": 82221
+  },
+  {
+    "name": "University of Michigan, Ann Arbor",
+    "source": "rank",
+    "rows": 0
+  },
+  {
+    "name": "Northwestern University (Evanston)",
+    "source": "rank",
+    "rows": 0
+  },
+  {
+    "name": "Paris Sciences et Lettres University",
+    "source": "rank",
+    "rows": 0
+  },
+  {
+    "name": "University of Wisconsin–Madison",
+    "source": "rank",
+    "rows": 80528
+  },
+  {
+    "name": "University of Minnesota, Twin Cities",
+    "source": "rank",
+    "rows": 85724
+  },
+  {
+    "name": "UT Southwestern Medical Center",
+    "source": "rank",
+    "rows": 0
+  },
+  {
+    "name": "Université Paris Descartes",
+    "source": "rank",
+    "rows": 0
+  },
+  {
+    "name": "The University of Hong Kong",
+    "source": "rank",
+    "rows": 0
+  },
+  {
+    "name": "The Ohio State University, Columbus",
+    "source": "rank",
+    "rows": 0
+  },
+  {
+    "name": "Technion - Israel Institute of Technology",
+    "source": "rank",
+    "rows": 28977
+  },
+  {
+    "name": "MD Anderson Cancer Center, University of Texas",
+    "source": "rank",
+    "rows": 0
+  },
+  {
+    "name": "Erasmus University",
+    "source": "rank",
+    "rows": 0
+  },
+  {
+    "name": "Mayo Clinic College of Medicine and Science",
+    "source": "rank",
+    "rows": 0
+  },
+  {
+    "name": "Pennsylvania State University, Park",
+    "source": "rank",
+    "rows": 0
+  },
+  {
+    "name": "La Sapienza University of Rome",
+    "source": "rank",
+    "rows": 0
+  },
+  {
+    "name": "University of Grenoble",
+    "source": "rank",
+    "rows": 0
+  },
+  {
+    "name": "Université libre de Bruxelles",
+    "source": "rank",
+    "rows": 27351
+  },
+  {
+    "name": "Soochow University",
+    "source": "rank",
+    "rows": 1401
+  },
+  {
+    "name": "University of Mainz",
+    "source": "rank",
+    "rows": 0
+  },
+  {
+    "name": "Wageningen University",
+    "source": "rank",
+    "rows": 9321
+  },
+  {
+    "name": "Capital Medical University",
+    "source": "rank",
+    "rows": 57584
+  },
+  {
+    "name": "KU Leuven (French)",
+    "source": "rank",
+    "rows": 0
+  },
+  {
+    "name": "China University of Geosciences (Wuhan)",
+    "source": "rank",
+    "rows": 0
+  },
+  {
+    "name": "University of Lyon 1",
+    "source": "rank",
+    "rows": 0
+  },
+  {
+    "name": "Kiel University",
+    "source": "rank",
+    "rows": 0
+  },
+  {
+    "name": "King Abdullah University of Science and Technology",
+    "source": "rank",
+    "rows": 0
+  },
+  {
+    "name": "Nanchang University",
+    "source": "rank",
+    "rows": 33583
+  },
+  {
+    "name": "Nanjing Medical University",
+    "source": "rank",
+    "rows": 47268
+  },
+  {
+    "name": "Nanjing University of Aeronautics and Astronautics",
+    "source": "rank",
+    "rows": 0
+  },
+  {
+    "name": "Newcastle University (UK)",
+    "source": "rank",
+    "rows": 39283
+  },
+  {
+    "name": "North Carolina State University at Raleigh",
+    "source": "rank",
+    "rows": 0
+  },
+  {
+    "name": "Northeastern University (Boston)",
+    "source": "rank",
+    "rows": 0
+  },
+  {
+    "name": "Northeastern University (Shenyang)",
+    "source": "rank",
+    "rows": 1
+  },
+  {
+    "name": "Peking Union Medical College",
+    "source": "rank",
+    "rows": 46912
+  },
+  {
+    "name": "Ruhr-University Bochum",
+    "source": "rank",
+    "rows": 33172
+  },
+  {
+    "name": "University of Auckland (New Zealand)",
+    "source": "rank",
+    "rows": 0
+  },
+  {
+    "name": "University of Massachusetts Medical School",
+    "source": "rank",
+    "rows": 0
+  },
+  {
+    "name": "Universidad Nacional Autónoma de México",
+    "source": "rank",
+    "rows": 57933
+  },
+  {
+    "name": "University of Leipzig",
+    "source": "rank",
+    "rows": 0
+  },
+  {
+    "name": "University of Lorraine",
+    "source": "rank",
+    "rows": 0
+  },
+  {
+    "name": "University of Missouri-Columbia",
+    "source": "rank",
+    "rows": 28481
+  },
+  {
+    "name": "University of Tennessee, Knoxville",
+    "source": "rank",
+    "rows": 35046
+  },
+  {
+    "name": "Albert Einstein College of Medicine",
+    "source": "rank",
+    "rows": 18995
+  },
+  {
+    "name": "Anhui University",
+    "source": "rank",
+    "rows": 19363
+  },
+  {
+    "name": "Beijing University of Technology",
+    "source": "rank",
+    "rows": 33260
+  },
+  {
+    "name": "China University of Geosciences (Beijing)",
+    "source": "rank",
+    "rows": 0
+  },
+  {
+    "name": "China University of Petroleum (East China)",
+    "source": "rank",
+    "rows": 0
+  },
+  {
+    "name": "East China University of Science and Technology",
+    "source": "rank",
+    "rows": 0
+  },
+  {
+    "name": "Guangdong University of Technology",
+    "source": "rank",
+    "rows": 26962
+  },
+  {
+    "name": "Guangxi University",
+    "source": "rank",
+    "rows": 25454
+  },
+  {
+    "name": "Indiana University-Purdue University Indianapolis",
+    "source": "rank",
+    "rows": 0
+  },
+  {
+    "name": "Nanjing Tech University",
+    "source": "rank",
+    "rows": 27443
+  },
+  {
+    "name": "Nanjing University of Information Science and Technology",
+    "source": "rank",
+    "rows": 0
+  },
+  {
+    "name": "Nanjing University of Science and Technology",
+    "source": "rank",
+    "rows": 0
+  },
+  {
+    "name": "Northwest A&F University",
+    "source": "rank",
+    "rows": 1
+  },
+  {
+    "name": "Northwest University (Xi'an)",
+    "source": "rank",
+    "rows": 21629
+  },
+  {
+    "name": "Ocean University of China",
+    "source": "rank",
+    "rows": 30340
+  },
+  {
+    "name": "University of Toulouse III",
+    "source": "rank",
+    "rows": 0
+  },
+  {
+    "name": "POSTECH",
+    "source": "rank",
+    "rows": 3448
+  },
+  {
+    "name": "Shanghai University of Science and Technology",
+    "source": "rank",
+    "rows": 0
+  },
+  {
+    "name": "State University of New York at Stony Brook",
+    "source": "rank",
+    "rows": 0
+  },
+  {
+    "name": "The George Washington University",
+    "source": "rank",
+    "rows": 0
+  },
+  {
+    "name": "University of Toulouse I",
+    "source": "rank",
+    "rows": 0
+  },
+  {
+    "name": "University of Athens",
+    "source": "rank",
+    "rows": 0
+  },
+  {
+    "name": "University of Texas Health Science Center at Houston",
+    "source": "rank",
+    "rows": 0
+  },
+  {
+    "name": "University of Connecticut-Storrs",
+    "source": "rank",
+    "rows": 0
+  },
+  {
+    "name": "University of Jena",
+    "source": "rank",
+    "rows": 0
+  },
+  {
+    "name": "University of Kansas at Lawrence",
+    "source": "rank",
+    "rows": 0
+  },
+  {
+    "name": "University of Lille",
+    "source": "rank",
+    "rows": 0
+  },
+  {
+    "name": "University of Maryland, Baltimore",
+    "source": "rank",
+    "rows": 31199
+  },
+  {
+    "name": "University of Regensburg",
+    "source": "rank",
+    "rows": 18426
+  },
+  {
+    "name": "University of the Basque Country",
+    "source": "rank",
+    "rows": 0
+  },
+  {
+    "name": "University of the Golden Coast",
+    "source": "rank",
+    "rows": 0
+  },
+  {
+    "name": "University of Ulm",
+    "source": "rank",
+    "rows": 0
+  },
+  {
+    "name": "University of Victoria (Canada)",
+    "source": "rank",
+    "rows": 0
+  },
+  {
+    "name": "Vrije Universiteit Brussel (Flemish)",
+    "source": "rank",
+    "rows": 0
+  },
+  {
+    "name": "Yangzhou University",
+    "source": "rank",
+    "rows": 30326
+  },
+  {
+    "name": "Zhejiang University of Technology",
+    "source": "rank",
+    "rows": 27759
+  },
+  {
+    "name": "Bayreuth University",
+    "source": "rank",
+    "rows": 0
+  },
+  {
+    "name": "China Medical University",
+    "source": "rank",
+    "rows": 25164
+  },
+  {
+    "name": "China University of Mining and Technology",
+    "source": "rank",
+    "rows": 0
+  },
+  {
+    "name": "City University of New York Graduate Center",
+    "source": "rank",
+    "rows": 0
+  },
+  {
+    "name": "Guangzhou Medical University",
+    "source": "rank",
+    "rows": 22950
+  },
+  {
+    "name": "Hainan University",
+    "source": "rank",
+    "rows": 16959
+  },
+  {
+    "name": "Hefei University of Technology",
+    "source": "rank",
+    "rows": 28153
+  },
+  {
+    "name": "Henan University",
+    "source": "rank",
+    "rows": 19330
+  },
+  {
+    "name": "Hohai University",
+    "source": "rank",
+    "rows": 31925
+  },
+  {
+    "name": "Indian Institute of Science and Technology",
+    "source": "rank",
+    "rows": 0
+  },
+  {
+    "name": "Istanbul University",
+    "source": "rank",
+    "rows": 17996
+  },
+  {
+    "name": "Jagiellonian University in Krakow",
+    "source": "rank",
+    "rows": 0
+  },
+  {
+    "name": "Kunming University of Science and Technology",
+    "source": "rank",
+    "rows": 0
+  },
+  {
+    "name": "Kyungpook National University",
+    "source": "rank",
+    "rows": 0
+  },
+  {
+    "name": "Louisiana State University - Baton Rouge",
+    "source": "rank",
+    "rows": 0
+  },
+  {
+    "name": "Nanjing Normal University",
+    "source": "rank",
+    "rows": 21389
+  },
+  {
+    "name": "Nanjing University of Posts and Telecommunications",
+    "source": "rank",
+    "rows": 0
+  },
+  {
+    "name": "National University of Defense Technology",
+    "source": "rank",
+    "rows": 0
+  },
+  {
+    "name": "Ningbo University",
+    "source": "rank",
+    "rows": 27213
+  },
+  {
+    "name": "Okinawa Institute of Science and Technology",
+    "source": "rank",
+    "rows": 0
+  },
+  {
+    "name": "Polytechnic University of Valencia",
+    "source": "rank",
+    "rows": 0
+  },
+  {
+    "name": "Pusan National University",
+    "source": "rank",
+    "rows": 28937
+  },
+  {
+    "name": "Saarland University",
+    "source": "rank",
+    "rows": 12636
+  },
+  {
+    "name": "South China Agricultural University",
+    "source": "rank",
+    "rows": 22078
+  },
+  {
+    "name": "Southwest Jiaotong University",
+    "source": "rank",
+    "rows": 33994
+  },
+  {
+    "name": "State University of New York at Buffalo",
+    "source": "rank",
+    "rows": 0
+  },
+  {
+    "name": "Tehran University of Medical Sciences",
+    "source": "rank",
+    "rows": 34712
+  },
+  {
+    "name": "Texas Tech University",
+    "source": "rank",
+    "rows": 19881
+  },
+  {
+    "name": "University of Newcastle, Australia",
+    "source": "rank",
+    "rows": 0
+  },
+  {
+    "name": "University of South Carolina - Columbia",
+    "source": "rank",
+    "rows": 24692
+  },
+  {
+    "name": "University of Texas Medical Branch - Galveston",
+    "source": "rank",
+    "rows": 11382
+  },
+  {
+    "name": "University of Alabama at Birmingham",
+    "source": "rank",
+    "rows": 0
+  },
+  {
+    "name": "University of Bari",
+    "source": "rank",
+    "rows": 0
+  },
+  {
+    "name": "University of Côte d'Azur",
+    "source": "rank",
+    "rows": 0
+  },
+  {
+    "name": "University of Halle-Wittenberg",
+    "source": "rank",
+    "rows": 0
+  },
+  {
+    "name": "University of Rennes",
+    "source": "rank",
+    "rows": 0
+  },
+  {
+    "name": "University of Szeged",
+    "source": "rank",
+    "rows": 0
+  },
+  {
+    "name": "University of Ulsan",
+    "source": "rank",
+    "rows": 26217
+  },
+  {
+    "name": "University of Vermont",
+    "source": "rank",
+    "rows": 15190
+  },
+  {
+    "name": "University of Zagreb",
+    "source": "rank",
+    "rows": 31046
+  },
+  {
+    "name": "University of Texas Health Science Center - San Antonio",
+    "source": "rank",
+    "rows": 0
+  },
+  {
+    "name": "Utah State University",
+    "source": "rank",
+    "rows": 12655
+  },
+  {
+    "name": "Washington State University - Pullman",
+    "source": "rank",
+    "rows": 0
+  },
+  {
+    "name": "York University (Toronto)",
+    "source": "rank",
+    "rows": 0
+  },
+  {
+    "name": "Yunnan University",
+    "source": "rank",
+    "rows": 17290
+  }
+]
