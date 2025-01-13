@@ -68,7 +68,6 @@ class WosDataRecursion extends WosBase {
         await this.pullData(page, name, year, startRow, endRow);
         const downTrue = await isNotDirEmpty(`${downPath}`, 150);
         if (downTrue) {
-            // console.log(`[${this.getTime()}] 处理完成: ${name} - ${year}年  第${startRow}~${endRow}行`);
             const downWin = await page.$('app-input-route:nth-of-type(2) span.mat-button-wrapper > span');
             if (downWin) {
                 await downWin.click();
@@ -82,18 +81,15 @@ class WosDataRecursion extends WosBase {
 
     async downloadData(page, uniName, year, start, end, retryCount = 10) {
         try {
-            let errData = JSON.parse(fs.readFileSync(ERR_JSON, 'utf8'));
-            const matchingItem = errData.find(item => item.name == uniName && item.year == year && item.start == start && item.end == end);
-
             console.log(`[${this.getTime()}] ****下载开始：${uniName}：${year}： ${start} to ${end}`);
             await this.processBatch(page, uniName, year, start, end);
-            // todo 暂时调用模拟处理方法
             // await this.processBatch1();
             console.log(`[${this.getTime()}] ****下载完成：${uniName}：${year}： ${start} to ${end}`);
             // 2.处理成功后，更新处理进度（成功行数，及处理到哪一行）
             await this.updateRecord(RECORD_JSON, uniName, year, 0, end - start + 1, 0, end);
-            // 下载成功后，从ERR_JSON中删除该错误信息（如果有）
-            // 错误大于3次的，会跳过不处理，所以只删除错误次数小于3次的
+            // 下载成功后，删除错误日志
+            let errData = JSON.parse(fs.readFileSync(ERR_JSON, 'utf8'));
+            const matchingItem = errData.find(item => item.name == uniName && item.year == year && item.start == start && item.end == end);
             if (matchingItem && matchingItem.errNums < 3) {
                 errData = errData.filter(item => item !== matchingItem);
                 fs.writeFileSync(ERR_JSON, JSON.stringify(errData, null, 2));
@@ -101,7 +97,7 @@ class WosDataRecursion extends WosBase {
         } catch (error) {
             console.log(`[${this.getTime()}] 下载出错： ${start} to ${end}:`, error);
 
-            // 如果处理行数为1，记录错误信息，并抛出异常，如果错误超过3次，则跳过该错误
+            // 递归处理，直到处理行数为1，记录日志并重试，错误次数超过3次则跳过
             if (end == start) {
                 const errObj = { 'name': uniName, 'year': year, 'start': start, 'end': end, errNums: 0 };
                 if (!fs.existsSync(ERR_JSON)) {
@@ -114,10 +110,9 @@ class WosDataRecursion extends WosBase {
                     const matchingItem = errData.find(item => item.name == uniName && item.year == year && item.start == start && item.end == end);
 
                     if (matchingItem) {
-                        // matchingItem.errNums++;
                         if (matchingItem.errNums == 3) {
                             console.log(`[${this.getTime()}] 错误次数超过3次，跳过。`);
-                            // 3.超过3次错误，更新处理进度（失败行数）
+                            // 3.超过3次错误，更新处理进度（记录失败的行数，以及处理到哪一行）
                             await this.updateRecord(RECORD_JSON, uniName, year, 0, 0, end - start + 1, end);
                             return;
                         } else {
@@ -134,32 +129,29 @@ class WosDataRecursion extends WosBase {
                 }
             }
 
+            // 如果下载失败，减少下载条数并重试
             if (retryCount > 0) {
-                // 如果下载失败，减少下载条数并重试
                 const newEnd = start + Math.floor((end - start) / 2);
-
                 console.log(`[${this.getTime()}] 缩小下载范围重试: ${start} to ${newEnd}`);
                 await this.downloadData(page, uniName, year, start, newEnd, retryCount - 1);
                 await this.downloadData(page, uniName, year, newEnd + 1, end, retryCount - 1);
             } else {
-                // fs.appendFileSync('data.txt', `下载失败--2222222： ${level}： ${start}~${end}\n`);
-                // console.error(`下载失败--2222222： ${start} to ${end}:`);
+                // 不会到达分支
                 throw error;
             }
-        } finally {
         }
     }
 
-    // {
-    //     name: '清华大学',
-    //     year: '2015'/'2015-2024',
-    // }
     async process(page) {
-        // 读取json文件，获取要处理的数据集（大学，年份，要处理的行数）
+        // 读取要处理的大学及年份（json格式如下）
+        // {
+        //     name: '清华大学',
+        //     year: '2015'/'2015-2024',
+        // }
         const jsonData = await fs.promises.readFile(this.jsonfilepath, 'utf8');
         let data = JSON.parse(jsonData);
 
-        // 读取record.json文件，获取上次处理的状态
+        // 读取进度
         let recordData = [];
         if (fs.existsSync(RECORD_JSON)) {
             recordData = JSON.parse(fs.readFileSync(RECORD_JSON, 'utf8'));
@@ -171,6 +163,7 @@ class WosDataRecursion extends WosBase {
                 : { start: item.year, end: item.year };
 
             for (let year = start; year <= end; year++) {
+                // 跳过已处理的年份
                 let matchingItem;
                 if (recordData)
                     matchingItem = recordData.find(v => v.name == item.name && v.year == year);
@@ -189,14 +182,15 @@ class WosDataRecursion extends WosBase {
 
                 // const allRows = 5004;
                 if (!matchingItem)
-                    // 1.首次获取总行数，并记录（进度：成功数，失败数，以及处理到那一行都初始化为0）
+                    // 1.首次获取总行数，更新到进度文件（进度：成功数，失败数，以及处理到那一行都初始化为0）
                     await this.updateRecord(RECORD_JSON, item.name, year, allRows, 0, 0, 0);
+
+                // TODO：如果总行数变化，是否需要重新处理？
 
                 // 开始导出
                 let startIndex = matchingItem ? matchingItem.end ? matchingItem.end + 1 : 1 : 1;
                 while (startIndex <= allRows) {
                     const endIndex = Math.min(startIndex + this.exportNumsByOne - 1, allRows);
-
                     await this.downloadData(page, item.name, year, startIndex, endIndex);
                     startIndex = endIndex + 1;
                 }
