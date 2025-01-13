@@ -2,8 +2,8 @@ const path = require('path');
 const { getRandomMs, sleep } = require('./utils')
 
 /**
- * 
- * @param {每次第一次打开网站，先设定基本的筛选条件} page 
+ * 每次第一次打开网站，先设定基本的筛选条件
+ * @param {*} page 
  * @param {*} name 
  * @param {*} year 
  */
@@ -52,8 +52,8 @@ async function setBaseFilter(page, name = '', year = '2015-2024') {
 
 
 /**
- * 
- * @param {排除} page 
+ * 排除文献类型
+ * @param {*} page 
  * @returns 
  */
 async function setDocumentType(page) {
@@ -126,7 +126,9 @@ async function setDocumentType(page) {
     }
 }
 
-
+/**
+ * 获取总行数
+ */
 async function getCountByNameAndYear(page) {
     await sleep(() => getRandomMs(3000, 5000));
     await page.waitForSelector('.tab-results-count', { timeout: 15000 });
@@ -141,6 +143,9 @@ async function getCountByNameAndYear(page) {
     return resultsCount;
 }
 
+/**
+ * 导出数据
+ */
 async function pullData(page, name, year, startRow, endRow) {
     await sleep(() => getRandomMs(1000, 2000));
     await page.locator('app-export-menu span.mat-button-wrapper').click();
@@ -183,6 +188,9 @@ async function setFilterNameAndYear(page, name, year) {
     await page.locator('button.search > span.mat-button-wrapper').click();
 }
 
+/**
+ * 设置下载目录
+ */
 async function setDownDir(page, dir) {
     const downloadPath = path.resolve(__dirname, dir);
     const client = await page.target().createCDPSession();
