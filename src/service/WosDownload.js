@@ -4,7 +4,6 @@ const xlsx = require('xlsx');
 const { sleep, getRandomMs, isNotDirEmpty } = require('../utils/utils');
 const { TimeoutError } = require('puppeteer');
 
-const sequelize = require('./database');
 const { RecordDao, FailDao } = require('../dao/RecordDao');
 
 class WosDownload extends WosBase {
