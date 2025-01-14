@@ -62,7 +62,7 @@ class WosDownload extends WosBase {
 
             // 下载成功后，删除错误日志
             const matchingItem = await FailDao.findByObject({ name: uniName, year: year, start: start, end: end });
-            if (matchingItem && matchingItem.errNums < 3) {
+            if (matchingItem) {
                 await FailDao.delete(matchingItem.id);
             }
         } catch (error) {

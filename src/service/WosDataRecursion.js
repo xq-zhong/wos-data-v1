@@ -91,7 +91,7 @@ class WosDataRecursion extends WosBase {
             // 下载成功后，删除错误日志
             let errData = JSON.parse(fs.readFileSync(ERR_JSON, 'utf8'));
             const matchingItem = errData.find(item => item.name == uniName && item.year == year && item.start == start && item.end == end);
-            if (matchingItem && matchingItem.errNums < 3) {
+            if (matchingItem) {
                 errData = errData.filter(item => item !== matchingItem);
                 fs.writeFileSync(ERR_JSON, JSON.stringify(errData, null, 2));
             }
