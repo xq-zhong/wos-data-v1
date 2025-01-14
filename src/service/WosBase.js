@@ -65,6 +65,28 @@ class WosBase {
         this._uniYearDefault = value;
     }
 
+    async test() {
+        console.log(`[${this.getTime()}] start`);
+        const browser = await puppeteer.launch({ headless: false });
+        const page = {};
+        try {
+            await this.process(page, false);
+        } catch (err) {
+            console.log('发生错误:', err);
+            // logToFile('发生错误:', false, err = err);
+            const retryTime = getRandomMs(1000 * 1, 1000 * 3);
+            console.log(`等待 ${retryTime / 1000} 秒后重启...`);
+            setTimeout(() => {
+                this.test().catch(e => {
+                    console.error("重试时发生错误:", e);
+                });
+            }, retryTime);
+        } finally {
+            if (browser && browser.close)
+                await browser.close();
+        }
+    }
+
     async run() {
         console.log(`[${this.getTime()}] start`);
         const browser = await puppeteer.launch({ headless: false });

@@ -4,7 +4,8 @@ const xlsx = require('xlsx');
 const { sleep, getRandomMs, isNotDirEmpty } = require('../utils/utils');
 const { TimeoutError } = require('puppeteer');
 
-const { RecordDao, FailDao } = require('../dao/RecordDao');
+const { RecordDao, FailDao } = require('../database/dao');
+const sequelize = require('../database');
 
 class WosDownload extends WosBase {
     constructor() {
@@ -14,14 +15,14 @@ class WosDownload extends WosBase {
         // 输出文件路径
         this.outputUni = `E:/wos-0108-1`;
         // json文件路径（定义了要处理的大学及年份等）
-        this.jsonfilepath = './data/test.json';
+        this.jsonfilepath = '../data/test.json';
     }
 
     async processBatch1(page, name, year, startRow, endRow) {
         return new Promise((resolve, reject) => {
             setTimeout(() => {
                 // 模拟成功率 80%
-                if (Math.random() < 0.5) resolve(true);
+                if (Math.random() < 0.2) resolve(true);
                 else reject(new Error("Processing failed"));
             }, 100);
         });
@@ -54,15 +55,15 @@ class WosDownload extends WosBase {
             // 2.处理成功后，更新处理进度（成功行数，及处理到哪一行）
             // await this.updateRecord(RECORD_JSON, uniName, year, 0, end - start + 1, 0, end);
 
-            const record = await RecordDao.findRecordByNameAndYear({ name: uniName, year: year });
+            const record = await RecordDao.findRecordByNameAndYear(uniName, year);
             record.successRows += end - start + 1;
             record.end = end;
-            await RecordDao.updateById(record.id, record);
+            await RecordDao.updateById(record.id, record.dataValues);
 
             // 下载成功后，删除错误日志
-            const matchingItem = FailDao.findByObject({ name: uniName, year: year, start: start, end: end });
+            const matchingItem = await FailDao.findByObject({ name: uniName, year: year, start: start, end: end });
             if (matchingItem && matchingItem.errNums < 3) {
-                await FailDao.deleteById(matchingItem.id);
+                await FailDao.delete(matchingItem.id);
             }
         } catch (error) {
             // if (error instanceof TimeoutError) {
@@ -70,25 +71,24 @@ class WosDownload extends WosBase {
 
             // 递归处理，直到处理行数为1，记录日志并重试，错误次数超过3次则跳过
             if (end == start) {
-                const errObj = { 'name': uniName, 'year': year, 'start': start, 'end': end, errNums: 0 };
-                const matchingItem = FailDao.findByObject({ name: uniName, year: year, start: start, end: end });
+                const matchingItem = await FailDao.findByObject({ name: uniName, year: year, start: start, end: end });
                 if (!matchingItem) {
-                    errObj.errNums = 1;
+                    const errObj = { 'name': uniName, 'year': year, 'start': start, 'end': end, errNums: 1 };
                     await FailDao.create(errObj);
                 } else {
                     if (matchingItem.errNums == 3) {
                         console.log(`[${this.getTime()}] 错误次数超过3次，跳过。`);
                         // 3.超过3次错误，更新处理进度（记录失败的行数，以及处理到哪一行）
                         // await this.updateRecord(RECORD_JSON, uniName, year, 0, 0, end - start + 1, end);
-                        const record = await RecordDao.findRecordByNameAndYear({ name: uniName, year: year });
+                        const record = await RecordDao.findRecordByNameAndYear(uniName, year);
                         record.failsRows += end - start + 1;
                         record.end = end;
-                        await RecordDao.updateById(record.id, record);
+                        await RecordDao.updateById(record.id, record.dataValues);
 
                         return;
                     } else {
                         matchingItem.errNums++;
-                        await FailDao.updateById(matchingItem.id, matchingItem);
+                        await FailDao.updateById(matchingItem.id, matchingItem.dataValues);
                         throw error;
                     }
                 }
@@ -116,6 +116,8 @@ class WosDownload extends WosBase {
         //     name: '清华大学',
         //     year: '2015'/'2015-2024',
         // }
+        await sequelize.sync({ force: false });
+
         const jsonData = await fs.promises.readFile(this.jsonfilepath, 'utf8');
         let data = JSON.parse(jsonData);
 
@@ -126,8 +128,7 @@ class WosDownload extends WosBase {
 
             for (let year = start; year <= end; year++) {
                 // 跳过已处理的年份
-                let matchingItem = RecordDao.findRecordByNameAndYear({ name: item.name, year: year });
-
+                const matchingItem = await RecordDao.findRecordByNameAndYear(item.name, year);
                 if (matchingItem && matchingItem.successRows + matchingItem.failsRows == matchingItem.rows) {
                     continue;
                 }
@@ -142,18 +143,12 @@ class WosDownload extends WosBase {
                 const allRows = await this.getCountByNameAndYear(page);
 
                 // const allRows = 5004;
-                if (!matchingItem)
+                if (!matchingItem) {
                     // 1.首次获取总行数，更新到进度文件（进度：成功数，失败数，以及处理到那一行都初始化为0）
                     // await this.updateRecord(RECORD_JSON, item.name, year, allRows, 0, 0, 0);
-                    await RecordDao.create(
-                        {
-                            name: item.name,
-                            year: year,
-                            rows: allRows,
-                            successRows: 0,
-                            failsRows: 0,
-                            end: 0
-                        });
+                    const newRecord = await RecordDao.create({ name: item.name, year: year, rows: allRows, successRows: 0, failsRows: 0, end: 0 });
+                    console.log(newRecord);
+                }
 
                 // TODO：如果总行数变化，是否需要重新处理？
 
