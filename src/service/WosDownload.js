@@ -40,6 +40,8 @@ class WosDownload extends WosBase {
                 await downWin.click();
             }
         } else {
+            //删除downPath文件夹
+            await this.deleteDir(downPath);
             // 超时则关闭导出窗口
             await page.locator('app-input-route:nth-of-type(2) span.mat-button-wrapper > span').click();
             throw new TimeoutErrorError('下载超时，请重试。')
